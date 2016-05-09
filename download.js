@@ -34,7 +34,15 @@ function getSystems () {
               Promise.all(gbfs.data.en.feeds.map((feed) => {
                 return fetch(feed.url)
                   .then((res) => res.json())
-                  .then((data) => write(system.id, feed.name, data))
+                  .then((data) => {
+                    if (feed.name === 'station_information') {
+                      return Promise.all([
+                        write(system.id, 'geojson', gbfs2geojson(data)),
+                        write(system.id, feed.name, data)
+                      ])
+                    }
+                    return write(system.id, feed.name, data)
+                  })
                   .catch((e) => {
                     console.error(e.stack)
                     throw e
@@ -60,4 +68,23 @@ function write (id, name, data) {
       resolve()
     })
   })
+}
+
+function gbfs2geojson (station_information) {
+  return {
+    type: 'FeatureCollection',
+    features: station_information.data.stations.map(function (station) {
+      return {
+        type: 'Feature',
+        properties: station,
+        geometry: {
+          type: 'Point',
+          coordinates: [
+            station.lon,
+            station.lat
+          ]
+        }
+      }
+    })
+  }
 }

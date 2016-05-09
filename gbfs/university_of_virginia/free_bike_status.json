@@ -1,5 +1,5 @@
 {
-	"last_updated": 1462825177,
+	"last_updated": 1462827934,
 	"ttl": 60,
 	"data": {
 		"bikes": [
@@ -8,14 +8,6 @@
 				"name": "084 UBike",
 				"lon": -78.49793166666667,
 				"lat": 38.03533,
-				"is_reserved": 0,
-				"is_disabled": 0
-			},
-			{
-				"bike_id": "bike_4181",
-				"name": "025 UBike",
-				"lon": -78.51241833333333,
-				"lat": 38.03442166666667,
 				"is_reserved": 0,
 				"is_disabled": 0
 			}

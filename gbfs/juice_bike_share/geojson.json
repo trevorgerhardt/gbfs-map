@@ -1,0 +1,1019 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_483",
+				"name": "OUC Headquarters sponsored by OUC",
+				"region_id": "region_85",
+				"lon": -81.37922197580338,
+				"lat": 28.536663311743688,
+				"address": "500, South Orange Avenue, Downtown Orlando, Orlando, Florida",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.37922197580338,
+					28.536663311743688
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_485",
+				"name": "SkyHouse Station",
+				"region_id": "region_85",
+				"lon": -81.3771790491862,
+				"lat": 28.547349588319,
+				"address": "345 North Magnolia Avenue, Orlando",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.3771790491862,
+					28.547349588319
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_486",
+				"name": "Gertrude's Walk Station",
+				"region_id": "region_85",
+				"lon": -81.3811079975394,
+				"lat": 28.5420572576701,
+				"address": "Garland Avenue Lot, 109, Pine Street, Downtown Orlando, Orlando, Florida",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.3811079975394,
+					28.5420572576701
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_766",
+				"name": "Washington Street",
+				"region_id": "region_85",
+				"lon": -81.3762507593795,
+				"lat": 28.5435905534336,
+				"address": "170 East Washington Street, Orlando",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.3762507593795,
+					28.5435905534336
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_767",
+				"name": "South Street ",
+				"region_id": "region_85",
+				"lon": -81.381024851329,
+				"lat": 28.5383814847127,
+				"address": "158-198 West South Street, Orlando",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.381024851329,
+					28.5383814847127
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_771",
+				"name": "College Park South",
+				"region_id": "region_85",
+				"lon": -81.3894259523397,
+				"lat": 28.5702728375607,
+				"address": "2100 Edgewater Drive, Orlando",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.3894259523397,
+					28.5702728375607
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_772",
+				"name": "Orange County Admin",
+				"region_id": "region_85",
+				"lon": -81.3757555636453,
+				"lat": 28.539498235947,
+				"address": "267 South Rosalind Avenue, Orlando",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.3757555636453,
+					28.539498235947
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_788",
+				"name": "Orange Avenue",
+				"region_id": "region_85",
+				"lon": -81.37907311320303,
+				"lat": 28.544351806905766,
+				"address": "180 North Orange Avenue, Orlando",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.37907311320303,
+					28.544351806905766
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_790",
+				"name": "Mills50",
+				"region_id": "region_85",
+				"lon": -81.3654904849113,
+				"lat": 28.5539368192447,
+				"address": "714 North Thornton Avenue, Orlando",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.3654904849113,
+					28.5539368192447
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_804",
+				"name": "Thornton Park",
+				"region_id": "region_85",
+				"lon": -81.3686615275894,
+				"lat": 28.54373480008,
+				"address": "627 East Washington Street, Orlando",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.3686615275894,
+					28.54373480008
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_806",
+				"name": "City Hall Station sponsored by VHB",
+				"region_id": "region_85",
+				"lon": -81.37894436717033,
+				"lat": 28.538170187146214,
+				"address": "400-416 South Orange Avenue, Orlando",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.37894436717033,
+					28.538170187146214
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_808",
+				"name": "Orlando Library",
+				"region_id": "region_85",
+				"lon": -81.376974302801,
+				"lat": 28.5423711348171,
+				"address": "101 East Central Boulevard, Orlando",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.376974302801,
+					28.5423711348171
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_816",
+				"name": "North Quarter Station",
+				"region_id": "region_85",
+				"lon": -81.37917906045914,
+				"lat": 28.556490145533118,
+				"address": "849-899 North Orange Avenue, Orlando",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.37917906045914,
+					28.556490145533118
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_824",
+				"name": "Church Street",
+				"region_id": "region_85",
+				"lon": -81.3787353877507,
+				"lat": 28.5403133199234,
+				"address": "2-40 East Church Street, Orlando",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.3787353877507,
+					28.5403133199234
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_857",
+				"name": "Courthouse Station",
+				"region_id": "region_85",
+				"lon": -81.3791504637041,
+				"lat": 28.5492501779003,
+				"address": "498 North Orange Avenue, Orlando",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.3791504637041,
+					28.5492501779003
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_862",
+				"name": "Ivanhoe Station",
+				"region_id": "region_85",
+				"lon": -81.3731243572549,
+				"lat": 28.5676973210616,
+				"address": "New Hampshire Street, Orlando, Florida",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.3731243572549,
+					28.5676973210616
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_891",
+				"name": "West Central Station",
+				"region_id": "region_85",
+				"lon": -81.38558685779572,
+				"lat": 28.542042725420977,
+				"address": "525-535 West Central Boulevard, Orlando",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.38558685779572,
+					28.542042725420977
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_940",
+				"name": "Division Ave & Church st",
+				"region_id": "region_85",
+				"lon": -81.38505578041077,
+				"lat": 28.540487600649964,
+				"address": "140-198 South Division Avenue, Orlando",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.38505578041077,
+					28.540487600649964
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_951",
+				"name": "Health Village",
+				"region_id": "region_85",
+				"lon": -81.37172251939774,
+				"lat": 28.573943621364787,
+				"address": "Florida Hospital Health Village, 500, Alden Road, Orlando, Florida",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.37172251939774,
+					28.573943621364787
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_975",
+				"name": "Chamber of Commerce Station",
+				"region_id": "region_85",
+				"lon": -81.37781918048859,
+				"lat": 28.560029837509326,
+				"address": "75 South Ivanhoe Boulevard, Orlando",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.37781918048859,
+					28.560029837509326
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_976",
+				"name": "Go City! Temporary Hub",
+				"region_id": "region_85",
+				"lon": -81.40105783939362,
+				"lat": 28.54020013633474,
+				"address": "1403-1499 West Church Street, Orlando",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.40105783939362,
+					28.54020013633474
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_1081",
+				"name": "Winter Park Station Sponsored by Valencia College",
+				"region_id": "region_85",
+				"lon": -81.36021316051483,
+				"lat": 28.597036933426352,
+				"address": "850 West Morse Boulevard, Winter Park",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.36021316051483,
+					28.597036933426352
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_1176",
+				"name": "Leu Gardens",
+				"region_id": "region_85",
+				"lon": -81.35606646537781,
+				"lat": 28.56967298108156,
+				"address": "1920 North Forest Avenue, Orlando",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.35606646537781,
+					28.56967298108156
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_1178",
+				"name": "Mills Park",
+				"region_id": "region_85",
+				"lon": -81.36517658829689,
+				"lat": 28.565701342770492,
+				"address": "1101 Virginia Drive, Orlando",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.36517658829689,
+					28.565701342770492
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_1198",
+				"name": "Lake Eola Station",
+				"region_id": "region_85",
+				"lon": -81.37139663100243,
+				"lat": 28.542498654336732,
+				"address": "South Eola, Pine Street, Downtown Orlando, Orlando, Florida",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.37139663100243,
+					28.542498654336732
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_1222",
+				"name": "Lynx Central Station",
+				"region_id": "region_85",
+				"lon": -81.38149246573448,
+				"lat": 28.54789897504476,
+				"address": "LCS, Orlando",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.38149246573448,
+					28.54789897504476
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_1228",
+				"name": "World Henna",
+				"region_id": "region_85",
+				"lon": -81.38076961040497,
+				"lat": 28.531901016709114,
+				"address": "817 Menendez Court, Orlando",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.38076961040497,
+					28.531901016709114
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_1244",
+				"name": "Will's ",
+				"region_id": "region_85",
+				"lon": -81.36467769742012,
+				"lat": 28.55967175089573,
+				"address": "1036 North Mills Avenue, Orlando",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.36467769742012,
+					28.55967175089573
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_1248",
+				"name": "Coffee Garden",
+				"region_id": "region_85",
+				"lon": -81.35972902178764,
+				"lat": 28.520592945123994,
+				"address": "1817 South Ferncreek Avenue, Orlando",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.35972902178764,
+					28.520592945123994
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_1251",
+				"name": "Milk District",
+				"region_id": "region_85",
+				"lon": -81.35146379470825,
+				"lat": 28.543758047929895,
+				"address": "2406 East Washington Street, Orlando",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.35146379470825,
+					28.543758047929895
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_1254",
+				"name": "Lake Eola Heights",
+				"region_id": "region_85",
+				"lon": -81.37074887752533,
+				"lat": 28.549337365302943,
+				"address": "432 Cathcart Avenue, Orlando",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.37074887752533,
+					28.549337365302943
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_1258",
+				"name": "Baldwin Park ",
+				"region_id": "region_85",
+				"lon": -81.32651925086974,
+				"lat": 28.568184224195186,
+				"address": "4915 New Broad Street, Orlando",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.32651925086974,
+					28.568184224195186
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_1260",
+				"name": "Laureate Park",
+				"region_id": "region_197",
+				"lon": -81.26105189323424,
+				"lat": 28.370997373799437,
+				"address": "13631 Sachs Avenue, Orlando",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.26105189323424,
+					28.370997373799437
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_1261",
+				"name": "Town Center ",
+				"region_id": "region_197",
+				"lon": -81.27836689352989,
+				"lat": 28.37226707004575,
+				"address": "6910 Lake Nona Boulevard, Orlando",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.27836689352989,
+					28.37226707004575
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_1290",
+				"name": "Celebration Health",
+				"region_id": "region_196",
+				"lon": -81.54208838939667,
+				"lat": 28.327431412077843,
+				"address": "410 Hospital Road, Kissimmee",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.54208838939667,
+					28.327431412077843
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_1291",
+				"name": "Science Center",
+				"region_id": "region_85",
+				"lon": -81.36868089437485,
+				"lat": 28.57256092353578,
+				"address": "5705 Camden Road, Orlando",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.36868089437485,
+					28.57256092353578
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_1292",
+				"name": "East End",
+				"region_id": "region_85",
+				"lon": -81.34381011128426,
+				"lat": 28.568080575500602,
+				"address": "1801-1899 East End Avenue, Winter Park",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.34381011128426,
+					28.568080575500602
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_1295",
+				"name": "Audubon Place",
+				"region_id": "region_85",
+				"lon": -81.34742975234985,
+				"lat": 28.561786093933783,
+				"address": "2834 Plaza Terrace Drive, Orlando",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.34742975234985,
+					28.561786093933783
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_1372",
+				"name": "Market on South",
+				"region_id": "region_85",
+				"lon": -81.34935021400452,
+				"lat": 28.53887590279137,
+				"address": "2603 East South Street, Orlando",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-81.34935021400452,
+					28.53887590279137
+				]
+			}
+		}
+	]
+}

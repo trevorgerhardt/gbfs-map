@@ -1,13 +1,21 @@
 {
-	"last_updated": 1462825178,
+	"last_updated": 1462827935,
 	"ttl": 60,
 	"data": {
 		"bikes": [
 			{
 				"bike_id": "bike_3497",
 				"name": "B-1101",
-				"lon": -82.40263666666667,
-				"lat": 28.063056666666668,
+				"lon": -82.40258666666666,
+				"lat": 28.063025,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_3557",
+				"name": "B-1156",
+				"lon": -82.41985166666667,
+				"lat": 28.06893,
 				"is_reserved": 0,
 				"is_disabled": 0
 			},
@@ -16,6 +24,14 @@
 				"name": "B-1165",
 				"lon": -82.40828166666667,
 				"lat": 28.066926666666667,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_5335",
+				"name": "B-1104",
+				"lon": -82.41302666666667,
+				"lat": 28.068746666666666,
 				"is_reserved": 0,
 				"is_disabled": 0
 			},
@@ -30,24 +46,32 @@
 			{
 				"bike_id": "bike_4316",
 				"name": "B-1103",
-				"lon": -82.42389,
-				"lat": 28.06311,
+				"lon": -82.42390333333333,
+				"lat": 28.063086666666667,
 				"is_reserved": 0,
 				"is_disabled": 0
 			},
 			{
 				"bike_id": "bike_3567",
 				"name": "B-1166",
-				"lon": -82.410395,
-				"lat": 28.067055,
+				"lon": -82.40263666666667,
+				"lat": 28.054836666666667,
 				"is_reserved": 0,
 				"is_disabled": 0
 			},
 			{
 				"bike_id": "bike_3583",
 				"name": "B-1182",
-				"lon": -82.41586666666667,
-				"lat": 28.059865,
+				"lon": -82.415635,
+				"lat": 28.059908333333333,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_3516",
+				"name": "B-1120",
+				"lon": -82.42579666666667,
+				"lat": 28.054756666666666,
 				"is_reserved": 0,
 				"is_disabled": 0
 			},
@@ -62,16 +86,24 @@
 			{
 				"bike_id": "bike_3544",
 				"name": "B-1148",
-				"lon": -82.40201666666667,
-				"lat": 28.059636666666666,
+				"lon": -82.40203833333334,
+				"lat": 28.05968,
 				"is_reserved": 0,
 				"is_disabled": 0
 			},
 			{
-				"bike_id": "bike_3528",
-				"name": "B-1132",
-				"lon": -82.40967833333333,
-				"lat": 28.06104,
+				"bike_id": "bike_3520",
+				"name": "B-1124 n",
+				"lon": -82.42016166666667,
+				"lat": 28.059073333333334,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_3604",
+				"name": "B-1126",
+				"lon": -82.41849,
+				"lat": 28.060225,
 				"is_reserved": 0,
 				"is_disabled": 0
 			},
@@ -84,18 +116,18 @@
 				"is_disabled": 0
 			},
 			{
-				"bike_id": "bike_3568",
-				"name": "B-1167",
-				"lon": -82.418255,
-				"lat": 28.060163333333332,
+				"bike_id": "bike_3528",
+				"name": "B-1132",
+				"lon": -82.40976833333333,
+				"lat": 28.06097,
 				"is_reserved": 0,
 				"is_disabled": 0
 			},
 			{
-				"bike_id": "bike_3604",
-				"name": "B-1126",
-				"lon": -82.41851833333334,
-				"lat": 28.060143333333333,
+				"bike_id": "bike_3568",
+				"name": "B-1167",
+				"lon": -82.41829,
+				"lat": 28.060198333333332,
 				"is_reserved": 0,
 				"is_disabled": 0
 			},

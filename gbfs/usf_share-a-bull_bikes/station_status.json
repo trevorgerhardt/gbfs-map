@@ -1,5 +1,5 @@
 {
-	"last_updated": 1462825178,
+	"last_updated": 1462827934,
 	"ttl": 60,
 	"data": {
 		"stations": [
@@ -11,7 +11,7 @@
 				"is_installed": 1,
 				"is_renting": 1,
 				"is_returning": 1,
-				"last_reported": 1462825178
+				"last_reported": 1462827934
 			},
 			{
 				"station_id": "hub_1104",
@@ -21,7 +21,7 @@
 				"is_installed": 1,
 				"is_renting": 1,
 				"is_returning": 1,
-				"last_reported": 1462825178
+				"last_reported": 1462827934
 			},
 			{
 				"station_id": "hub_1112",
@@ -31,7 +31,7 @@
 				"is_installed": 1,
 				"is_renting": 1,
 				"is_returning": 1,
-				"last_reported": 1462825178
+				"last_reported": 1462827934
 			},
 			{
 				"station_id": "hub_1216",
@@ -41,7 +41,7 @@
 				"is_installed": 1,
 				"is_renting": 1,
 				"is_returning": 1,
-				"last_reported": 1462825178
+				"last_reported": 1462827934
 			},
 			{
 				"station_id": "hub_1217",
@@ -51,7 +51,7 @@
 				"is_installed": 1,
 				"is_renting": 1,
 				"is_returning": 1,
-				"last_reported": 1462825178
+				"last_reported": 1462827934
 			},
 			{
 				"station_id": "hub_1218",
@@ -61,7 +61,7 @@
 				"is_installed": 1,
 				"is_renting": 1,
 				"is_returning": 1,
-				"last_reported": 1462825178
+				"last_reported": 1462827934
 			},
 			{
 				"station_id": "hub_1219",
@@ -71,7 +71,7 @@
 				"is_installed": 1,
 				"is_renting": 1,
 				"is_returning": 1,
-				"last_reported": 1462825178
+				"last_reported": 1462827934
 			},
 			{
 				"station_id": "hub_1220",
@@ -81,17 +81,17 @@
 				"is_installed": 1,
 				"is_renting": 1,
 				"is_returning": 1,
-				"last_reported": 1462825178
+				"last_reported": 1462827934
 			},
 			{
 				"station_id": "hub_1226",
-				"num_bikes_available": 2,
+				"num_bikes_available": 1,
 				"num_bikes_disabled": 0,
-				"num_docks_available": 2,
+				"num_docks_available": 3,
 				"is_installed": 1,
 				"is_renting": 1,
 				"is_returning": 1,
-				"last_reported": 1462825178
+				"last_reported": 1462827934
 			},
 			{
 				"station_id": "hub_1270",
@@ -101,7 +101,7 @@
 				"is_installed": 1,
 				"is_renting": 1,
 				"is_returning": 1,
-				"last_reported": 1462825178
+				"last_reported": 1462827934
 			}
 		]
 	}

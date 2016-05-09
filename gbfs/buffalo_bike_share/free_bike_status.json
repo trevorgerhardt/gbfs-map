@@ -1,5 +1,5 @@
 {
-	"last_updated": 1462825170,
+	"last_updated": 1462827928,
 	"ttl": 60,
 	"data": {
 		"bikes": [
@@ -38,8 +38,8 @@
 			{
 				"bike_id": "bike_1278",
 				"name": "009 BUF",
-				"lon": -78.77960166666666,
-				"lat": 43.00271,
+				"lon": -78.77955666666666,
+				"lat": 43.00256666666667,
 				"is_reserved": 0,
 				"is_disabled": 0
 			},

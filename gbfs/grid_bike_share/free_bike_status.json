@@ -1,21 +1,29 @@
 {
-	"last_updated": 1462825172,
+	"last_updated": 1462827929,
 	"ttl": 60,
 	"data": {
 		"bikes": [
 			{
-				"bike_id": "bike_1393",
-				"name": "GRID 251",
-				"lon": -112.067395,
-				"lat": 33.44624666666667,
+				"bike_id": "bike_1225",
+				"name": "GRID 207",
+				"lon": -112.07490833333334,
+				"lat": 33.48581,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_4930",
+				"name": "GRID 364",
+				"lon": -112.07415166666667,
+				"lat": 33.46687333333333,
 				"is_reserved": 0,
 				"is_disabled": 0
 			},
 			{
 				"bike_id": "bike_1167",
 				"name": "GRID 192",
-				"lon": -112.07430666666667,
-				"lat": 33.49687,
+				"lon": -112.07408166666667,
+				"lat": 33.496805,
 				"is_reserved": 0,
 				"is_disabled": 0
 			},
@@ -28,42 +36,26 @@
 				"is_disabled": 0
 			},
 			{
-				"bike_id": "bike_1469",
-				"name": "GRID 318",
-				"lon": -112.07553333333334,
-				"lat": 33.450203333333334,
+				"bike_id": "bike_802",
+				"name": "GRID 021",
+				"lon": -112.07543666666666,
+				"lat": 33.45021833333333,
 				"is_reserved": 0,
 				"is_disabled": 0
 			},
 			{
 				"bike_id": "bike_5013",
 				"name": "M 2217",
-				"lon": -111.839215,
-				"lat": 33.44251833333333,
-				"is_reserved": 0,
-				"is_disabled": 0
-			},
-			{
-				"bike_id": "bike_814",
-				"name": "GRID 005",
-				"lon": -112.07200833333333,
-				"lat": 33.447631666666666,
+				"lon": -111.838875,
+				"lat": 33.442368333333334,
 				"is_reserved": 0,
 				"is_disabled": 0
 			},
 			{
 				"bike_id": "bike_1408",
 				"name": "GRID 266",
-				"lon": -112.07817666666666,
-				"lat": 33.44824666666667,
-				"is_reserved": 0,
-				"is_disabled": 0
-			},
-			{
-				"bike_id": "bike_1090",
-				"name": "GRID 131",
-				"lon": -112.0628,
-				"lat": 33.45162,
+				"lon": -112.07827666666667,
+				"lat": 33.44822,
 				"is_reserved": 0,
 				"is_disabled": 0
 			},
@@ -72,6 +64,14 @@
 				"name": "GRID 369",
 				"lon": -112.08405833333333,
 				"lat": 33.439816666666665,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_1405",
+				"name": "GRID 263",
+				"lon": -112.07452333333333,
+				"lat": 33.44959333333333,
 				"is_reserved": 0,
 				"is_disabled": 0
 			},
@@ -92,58 +92,42 @@
 				"is_disabled": 0
 			},
 			{
-				"bike_id": "bike_3442",
-				"name": "GRID 357",
-				"lon": -112.06261333333333,
-				"lat": 33.45132666666667,
+				"bike_id": "bike_4970",
+				"name": "M 2066",
+				"lon": -111.83079333333333,
+				"lat": 33.41494333333333,
 				"is_reserved": 0,
 				"is_disabled": 0
 			},
 			{
-				"bike_id": "bike_5136",
-				"name": "M 2002",
-				"lon": -111.83058333333334,
-				"lat": 33.415733333333336,
+				"bike_id": "bike_4964",
+				"name": "M 2056",
+				"lon": -111.83077166666666,
+				"lat": 33.415745,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_1443",
+				"name": "GRID 292",
+				"lon": -112.07275833333334,
+				"lat": 33.442613333333334,
 				"is_reserved": 0,
 				"is_disabled": 0
 			},
 			{
 				"bike_id": "bike_5024",
 				"name": "M 2247",
-				"lon": -111.839425,
-				"lat": 33.44407666666667,
+				"lon": -111.83944833333334,
+				"lat": 33.44377166666666,
 				"is_reserved": 0,
 				"is_disabled": 0
 			},
 			{
-				"bike_id": "bike_823",
-				"name": "GRID 029",
-				"lon": -112.07515,
-				"lat": 33.447966666666666,
-				"is_reserved": 0,
-				"is_disabled": 0
-			},
-			{
-				"bike_id": "bike_642",
-				"name": "GRID 073",
-				"lon": -112.07795833333333,
-				"lat": 33.44016,
-				"is_reserved": 0,
-				"is_disabled": 0
-			},
-			{
-				"bike_id": "bike_1108",
-				"name": "GRID 159",
-				"lon": -112.07363,
-				"lat": 33.46666333333334,
-				"is_reserved": 0,
-				"is_disabled": 0
-			},
-			{
-				"bike_id": "bike_4990",
-				"name": "M 2136",
-				"lon": -111.83054666666666,
-				"lat": 33.42247166666667,
+				"bike_id": "bike_4973",
+				"name": "M 2073",
+				"lon": -111.81513333333334,
+				"lat": 33.415275,
 				"is_reserved": 0,
 				"is_disabled": 0
 			},
@@ -152,6 +136,38 @@
 				"name": "GRID 145",
 				"lon": -112.072885,
 				"lat": 33.4799,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_3463",
+				"name": "GRID 374",
+				"lon": -112.077415,
+				"lat": 33.44061666666666,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_5035",
+				"name": "M 2295",
+				"lon": -111.87076,
+				"lat": 33.41494,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_4984",
+				"name": "M 2104",
+				"lon": -111.83043,
+				"lat": 33.415733333333336,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_1108",
+				"name": "GRID 159",
+				"lon": -112.07363,
+				"lat": 33.46666333333334,
 				"is_reserved": 0,
 				"is_disabled": 0
 			}

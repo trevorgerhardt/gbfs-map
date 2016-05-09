@@ -1,5 +1,5 @@
 {
-	"last_updated": 1462825169,
+	"last_updated": 1462827926,
 	"ttl": 60,
 	"data": {
 		"bikes": [
@@ -28,18 +28,18 @@
 				"is_disabled": 0
 			},
 			{
-				"bike_id": "bike_5254",
-				"name": "C-1080 - Barnes",
-				"lon": -82.45740833333333,
-				"lat": 27.949028333333334,
-				"is_reserved": 0,
-				"is_disabled": 0
-			},
-			{
 				"bike_id": "bike_3492",
 				"name": "C-1299",
 				"lon": -82.45019333333333,
 				"lat": 27.94248,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_5254",
+				"name": "C-1080 - Barnes",
+				"lon": -82.45740833333333,
+				"lat": 27.949028333333334,
 				"is_reserved": 0,
 				"is_disabled": 0
 			},
@@ -84,26 +84,10 @@
 				"is_disabled": 0
 			},
 			{
-				"bike_id": "bike_1186",
-				"name": "C-1064 - Modin",
-				"lon": -82.461875,
-				"lat": 27.951861666666666,
-				"is_reserved": 0,
-				"is_disabled": 0
-			},
-			{
-				"bike_id": "bike_1648",
-				"name": "C-1178 Thorton",
-				"lon": -82.45736333333333,
-				"lat": 27.949,
-				"is_reserved": 0,
-				"is_disabled": 0
-			},
-			{
 				"bike_id": "bike_3297",
 				"name": "C-1238 - Brown",
-				"lon": -82.45719666666666,
-				"lat": 27.949015,
+				"lon": -82.45737,
+				"lat": 27.94902666666667,
 				"is_reserved": 0,
 				"is_disabled": 0
 			}

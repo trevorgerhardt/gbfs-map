@@ -1,5 +1,5 @@
 {
-	"last_updated": 1462825175,
+	"last_updated": 1462827932,
 	"ttl": 60,
 	"data": {
 		"bikes": [
@@ -36,22 +36,6 @@
 				"is_disabled": 0
 			},
 			{
-				"bike_id": "bike_5435",
-				"name": "139",
-				"lon": -95.72769333333333,
-				"lat": 39.043655,
-				"is_reserved": 0,
-				"is_disabled": 0
-			},
-			{
-				"bike_id": "bike_5409",
-				"name": "112",
-				"lon": -95.66534166666666,
-				"lat": 39.04463666666667,
-				"is_reserved": 0,
-				"is_disabled": 0
-			},
-			{
 				"bike_id": "bike_5433",
 				"name": "136",
 				"lon": -95.69946333333333,
@@ -70,8 +54,8 @@
 			{
 				"bike_id": "bike_5460",
 				"name": "164",
-				"lon": -95.760075,
-				"lat": 39.02903833333333,
+				"lon": -95.76021833333333,
+				"lat": 39.02875,
 				"is_reserved": 0,
 				"is_disabled": 0
 			},

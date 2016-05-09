@@ -1,0 +1,525 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_190",
+				"name": "Innovation Center",
+				"region_id": "region_21",
+				"lon": -78.8686022870596,
+				"lat": 42.8964043916144,
+				"address": "645-679 Ellicott Street, Buffalo",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.8686022870596,
+					42.8964043916144
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_203",
+				"name": "Alumni (In Front)",
+				"region_id": "region_19",
+				"lon": -78.7827111506178,
+				"lat": 43.0003382540254,
+				"address": "1699 Amherst Manor Drive, University at Buffalo, Buffalo",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.7827111506178,
+					43.0003382540254
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_204",
+				"name": "Founders Plaza ",
+				"region_id": "region_19",
+				"lon": -78.7881342550189,
+				"lat": 43.0006712687481,
+				"address": "University at Buffalo, Buffalo",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.7881342550189,
+					43.0006712687481
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_205",
+				"name": "Student Union",
+				"region_id": "region_19",
+				"lon": -78.7858389771811,
+				"lat": 43.0014215729038,
+				"address": "Putnam Way, University at Buffalo, Buffalo",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.7858389771811,
+					43.0014215729038
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_206",
+				"name": "South Campus (Near the NFTA Train Station)",
+				"region_id": "region_45",
+				"lon": -78.819596073584,
+				"lat": 42.9540955087523,
+				"address": "Hayes Road, University at Buffalo, Buffalo",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.819596073584,
+					42.9540955087523
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_207",
+				"name": "Ellicott (In front of Fargo)",
+				"region_id": "region_19",
+				"lon": -78.7859767016749,
+				"lat": 43.007017136743,
+				"address": "Core Road, University at Buffalo, Buffalo",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.7859767016749,
+					43.007017136743
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_247",
+				"name": "Allen Street",
+				"region_id": "region_21",
+				"lon": -78.874869895975,
+				"lat": 42.899916151736,
+				"address": "17 Irving Place, Buffalo",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.874869895975,
+					42.899916151736
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_249",
+				"name": "Flint Village (In front of Community Building)",
+				"region_id": "region_19",
+				"lon": -78.7875239139004,
+				"lat": 42.9974311475827,
+				"address": "Augspurger Road, University at Buffalo, Buffalo",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.7875239139004,
+					42.9974311475827
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_250",
+				"name": "Hadley Village (In front of Community Building)",
+				"region_id": "region_19",
+				"lon": -78.7947676603449,
+				"lat": 42.9989355373142,
+				"address": "Hadley Road, University at Buffalo, Buffalo",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.7947676603449,
+					42.9989355373142
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_288",
+				"name": "Governers",
+				"region_id": "region_19",
+				"lon": -78.7937038631954,
+				"lat": 43.0021962932502,
+				"address": "University at Buffalo, Buffalo",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.7937038631954,
+					43.0021962932502
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_421",
+				"name": "Perry St.",
+				"region_id": "region_79",
+				"lon": -78.8736546846015,
+				"lat": 42.8744327124169,
+				"address": "25 Mississippi Street, Buffalo",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.8736546846015,
+					42.8744327124169
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_422",
+				"name": "South Lake",
+				"region_id": "region_19",
+				"lon": -78.7772831575206,
+				"lat": 43.0022306629763,
+				"address": "Webster Entrance, University at Buffalo, Buffalo",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.7772831575206,
+					43.0022306629763
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_423",
+				"name": "Clement",
+				"region_id": "region_45",
+				"lon": -78.8150643459467,
+				"lat": 42.957101072257,
+				"address": "Goodyear Road, University at Buffalo School of Public Health and Health Professions, Buffalo",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.8150643459467,
+					42.957101072257
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_443",
+				"name": "Flickinger Ct",
+				"region_id": "region_19",
+				"lon": -78.8008379418418,
+				"lat": 43.0055304319325,
+				"address": "8 Flickinger Court, University at Buffalo, Buffalo",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.8008379418418,
+					43.0055304319325
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_716",
+				"name": "Baird rack",
+				"region_id": "region_19",
+				"lon": -78.7839707602183,
+				"lat": 42.9994768552489,
+				"address": "Putnam Way, University at Buffalo, Buffalo",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.7839707602183,
+					42.9994768552489
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_717",
+				"name": "Crofts Hall",
+				"region_id": "region_19",
+				"lon": -78.7955996037484,
+				"lat": 42.9944792865217,
+				"address": "Sprague Road, University at Buffalo, Buffalo",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.7955996037484,
+					42.9944792865217
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_733",
+				"name": "Ellicot - Spaulding Quad",
+				"region_id": "region_19",
+				"lon": -78.7841068049831,
+				"lat": 43.0097288993272,
+				"address": "Frontier Road, University at Buffalo, Getzville",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.7841068049831,
+					43.0097288993272
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_819",
+				"name": "lower Elmwood",
+				"region_id": "region_21",
+				"lon": -78.8771869454229,
+				"lat": 42.9089987735986,
+				"address": "289 Bryant Street, Buffalo",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.8771869454229,
+					42.9089987735986
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_820",
+				"name": "Upper Elmwood",
+				"region_id": "region_21",
+				"lon": -78.8770729390102,
+				"lat": 42.9210351735555,
+				"address": "878 Elmwood Avenue, Buffalo",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.8770729390102,
+					42.9210351735555
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_821",
+				"name": "Downtown Main St",
+				"region_id": "region_79",
+				"lon": -78.87312412261963,
+				"lat": 42.88991041617139,
+				"address": "564-590 Main Street, Buffalo",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-78.87312412261963,
+					42.88991041617139
+				]
+			}
+		}
+	]
+}

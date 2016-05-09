@@ -1,0 +1,3845 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "3",
+				"name": "Colleges of the Fenway",
+				"short_name": "B32006",
+				"lat": 42.340021,
+				"lon": -71.100812,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 15,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.100812,
+					42.340021
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "4",
+				"name": "Tremont St. at Berkeley St.",
+				"short_name": "C32000",
+				"lat": 42.345392,
+				"lon": -71.069616,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 15,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.069616,
+					42.345392
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "5",
+				"name": "Northeastern U / North Parking Lot",
+				"short_name": "B32012",
+				"lat": 42.341814,
+				"lon": -71.090179,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 15,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.090179,
+					42.341814
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "6",
+				"name": "Cambridge St. at Joy St.",
+				"short_name": "D32000",
+				"lat": 42.361174,
+				"lon": -71.065142,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 15,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.065142,
+					42.361174
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "7",
+				"name": "Fan Pier",
+				"short_name": "A32000",
+				"lat": 42.35328743453294,
+				"lon": -71.04438900947571,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 15,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.04438900947571,
+					42.35328743453294
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "8",
+				"name": "Union Square - Brighton Ave. at Cambridge St.",
+				"short_name": "A32001",
+				"lat": 42.353334,
+				"lon": -71.137313,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 15,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.137313,
+					42.353334
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "9",
+				"name": "Agganis Arena - 925 Comm Ave.",
+				"short_name": "A32002",
+				"lat": 42.351246,
+				"lon": -71.115639,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 19,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.115639,
+					42.351246
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "10",
+				"name": "B.U. Central - 725 Comm. Ave.",
+				"short_name": "A32003",
+				"lat": 42.350406,
+				"lon": -71.108279,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 11,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.108279,
+					42.350406
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "11",
+				"name": "Longwood Ave / Binney St",
+				"short_name": "A32004",
+				"lat": 42.338629,
+				"lon": -71.1065,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 15,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.1065,
+					42.338629
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "12",
+				"name": "Ruggles Station / Columbus Ave.",
+				"short_name": "B32002",
+				"lat": 42.335911,
+				"lon": -71.088496,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 15,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.088496,
+					42.335911
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "13",
+				"name": "Boston Medical Center -  East Concord at Harrison Ave",
+				"short_name": "C32002",
+				"lat": 42.336437,
+				"lon": -71.073089,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 19,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.073089,
+					42.336437
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "14",
+				"name": "HMS / HSPH - Ave. Louis Pasteur at Longwood Ave.",
+				"short_name": "B32003",
+				"lat": 42.337171,
+				"lon": -71.102797,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 17,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.102797,
+					42.337171
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "15",
+				"name": "Harvard Real Estate - Brighton Mills - 370 Western Ave",
+				"short_name": "A32005",
+				"lat": 42.361667,
+				"lon": -71.13802,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 15,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.13802,
+					42.361667
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "16",
+				"name": "Back Bay / South End Station",
+				"short_name": "C32003",
+				"lat": 42.34807412317439,
+				"lon": -71.07657015323639,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 19,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.07657015323639,
+					42.34807412317439
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "17",
+				"name": "Harvard University Housing - 111 Western Ave. at Soldiers Field Park ",
+				"short_name": "A32006",
+				"lat": 42.365064,
+				"lon": -71.119233,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 15,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.119233,
+					42.365064
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "19",
+				"name": "Buswell St. at Park Dr.",
+				"short_name": "A32008",
+				"lat": 42.347241,
+				"lon": -71.105301,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 15,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.105301,
+					42.347241
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "20",
+				"name": "Aquarium Station - 200 Atlantic Ave.",
+				"short_name": "B32004",
+				"lat": 42.35977,
+				"lon": -71.051601,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 19,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.051601,
+					42.35977
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "21",
+				"name": "Prudential Center / Belvidere",
+				"short_name": "C32007",
+				"lat": 42.345959,
+				"lon": -71.082578,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 25,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.082578,
+					42.345959
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "22",
+				"name": "South Station - 700 Atlantic Ave.",
+				"short_name": "A32010",
+				"lat": 42.352175,
+				"lon": -71.055547,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 46,
+				"eightd_has_key_dispenser": true
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.055547,
+					42.352175
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "23",
+				"name": "Mayor Martin J Walsh - 28 State St",
+				"short_name": "B32008",
+				"lat": 42.35892,
+				"lon": -71.057629,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 21,
+				"eightd_has_key_dispenser": true
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.057629,
+					42.35892
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "24",
+				"name": "Seaport Square - Seaport Blvd. at Boston Wharf",
+				"short_name": "B32007",
+				"lat": 42.351205,
+				"lon": -71.043983,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 19,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.043983,
+					42.351205
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "25",
+				"name": "Tremont St / W Newton St",
+				"short_name": "A32009",
+				"lat": 42.341332,
+				"lon": -71.076847,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 15,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.076847,
+					42.341332
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "26",
+				"name": "Washington St. at Waltham St.",
+				"short_name": "D32002",
+				"lat": 42.341522,
+				"lon": -71.068922,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 15,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.068922,
+					42.341522
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "27",
+				"name": "Roxbury Crossing Station",
+				"short_name": "C32001",
+				"lat": 42.331184,
+				"lon": -71.095171,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 15,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.095171,
+					42.331184
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "29",
+				"name": "Innovation Lab - 125 Western Ave. at Batten Way",
+				"short_name": "A32011",
+				"lat": 42.363732,
+				"lon": -71.124565,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 15,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.124565,
+					42.363732
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "30",
+				"name": "Brigham Cir / Huntington Ave",
+				"short_name": "B32013",
+				"lat": 42.334073,
+				"lon": -71.105221,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 15,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.105221,
+					42.334073
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "31",
+				"name": "Seaport Hotel",
+				"short_name": "B32014",
+				"lat": 42.348833,
+				"lon": -71.041747,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 15,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.041747,
+					42.348833
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "32",
+				"name": "Landmark Centre",
+				"short_name": "B32015",
+				"lat": 42.343912,
+				"lon": -71.102221,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 11,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.102221,
+					42.343912
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "33",
+				"name": "Kenmore Sq / Comm Ave",
+				"short_name": "B32010",
+				"lat": 42.348706,
+				"lon": -71.097009,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 19,
+				"eightd_has_key_dispenser": true
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.097009,
+					42.348706
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "35",
+				"name": "Franklin St. / Arch St.",
+				"short_name": "D32004",
+				"lat": 42.355402,
+				"lon": -71.058087,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 23,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.058087,
+					42.355402
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "36",
+				"name": "Boston Public Library - 700 Boylston St.",
+				"short_name": "D32005",
+				"lat": 42.349673,
+				"lon": -71.077303,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 25,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.077303,
+					42.349673
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "37",
+				"name": "New Balance - 20 Guest St.",
+				"short_name": "D32001",
+				"lat": 42.357402,
+				"lon": -71.147782,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 15,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.147782,
+					42.357402
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "38",
+				"name": "TD Garden - Causeway at Portal Park #2",
+				"short_name": "D32003",
+				"lat": 42.366222,
+				"lon": -71.059914,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 27,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.059914,
+					42.366222
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "39",
+				"name": "Washington St. at Rutland St.",
+				"short_name": "C32006",
+				"lat": 42.338623,
+				"lon": -71.074182,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 19,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.074182,
+					42.338623
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "40",
+				"name": "Lewis Wharf - Atlantic Ave.",
+				"short_name": "D32006",
+				"lat": 42.363871,
+				"lon": -71.050877,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 15,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.050877,
+					42.363871
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "41",
+				"name": "Packard's Corner - Comm. Ave. at Brighton Ave.",
+				"short_name": "A32012",
+				"lat": 42.352261,
+				"lon": -71.123831,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 19,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.123831,
+					42.352261
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "42",
+				"name": "Boylston St. at Arlington St.",
+				"short_name": "D32007",
+				"lat": 42.352033,
+				"lon": -71.070627,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 22,
+				"eightd_has_key_dispenser": true
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.070627,
+					42.352033
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "43",
+				"name": "Rowes Wharf - Atlantic Ave",
+				"short_name": "D32008",
+				"lat": 42.357143,
+				"lon": -71.050699,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 15,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.050699,
+					42.357143
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "44",
+				"name": "Faneuil Hall - Union St. at North St.",
+				"short_name": "D32009",
+				"lat": 42.360613,
+				"lon": -71.057452,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 19,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.057452,
+					42.360613
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "45",
+				"name": "Yawkey Way at Boylston St.",
+				"short_name": "B32011",
+				"lat": 42.344706,
+				"lon": -71.097515,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 19,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.097515,
+					42.344706
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "46",
+				"name": "Christian Science Plaza",
+				"short_name": "B32005",
+				"lat": 42.343864,
+				"lon": -71.085918,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 19,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.085918,
+					42.343864
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "47",
+				"name": "Cross St. at Hanover St.",
+				"short_name": "D32010",
+				"lat": 42.362811,
+				"lon": -71.056067,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 18,
+				"eightd_has_key_dispenser": true
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.056067,
+					42.362811
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "48",
+				"name": "Post Office Square",
+				"short_name": "D32012",
+				"lat": 42.356755,
+				"lon": -71.055407,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 19,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.055407,
+					42.356755
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "49",
+				"name": "Stuart St. at Charles St.",
+				"short_name": "D32011",
+				"lat": 42.351146,
+				"lon": -71.066289,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 19,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.066289,
+					42.351146
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "50",
+				"name": "Boylston St / Berkeley St",
+				"short_name": "D32013",
+				"lat": 42.350989,
+				"lon": -71.073644,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 15,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.073644,
+					42.350989
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "51",
+				"name": "Washington St. at Lenox St.",
+				"short_name": "C32005",
+				"lat": 42.3348756,
+				"lon": -71.0790969,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 15,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.0790969,
+					42.3348756
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "52",
+				"name": "Newbury St / Hereford St",
+				"short_name": "B32000",
+				"lat": 42.348717,
+				"lon": -71.085954,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 18,
+				"eightd_has_key_dispenser": true
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.085954,
+					42.348717
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "53",
+				"name": "Beacon St / Mass Ave",
+				"short_name": "B32016",
+				"lat": 42.350851,
+				"lon": -71.089886,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 19,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.089886,
+					42.350851
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "54",
+				"name": "Tremont St / West St",
+				"short_name": "D32014",
+				"lat": 42.354979,
+				"lon": -71.063348,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 15,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.063348,
+					42.354979
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "55",
+				"name": "Boylston / Mass Ave",
+				"short_name": "B32018",
+				"lat": 42.347265,
+				"lon": -71.088088,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 15,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.088088,
+					42.347265
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "56",
+				"name": "Dudley Square",
+				"short_name": "B32017",
+				"lat": 42.328654,
+				"lon": -71.084198,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 15,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.084198,
+					42.328654
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "57",
+				"name": "Columbus Ave. at Mass. Ave.",
+				"short_name": "C32004",
+				"lat": 42.340799,
+				"lon": -71.081572,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 11,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.081572,
+					42.340799
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "58",
+				"name": "The Esplanade - Beacon St. at Arlington St.",
+				"short_name": "D32017",
+				"lat": 42.355596,
+				"lon": -71.07278,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 15,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.07278,
+					42.355596
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "59",
+				"name": "Chinatown Gate Plaza - Surface Rd. at Beach St.",
+				"short_name": "D32015",
+				"lat": 42.351356,
+				"lon": -71.059367,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 15,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.059367,
+					42.351356
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "60",
+				"name": "Charles Circle - Charles St. at Cambridge St.",
+				"short_name": "D32016",
+				"lat": 42.360835,
+				"lon": -71.0708399,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 15,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.0708399,
+					42.360835
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "61",
+				"name": "Boylston at Fairfield",
+				"short_name": "C32008",
+				"lat": 42.348762,
+				"lon": -71.082383,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 19,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.082383,
+					42.348762
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "63",
+				"name": "Dorchester Ave. at Gillette Park",
+				"short_name": "C32009",
+				"lat": 42.344023,
+				"lon": -71.057054,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 15,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.057054,
+					42.344023
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "64",
+				"name": "Congress / Sleeper",
+				"short_name": "C32010",
+				"lat": 42.3511,
+				"lon": -71.0496,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 19,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.0496,
+					42.3511
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "65",
+				"name": "Boston Convention & Exhibition Center",
+				"short_name": "D32018",
+				"lat": 42.3475,
+				"lon": -71.0441,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 19,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.0441,
+					42.3475
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "66",
+				"name": "Allston Green District - Commonwealth Ave & Griggs St",
+				"short_name": "A32017",
+				"lat": 42.348607,
+				"lon": -71.13401,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 15,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.13401,
+					42.348607
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "67",
+				"name": "MIT at Mass Ave / Amherst St",
+				"short_name": "M32006",
+				"lat": 42.3581,
+				"lon": -71.093198,
+				"region_id": 8,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 27,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.093198,
+					42.3581
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "68",
+				"name": "Central Square at Mass Ave / Essex St",
+				"short_name": "M32011",
+				"lat": 42.36507,
+				"lon": -71.1031,
+				"region_id": 8,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 19,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.1031,
+					42.36507
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "69",
+				"name": "Coolidge Corner - Beacon St @ Centre St",
+				"short_name": "K32001",
+				"lat": 42.341598,
+				"lon": -71.123338,
+				"region_id": 4,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 19,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.123338,
+					42.341598
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "70",
+				"name": "Harvard Kennedy School at Bennett St / Eliot St",
+				"short_name": "M32016",
+				"lat": 42.371196,
+				"lon": -71.121473,
+				"region_id": 8,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 23,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.121473,
+					42.371196
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "71",
+				"name": "Conway Park - Somerville Avenue",
+				"short_name": "S32004",
+				"lat": 42.383405,
+				"lon": -71.107593,
+				"region_id": 9,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 15,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.107593,
+					42.383405
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "72",
+				"name": "One Broadway / Kendall Sq at Main St / 3rd St",
+				"short_name": "M32003",
+				"lat": 42.362613,
+				"lon": -71.084105,
+				"region_id": 8,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 15,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.084105,
+					42.362613
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "73",
+				"name": "Harvard Square at Brattle St / Eliot St",
+				"short_name": "M32017",
+				"lat": 42.373231,
+				"lon": -71.120886,
+				"region_id": 8,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 15,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.120886,
+					42.373231
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "74",
+				"name": "Harvard Square at Mass Ave/ Dunster",
+				"short_name": "M32018",
+				"lat": 42.373268,
+				"lon": -71.118579,
+				"region_id": 8,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 19,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.118579,
+					42.373268
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "75",
+				"name": "Lafayette Square at Mass Ave / Main St / Columbia St",
+				"short_name": "M32009",
+				"lat": 42.36346469304347,
+				"lon": -71.10057324171066,
+				"region_id": 8,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 15,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.10057324171066,
+					42.36346469304347
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "76",
+				"name": "Central Sq Post Office / Cambridge City Hall at Mass Ave / Pleasant St",
+				"short_name": "M32012",
+				"lat": 42.366426,
+				"lon": -71.105495,
+				"region_id": 8,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 17,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.105495,
+					42.366426
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "77",
+				"name": "Somerville City Hall",
+				"short_name": "S32001",
+				"lat": 42.386844,
+				"lon": -71.09812,
+				"region_id": 9,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 15,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.09812,
+					42.386844
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "78",
+				"name": "Union Square - Somerville",
+				"short_name": "S32002",
+				"lat": 42.379637,
+				"lon": -71.095319,
+				"region_id": 9,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 19,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.095319,
+					42.379637
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "79",
+				"name": "Beacon St at Washington / Kirkland",
+				"short_name": "S32003",
+				"lat": 42.37842,
+				"lon": -71.105668,
+				"region_id": 9,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 15,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.105668,
+					42.37842
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "80",
+				"name": "MIT Stata Center at Vassar St / Main St",
+				"short_name": "M32005",
+				"lat": 42.3619622,
+				"lon": -71.0920526,
+				"region_id": 8,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 35,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.0920526,
+					42.3619622
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "81",
+				"name": "Boylston St / Washington St",
+				"short_name": "D32019",
+				"lat": 42.352409,
+				"lon": -71.062679,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 15,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.062679,
+					42.352409
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "82",
+				"name": "Washington Square at Washington St. / Beacon St.",
+				"short_name": "K32002",
+				"lat": 42.339335,
+				"lon": -71.13493,
+				"region_id": 4,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 15,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.13493,
+					42.339335
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "84",
+				"name": "CambridgeSide Galleria - CambridgeSide PL at Land Blvd",
+				"short_name": "M32019",
+				"lat": 42.366981,
+				"lon": -71.076472,
+				"region_id": 8,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 15,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.076472,
+					42.366981
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "85",
+				"name": "Spaulding Rehabilitation Hospital - Charlestown Navy Yard",
+				"short_name": "D32023",
+				"lat": 42.378338,
+				"lon": -71.048927,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 19,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.048927,
+					42.378338
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "87",
+				"name": "Harvard University Housing - 115 Putnam Ave at Peabody Terrace",
+				"short_name": "M32014",
+				"lat": 42.366621,
+				"lon": -71.114214,
+				"region_id": 8,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 15,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.114214,
+					42.366621
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "88",
+				"name": "Inman Square at Vellucci Plaza / Hampshire St",
+				"short_name": "M32010",
+				"lat": 42.374035,
+				"lon": -71.101427,
+				"region_id": 8,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 19,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.101427,
+					42.374035
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "89",
+				"name": "Harvard Law School at Mass Ave / Jarvis St",
+				"short_name": "M32020",
+				"lat": 42.379011,
+				"lon": -71.119945,
+				"region_id": 8,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 19,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.119945,
+					42.379011
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "90",
+				"name": "Lechmere Station at Cambridge St / First St",
+				"short_name": "M32001",
+				"lat": 42.370677,
+				"lon": -71.076529,
+				"region_id": 8,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 19,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.076529,
+					42.370677
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "91",
+				"name": "One Kendall Square at Hampshire St / Portland St",
+				"short_name": "M32002",
+				"lat": 42.366277,
+				"lon": -71.09169,
+				"region_id": 8,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 19,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.09169,
+					42.366277
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "92",
+				"name": "UMass Boston Integrated Sciences Complex",
+				"short_name": "C32014",
+				"lat": 42.314507,
+				"lon": -71.041269,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 19,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.041269,
+					42.314507
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "93",
+				"name": "JFK / UMASS at MBTA Station",
+				"short_name": "C32013",
+				"lat": 42.320494,
+				"lon": -71.051122,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 15,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.051122,
+					42.320494
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "94",
+				"name": "Charlestown - Main St at Austin St",
+				"short_name": "D32020",
+				"lat": 42.375603,
+				"lon": -71.064608,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 11,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.064608,
+					42.375603
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "95",
+				"name": "Cambridge St - at Columbia St / Webster Ave",
+				"short_name": "M32007",
+				"lat": 42.372969,
+				"lon": -71.094445,
+				"region_id": 8,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 15,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.094445,
+					42.372969
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "96",
+				"name": "Cambridge Main Library at Broadway / Trowbridge St",
+				"short_name": "M32013",
+				"lat": 42.373379,
+				"lon": -71.111075,
+				"region_id": 8,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 19,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.111075,
+					42.373379
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "97",
+				"name": "Harvard University River Houses at DeWolfe St / Cowperthwaite St",
+				"short_name": "M32038",
+				"lat": 42.36919031768079,
+				"lon": -71.11714124679565,
+				"region_id": 8,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 19,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.11714124679565,
+					42.36919031768079
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "98",
+				"name": "Charlestown - Warren St at Chelsea St",
+				"short_name": "D32021",
+				"lat": 42.371848,
+				"lon": -71.060292,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 19,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.060292,
+					42.371848
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "99",
+				"name": "Wilson Square",
+				"short_name": "S32005",
+				"lat": 42.385582,
+				"lon": -71.113341,
+				"region_id": 9,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 15,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.113341,
+					42.385582
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "100",
+				"name": "Davis Square",
+				"short_name": "S32006",
+				"lat": 42.396969,
+				"lon": -71.123024,
+				"region_id": 9,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 25,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.123024,
+					42.396969
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "102",
+				"name": "Powder House Circle - Nathan Tufts Park",
+				"short_name": "S32008",
+				"lat": 42.400877,
+				"lon": -71.116772,
+				"region_id": 9,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 15,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.116772,
+					42.400877
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "103",
+				"name": "JFK Crossing at Harvard St. / Thorndike St.",
+				"short_name": "K32004",
+				"lat": 42.346563,
+				"lon": -71.128374,
+				"region_id": 4,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 15,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.128374,
+					42.346563
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "104",
+				"name": "Harvard University Radcliffe Quadrangle at Shepard St / Garden St",
+				"short_name": "M32024",
+				"lat": 42.380287,
+				"lon": -71.125107,
+				"region_id": 8,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 19,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.125107,
+					42.380287
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "105",
+				"name": "Lower Cambridgeport at Magazine St/Riverside Rd",
+				"short_name": "M32022",
+				"lat": 42.356954,
+				"lon": -71.113687,
+				"region_id": 8,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 19,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.113687,
+					42.356954
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "106",
+				"name": "Mt Pleasant Ave / Dudley Town Common",
+				"short_name": "C32015",
+				"lat": 42.325333,
+				"lon": -71.075354,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 15,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.075354,
+					42.325333
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "107",
+				"name": "Ames St at Main St",
+				"short_name": "M32037",
+				"lat": 42.3625,
+				"lon": -71.08822,
+				"region_id": 8,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 19,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.08822,
+					42.3625
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "108",
+				"name": "Harvard University / SEAS Cruft-Pierce Halls at 29 Oxford St",
+				"short_name": "M32023",
+				"lat": 42.377945,
+				"lon": -71.116865,
+				"region_id": 8,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 17,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.116865,
+					42.377945
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "109",
+				"name": "TD Garden - Causeway at Portal Park #1",
+				"short_name": "D32022",
+				"lat": 42.365942,
+				"lon": -71.060515,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 26,
+				"eightd_has_key_dispenser": true
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.060515,
+					42.365942
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "110",
+				"name": "Harvard University Gund Hall at Quincy St / Kirkland S",
+				"short_name": "M32021",
+				"lat": 42.376369,
+				"lon": -71.114025,
+				"region_id": 8,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 15,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.114025,
+					42.376369
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "111",
+				"name": "Packard Ave / Powderhouse Blvd",
+				"short_name": "S32009",
+				"lat": 42.40449,
+				"lon": -71.123413,
+				"region_id": 9,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 15,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.123413,
+					42.40449
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "113",
+				"name": "Andrew Station - Dorchester Ave at Humboldt Pl",
+				"short_name": "C32012",
+				"lat": 42.330716,
+				"lon": -71.057044,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 15,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.057044,
+					42.330716
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "114",
+				"name": "Teele Square at 239 Holland St",
+				"short_name": "S32011",
+				"lat": 42.402763,
+				"lon": -71.126908,
+				"region_id": 9,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 15,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.126908,
+					42.402763
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "115",
+				"name": "Porter Square Station",
+				"short_name": "M32029",
+				"lat": 42.387995,
+				"lon": -71.119084,
+				"region_id": 8,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 19,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.119084,
+					42.387995
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "116",
+				"name": "359 Broadway - Broadway at Fayette Street",
+				"short_name": "M32026",
+				"lat": 42.370803,
+				"lon": -71.104412,
+				"region_id": 8,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 19,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.104412,
+					42.370803
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "117",
+				"name": "Binney St / Sixth St",
+				"short_name": "M32027",
+				"lat": 42.366095,
+				"lon": -71.086388,
+				"region_id": 8,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 19,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.086388,
+					42.366095
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "118",
+				"name": "Linear Park - Mass. Ave. at Cameron Ave. ",
+				"short_name": "M32025",
+				"lat": 42.397828,
+				"lon": -71.130516,
+				"region_id": 8,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 19,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.130516,
+					42.397828
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "119",
+				"name": "South Boston Library - 646 East Broadway",
+				"short_name": "C32017",
+				"lat": 42.335741,
+				"lon": -71.03877,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 15,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.03877,
+					42.335741
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "120",
+				"name": "Charles St at Beacon St",
+				"short_name": "D32024",
+				"lat": 42.356052,
+				"lon": -71.069849,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 15,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.069849,
+					42.356052
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "121",
+				"name": "West Broadway at Dorchester St",
+				"short_name": "C32016",
+				"lat": 42.335693,
+				"lon": -71.045859,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 17,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.045859,
+					42.335693
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "122",
+				"name": "BIDMC - Brookline at Burlington St",
+				"short_name": "B32020",
+				"lat": 42.345733,
+				"lon": -71.100694,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 15,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.100694,
+					42.345733
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "123",
+				"name": "JP Center - Centre Street at Myrtle Street",
+				"short_name": "E32002",
+				"lat": 42.313156,
+				"lon": -71.11414,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 3,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.11414,
+					42.313156
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "124",
+				"name": "Curtis Hall at South Street",
+				"short_name": "E32001",
+				"lat": 42.309054,
+				"lon": -71.11543,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 15,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.11543,
+					42.309054
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "125",
+				"name": "Hyde Square at Barbara St",
+				"short_name": "E32003",
+				"lat": 42.320998,
+				"lon": -71.110833,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 15,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.110833,
+					42.320998
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "126",
+				"name": "Egleston Square at Columbus Ave",
+				"short_name": "E32004",
+				"lat": 42.315692,
+				"lon": -71.098634,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 15,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.098634,
+					42.315692
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "128",
+				"name": "E. Cottage St at Columbia Rd",
+				"short_name": "C32018",
+				"lat": 42.320561,
+				"lon": -71.06198,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 19,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.06198,
+					42.320561
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "129",
+				"name": "Hayes Square at Vine St.",
+				"short_name": "D32026",
+				"lat": 42.377022,
+				"lon": -71.056605,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 19,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.056605,
+					42.377022
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "130",
+				"name": "Upham's Corner - Ramsey St at Dudley St",
+				"short_name": "C32019",
+				"lat": 42.317225,
+				"lon": -71.065421,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 15,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.065421,
+					42.317225
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "131",
+				"name": "Jackson Square T at Centre St",
+				"short_name": "E32006",
+				"lat": 42.322701,
+				"lon": -71.099533,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 19,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.099533,
+					42.322701
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "133",
+				"name": "Green St T",
+				"short_name": "E32005",
+				"lat": 42.310579,
+				"lon": -71.107341,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 15,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.107341,
+					42.310579
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "134",
+				"name": "New Balance Store - Boylston at Dartmouth",
+				"short_name": "D32027",
+				"lat": 42.350413,
+				"lon": -71.07655,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 15,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.07655,
+					42.350413
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "135",
+				"name": "ID Building East",
+				"short_name": "C32020",
+				"lat": 42.344827,
+				"lon": -71.028664,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 17,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.028664,
+					42.344827
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "136",
+				"name": "ID Building West",
+				"short_name": "C32021",
+				"lat": 42.344796,
+				"lon": -71.031614,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 19,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.031614,
+					42.344796
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "137",
+				"name": "Magoun Square at Trum Field",
+				"short_name": "S32013",
+				"lat": 42.398365,
+				"lon": -71.107818,
+				"region_id": 9,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 15,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.107818,
+					42.398365
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "138",
+				"name": "Mass Ave at Newmarket Square",
+				"short_name": "C32022",
+				"lat": 42.326599,
+				"lon": -71.066498,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 15,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.066498,
+					42.326599
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "139",
+				"name": "Dana Park",
+				"short_name": "M32030",
+				"lat": 42.361589,
+				"lon": -71.107437,
+				"region_id": 8,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 19,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.107437,
+					42.361589
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "140",
+				"name": "Danehy Park",
+				"short_name": "M32031",
+				"lat": 42.388966,
+				"lon": -71.132788,
+				"region_id": 8,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 17,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.132788,
+					42.388966
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "141",
+				"name": "Kendall Street",
+				"short_name": "M32032",
+				"lat": 42.363560158429884,
+				"lon": -71.08216792345047,
+				"region_id": 8,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 15,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.08216792345047,
+					42.363560158429884
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "142",
+				"name": "Alewife Station at Russell Field",
+				"short_name": "M32033",
+				"lat": 42.396105,
+				"lon": -71.139459,
+				"region_id": 8,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 23,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.139459,
+					42.396105
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "143",
+				"name": "EF - North Point Park",
+				"short_name": "M32034",
+				"lat": 42.369885,
+				"lon": -71.069957,
+				"region_id": 8,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 23,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.069957,
+					42.369885
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "145",
+				"name": "Rindge Avenue - O'Neill Library",
+				"short_name": "M32036",
+				"lat": 42.392766,
+				"lon": -71.129042,
+				"region_id": 8,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 19,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.129042,
+					42.392766
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "146",
+				"name": "Day Boulevard",
+				"short_name": "C32023",
+				"lat": 42.336448,
+				"lon": -71.023739,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 19,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.023739,
+					42.336448
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "149",
+				"name": "Harvard University Transportation Services - 175 North Harvard St",
+				"short_name": "A32019",
+				"lat": 42.363796,
+				"lon": -71.129164,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 18,
+				"eightd_has_key_dispenser": true
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.129164,
+					42.363796
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "150",
+				"name": "State Street at Channel Center",
+				"short_name": "C32024",
+				"lat": 42.344137,
+				"lon": -71.052608,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 19,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.052608,
+					42.344137
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "151",
+				"name": "John F Fitzgerald - Surface Road at India Street",
+				"short_name": "A32013",
+				"lat": 42.358155,
+				"lon": -71.052163,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 19,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.052163,
+					42.358155
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "152",
+				"name": "Ink Block",
+				"short_name": "C32025",
+				"lat": 42.345901,
+				"lon": -71.063187,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 15,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.063187,
+					42.345901
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "159",
+				"name": "Heath St at South Huntington",
+				"short_name": "E32007",
+				"lat": 42.32797270205962,
+				"lon": -71.11089706420898,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 15,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.11089706420898,
+					42.32797270205962
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "160",
+				"name": "Wentworth Institute of Technology",
+				"short_name": "B32021",
+				"lat": 42.337596,
+				"lon": -71.096391,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 14,
+				"eightd_has_key_dispenser": true
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.096391,
+					42.337596
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "161",
+				"name": "West Broadway at D Street",
+				"short_name": "C32029",
+				"lat": 42.3391085,
+				"lon": -71.0514432,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 18,
+				"eightd_has_key_dispenser": true
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.0514432,
+					42.3391085
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "162",
+				"name": "Franklin Park - Seaver Street at Humbolt Ave",
+				"short_name": "C32027",
+				"lat": 42.309796,
+				"lon": -71.092225,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 15,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.092225,
+					42.309796
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "163",
+				"name": "Lawn on D",
+				"short_name": "C32028",
+				"lat": 42.344792,
+				"lon": -71.044024,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 18,
+				"eightd_has_key_dispenser": true
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.044024,
+					42.344792
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "167",
+				"name": "Ryan Playground - Dorchester Avenue Station",
+				"short_name": "C32031",
+				"lat": 42.317642,
+				"lon": -71.056664,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 15,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.056664,
+					42.317642
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "169",
+				"name": "Edwards Playground - Main Street & Eden Street",
+				"short_name": "A32022",
+				"lat": 42.378965,
+				"lon": -71.068607,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 15,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.068607,
+					42.378965
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "170",
+				"name": "Franklin Park Zoo",
+				"short_name": "C32030",
+				"lat": 42.303469,
+				"lon": -71.085347,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 14,
+				"eightd_has_key_dispenser": true
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.085347,
+					42.303469
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "171",
+				"name": "Bunker Hill Community College",
+				"short_name": "A32023",
+				"lat": 42.37408991426522,
+				"lon": -71.06905996799469,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 18,
+				"eightd_has_key_dispenser": true
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.06905996799469,
+					42.37408991426522
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "173",
+				"name": "Savin Hill MBTA Station",
+				"short_name": "C32033",
+				"lat": 42.310599,
+				"lon": -71.053927,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 13,
+				"eightd_has_key_dispenser": true
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.053927,
+					42.310599
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "174",
+				"name": "Washington St at Brock St",
+				"short_name": "D32029",
+				"lat": 42.34900494405213,
+				"lon": -71.1604106426239,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 15,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.1604106426239,
+					42.34900494405213
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "175",
+				"name": "Brighton Center",
+				"short_name": "D32028",
+				"lat": 42.34894857235593,
+				"lon": -71.15027189254761,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 16,
+				"eightd_has_key_dispenser": true
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.15027189254761,
+					42.34894857235593
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "176",
+				"name": "Lesley University",
+				"short_name": "M32039",
+				"lat": 42.38674802045056,
+				"lon": -71.11901879310608,
+				"region_id": 8,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 15,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.11901879310608,
+					42.38674802045056
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "177",
+				"name": "University Park",
+				"short_name": "M32040",
+				"lat": 42.36264779118595,
+				"lon": -71.10006093978882,
+				"region_id": 8,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 19,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.10006093978882,
+					42.36264779118595
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "178",
+				"name": "MIT Pacific St at Purrington St",
+				"short_name": "M32041",
+				"lat": 42.35957320109044,
+				"lon": -71.10129475593567,
+				"region_id": 8,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 19,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.10129475593567,
+					42.35957320109044
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "179",
+				"name": "MIT Vassar St",
+				"short_name": "M32042",
+				"lat": 42.355601213279265,
+				"lon": -71.10394477844238,
+				"region_id": 8,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 25,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.10394477844238,
+					42.355601213279265
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "180",
+				"name": "Mt Auburn",
+				"short_name": "M32043",
+				"lat": 42.37478628706384,
+				"lon": -71.13320231437683,
+				"region_id": 8,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 19,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.13320231437683,
+					42.37478628706384
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "186",
+				"name": "Congress St and Northern Ave",
+				"short_name": "C32032",
+				"lat": 42.3482032222746,
+				"lon": -71.0376513004303,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 13,
+				"eightd_has_key_dispenser": true
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.0376513004303,
+					42.3482032222746
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "189",
+				"name": "Kendall T",
+				"short_name": "M32004",
+				"lat": 42.362427842912396,
+				"lon": -71.08495473861694,
+				"region_id": 8,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 23,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.08495473861694,
+					42.362427842912396
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "190",
+				"name": "Nashua Street at Red Auerbach Way",
+				"short_name": "A32025",
+				"lat": 42.36559770612416,
+				"lon": -71.06424808502197,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 19,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.06424808502197,
+					42.36559770612416
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "192",
+				"name": "Purchase St at Pearl St",
+				"short_name": "A32026",
+				"lat": 42.354686,
+				"lon": -71.053292,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 19,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.053292,
+					42.354686
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "193",
+				"name": "Brookline Village - Station Street @ MBTA",
+				"short_name": "K32005",
+				"lat": 42.33289074055233,
+				"lon": -71.11658334732056,
+				"region_id": 4,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 15,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.11658334732056,
+					42.33289074055233
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "194",
+				"name": "Broadway St at Mt Pleasant St",
+				"short_name": "S32014",
+				"lat": 42.386141411639564,
+				"lon": -71.07828140258789,
+				"region_id": 9,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 15,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-71.07828140258789,
+					42.386141411639564
+				]
+			}
+		}
+	]
+}

@@ -1,0 +1,317 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_495",
+				"name": "BR1",
+				"region_id": "region_107",
+				"lon": -121.955134881881,
+				"lat": 37.759444753878,
+				"address": "Ascot Drive, San Ramon, California",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-121.955134881881,
+					37.759444753878
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_500",
+				"name": "BR2600 Visitor Lot",
+				"region_id": "region_107",
+				"lon": -121.96313381195067,
+				"lat": 37.76689827842722,
+				"address": "2600 Camino Ramon, San Ramon",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-121.96313381195067,
+					37.76689827842722
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_501",
+				"name": "BR3",
+				"region_id": "region_107",
+				"lon": -121.95909440517424,
+				"lat": 37.76763190215443,
+				"address": "San Ramon, California",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-121.95909440517424,
+					37.76763190215443
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_508",
+				"name": "BR8",
+				"region_id": "region_107",
+				"lon": -121.96752727031709,
+				"lat": 37.76878957103581,
+				"address": "3000-5000 Executive Parkway, San Ramon",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-121.96752727031709,
+					37.76878957103581
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_513",
+				"name": "BR6",
+				"region_id": "region_107",
+				"lon": -121.96487188339233,
+				"lat": 37.771698505160366,
+				"address": "2400-2440 Camino Ramon, San Ramon",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-121.96487188339233,
+					37.771698505160366
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_516",
+				"name": "BR7",
+				"region_id": "region_107",
+				"lon": -121.961270219129,
+				"lat": 37.7715623938024,
+				"address": "USPS, San Ramon Valley Iron Horse Trail, San Ramon, California",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-121.961270219129,
+					37.7715623938024
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_517",
+				"name": "Transit Center",
+				"region_id": "region_107",
+				"lon": -121.960058945307,
+				"lat": 37.7701568047164,
+				"address": "San Ramon Valley Iron Horse Trail, San Ramon, California",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-121.960058945307,
+					37.7701568047164
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_518",
+				"name": "BR9 ",
+				"region_id": "region_107",
+				"lon": -121.96342080831528,
+				"lat": 37.77417270527149,
+				"address": "San Ramon Valley Iron Horse Trail, San Ramon, California",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-121.96342080831528,
+					37.77417270527149
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_520",
+				"name": "BR15",
+				"region_id": "region_107",
+				"lon": -121.96046233177184,
+				"lat": 37.77431899214581,
+				"address": "12647-12677 Alcosta Boulevard, San Ramon",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-121.96046233177184,
+					37.77431899214581
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_521",
+				"name": "BR11 ",
+				"region_id": "region_107",
+				"lon": -121.9649416208267,
+				"lat": 37.77603201110472,
+				"address": "2301-2305 Camino Ramon, San Ramon",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-121.9649416208267,
+					37.77603201110472
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_524",
+				"name": "BR12 N",
+				"region_id": "region_107",
+				"lon": -121.97220504283905,
+				"lat": 37.773314059086836,
+				"address": "Annabel Lane, Bishop Ranch Business Park, San Ramon, California",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-121.97220504283905,
+					37.773314059086836
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_662",
+				"name": "San Ramon Test",
+				"region_id": "region_122",
+				"lon": -121.992872431289,
+				"lat": 37.7714624826912,
+				"address": "2401 Crow Canyon Road, San Ramon",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-121.992872431289,
+					37.7714624826912
+				]
+			}
+		}
+	]
+}
