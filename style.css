@@ -1,0 +1,11 @@
+@import "node_modules/mapbox-gl/dist/mapbox-gl.css";
+
+body { margin:0; padding:0; }
+#map { position:absolute; top:0; bottom:0; width:100%; }
+#menu {
+  position: absolute;
+  background: rgba(255, 255, 255, 0.8);
+  padding: 20px;
+  font-family: 'Helvetica Neue', Arial, Helvetica, sans-serif;
+  border-bottom-right-radius: 4px;
+}
