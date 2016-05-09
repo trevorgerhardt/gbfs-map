@@ -69,7 +69,7 @@ async function run () {
 }
 
 function getSystems () {
-  return fetch('/gbfs/systems.csv')
+  return fetch('./gbfs/systems.csv')
     .then((res) => res.text())
     .then((csv) => {
       csv
@@ -96,7 +96,7 @@ function getSystems () {
 }
 
 function updateStations (System, infoUrl) {
-  return fetch(`/gbfs/${System.id}/station_information.json`)
+  return fetch(`./gbfs/${System.id}/station_information.json`)
     .then((res) => res.json())
     .then((gbfs) => {
       System.geojson = gbfs2geojson(gbfs)
