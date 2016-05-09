@@ -1,0 +1,16 @@
+{
+	"last_updated": 1462825155,
+	"ttl": 10,
+	"data": {
+		"regions": [
+			{
+				"region_id": "70",
+				"name": "JC District"
+			},
+			{
+				"region_id": "71",
+				"name": "NYC District"
+			}
+		]
+	}
+}

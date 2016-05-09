@@ -1,0 +1,62 @@
+{
+	"last_updated": 1462825164,
+	"ttl": 60,
+	"data": {
+		"plans": [
+			{
+				"plan_id": "payment_plan_128",
+				"name": "Student Annual Membership",
+				"url": "https://widget.socialbicycles.com/32/128",
+				"currency": "USD",
+				"price": 46,
+				"taxable": 1,
+				"description": "As a student at a Boise GreenBike affiliated institution you are getting a 33% discount off the cost of an annual membership. In order to qualify for this discount you must enroll with your student email address. \r\nEach annual membership provides members with one 'free' hour of ride time each day. Additional ride time over one hour is charged to your account at a rate of $4 per hour, which is prorated based on the actual amount of time the bike is in use.\r\nAs an annual member you will be issued an RFID membership card, which will make checking out a bike easier.\r\nAll memberships renew automatically unless you contact Boise GreenBike and cancel your membership.\r\nIf you choose to use the 'Hold' function on the bikes"
+			},
+			{
+				"plan_id": "payment_plan_127",
+				"name": "Monthly Membership",
+				"url": "https://widget.socialbicycles.com/32/127",
+				"currency": "USD",
+				"price": 15,
+				"taxable": 1,
+				"description": "The Monthly Membership provides one hour of 'free' ride time every day for 30 days. Any time over one hour is charged at a rate of $4 per hour, which is prorated based on actual ride time.\r\nAll memberships renew automatically unless user contacts Boise GreenBike to cancel the membership.\r\nIf you choose to use the 'Hold' function on the bike, you will be charged at the same $4/hour rate as if you were riding the bike."
+			},
+			{
+				"plan_id": "payment_plan_124",
+				"name": "Pay as you Go",
+				"url": "https://widget.socialbicycles.com/32/124",
+				"currency": "USD",
+				"price": 0,
+				"taxable": 1,
+				"description": "The Pay as you Go plan charges at a rate of $4 per hour. You are only charged for the amount of time you actually use the bike. \r\nOnce you reserve a bike, you have 10 minutes to unlock it, after which time it is automatically put back into the system.\r\nIf you choose to use the 'Hold' function on the bike, you will be charged at the same $4/hour rate as if you were riding the bike."
+			},
+			{
+				"plan_id": "payment_plan_129",
+				"name": "Student Semester Membership",
+				"url": "https://widget.socialbicycles.com/32/129",
+				"currency": "USD",
+				"price": 25,
+				"taxable": 1,
+				"description": "The Student Semester Membership provides the student with one hour of 'free' ride time each day during the period of membership, which is essentially six months. You must use your student email address to qualify for the Semester discount. For rides exceeding one hour additional time will be charged to your account at a rate of $4 per hour, which is prorated based on actual ride time.\r\nAll memberships renew automatically unless you contact Boise GreenBike and cancel your membership.\r\nIf you choose to use the 'Hold' function on the bikes time will accumulate exactly as it does for ride time."
+			},
+			{
+				"plan_id": "payment_plan_125",
+				"name": "Annual Membership",
+				"url": "https://widget.socialbicycles.com/32/125",
+				"currency": "USD",
+				"price": 70,
+				"taxable": 1,
+				"description": "The standard annual membership provides users one hour of 'free' ride time every day of the membership year. Additional time is charged to users at a rate of $4 per hour, but is prorated based on the actual amount of time the bike is being used. \r\nAll memberships renew automatically unless you contact Boise GreenBike to cancel the membership.\r\nAnnual members will be issued an RFID card which will make checking out bikes easier.\r\nEvery time you reserve a bike you have 10 minutes to unlock and use it, otherwise it is released back into the system.\r\nIf you choose to use the 'Hold' function on the bike, you will be charged at the same $4/hour rate as if you were riding the bike."
+			},
+			{
+				"plan_id": "payment_plan_126",
+				"name": "Premium Annual Membership",
+				"url": "https://widget.socialbicycles.com/32/126",
+				"currency": "USD",
+				"price": 100,
+				"taxable": 1,
+				"description": "The Premium Annual Membership plan offers 90 minutes of 'free' ride time a day, and members will have their choice of free bike helmet, courtesy of Idaho Power, or a custom Boise GreenBike stainless steel growler, while supplies last.\r\nFor all rides over 90 minutes users will be charged at a rate of $4 per hour, which is prorated based on the actual amount of time the bike is in use.\r\nNew this for 2016, Boise GreenBike is removing the $2 Out of Hub fee for locking a bike away from a station hub for Premium members. As long as the bike is eventually returned to a station hub you never have to worry about the $2 fee again. We are doing this on a trail basis and reserve the right to rescind this offer if it becomes difficult to manage the system.\r\nAll memberships renew automatically unless the member goes to their account page and turns off auto-renew.\r\nOverage charges of $4/hour apply over the 90 minutes of ride time you get each day.\r\n"
+			}
+		]
+	}
+}

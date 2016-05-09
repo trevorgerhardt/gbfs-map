@@ -1,0 +1,17 @@
+{
+	"last_updated": 1462825170,
+	"ttl": 60,
+	"data": {
+		"plans": [
+			{
+				"plan_id": "payment_plan_56",
+				"name": "UB Seasonal",
+				"url": "https://widget.socialbicycles.com/5/56",
+				"currency": "USD",
+				"price": 10,
+				"taxable": 1,
+				"description": ""
+			}
+		]
+	}
+}

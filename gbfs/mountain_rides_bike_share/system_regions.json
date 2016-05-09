@@ -1,0 +1,16 @@
+{
+	"last_updated": 1462825171,
+	"ttl": 60,
+	"data": {
+		"regions": [
+			{
+				"region_id": "region_157",
+				"name": "Ketchum/elkhorn/Sun Valley"
+			},
+			{
+				"region_id": "region_48",
+				"name": "City of Hailey and Bellevue"
+			}
+		]
+	}
+}

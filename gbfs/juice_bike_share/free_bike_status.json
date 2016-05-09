@@ -1,0 +1,96 @@
+{
+	"last_updated": 1462825174,
+	"ttl": 60,
+	"data": {
+		"bikes": [
+			{
+				"bike_id": "bike_1679",
+				"name": "1592",
+				"lon": -81.38058166666667,
+				"lat": 28.540821666666666,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_2680",
+				"name": "1612",
+				"lon": -81.38391166666666,
+				"lat": 28.540225,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_5153",
+				"name": "1648",
+				"lon": -81.36707166666666,
+				"lat": 28.54361,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_732",
+				"name": "1532- McDaniel",
+				"lon": -81.379205,
+				"lat": 28.545306666666665,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_1705",
+				"name": "1579",
+				"lon": -81.36435666666667,
+				"lat": 28.56569,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_2662",
+				"name": "1671",
+				"lon": -81.387745,
+				"lat": 28.548228333333334,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_1650",
+				"name": "1593",
+				"lon": -81.36393666666666,
+				"lat": 28.565386666666665,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_5158",
+				"name": "1709",
+				"lon": -81.37806833333333,
+				"lat": 28.546623333333333,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_1688",
+				"name": "1589",
+				"lon": -81.37250833333333,
+				"lat": 28.533308333333334,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_2675",
+				"name": "1639",
+				"lon": -81.36714833333333,
+				"lat": 28.543656666666667,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_3072",
+				"name": "1727",
+				"lon": -81.37431666666667,
+				"lat": 28.546866666666666,
+				"is_reserved": 0,
+				"is_disabled": 0
+			}
+		]
+	}
+}

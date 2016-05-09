@@ -1,0 +1,35 @@
+{
+	"last_updated": 1462825162,
+	"ttl": 60,
+	"data": {
+		"plans": [
+			{
+				"plan_id": "payment_plan_71",
+				"name": "Annual",
+				"url": "https://widget.socialbicycles.com/34/71",
+				"currency": "USD",
+				"price": 50,
+				"taxable": 1,
+				"description": ""
+			},
+			{
+				"plan_id": "payment_plan_130",
+				"name": "Pre-paid hourly plan",
+				"url": "https://widget.socialbicycles.com/34/130",
+				"currency": "USD",
+				"price": 0,
+				"taxable": 1,
+				"description": "The pre-paid plan allows you to purchase an hour of usage at a time for $5. Your account will be billled in $5 increments as you use up your riding credit.  "
+			},
+			{
+				"plan_id": "payment_plan_108",
+				"name": "Monthly",
+				"url": "https://widget.socialbicycles.com/34/108",
+				"currency": "USD",
+				"price": 10,
+				"taxable": 1,
+				"description": ""
+			}
+		]
+	}
+}

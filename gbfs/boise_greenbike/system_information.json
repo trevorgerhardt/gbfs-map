@@ -1,0 +1,14 @@
+{
+	"last_updated": 1462825163,
+	"ttl": 60,
+	"data": {
+		"system_id": "boise_greenbike",
+		"language": "en",
+		"name": "Boise GreenBike",
+		"url": "http://boise.greenbike.com/",
+		"purchase_url": "http://boise.greenbike.com/#memberships",
+		"timezone": "America/Denver",
+		"phone_number": "208-345-7433",
+		"email": "dfotsch@boisebikeshare.org"
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"last_updated": 1462825178,
+	"ttl": 60,
+	"data": {
+		"system_id": "usf_share-a-bull_bikes",
+		"language": "en",
+		"name": "USF Share-a-Bull Bikes",
+		"url": "http://usf.socialbicycles.com/",
+		"purchase_url": "http://usf.socialbicycles.com/#memberships",
+		"timezone": "America/New_York",
+		"phone_number": "813-974-2453",
+		"email": "USFBikes@USF.edu"
+	}
+}

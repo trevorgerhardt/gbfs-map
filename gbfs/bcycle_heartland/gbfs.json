@@ -1,0 +1,26 @@
+{
+	"ttl": 60,
+	"data": {
+		"en": {
+			"feeds": [
+				{
+					"url": "https://gbfs.bcycle.com/bcycle_heartland/gbfs.json",
+					"name": "gbfs"
+				},
+				{
+					"url": "https://gbfs.bcycle.com/bcycle_heartland/system_information.json",
+					"name": "system_information"
+				},
+				{
+					"url": "https://gbfs.bcycle.com/bcycle_heartland/station_information.json",
+					"name": "station_information"
+				},
+				{
+					"url": "https://gbfs.bcycle.com/bcycle_heartland/station_status.json",
+					"name": "station_status"
+				}
+			]
+		}
+	},
+	"last_updated": "1462825163"
+}

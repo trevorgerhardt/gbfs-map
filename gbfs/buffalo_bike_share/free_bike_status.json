@@ -1,0 +1,56 @@
+{
+	"last_updated": 1462825170,
+	"ttl": 60,
+	"data": {
+		"bikes": [
+			{
+				"bike_id": "bike_1283",
+				"name": "024 BUF",
+				"lon": -78.88900833333334,
+				"lat": 42.91528,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_1316",
+				"name": "058 BUF",
+				"lon": -78.78348,
+				"lat": 43.00956,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_1266",
+				"name": "008 BUF",
+				"lon": -78.79100666666666,
+				"lat": 42.997285,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_1319",
+				"name": "061 BUF",
+				"lon": -78.78988833333334,
+				"lat": 43.000843333333336,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_1278",
+				"name": "009 BUF",
+				"lon": -78.77960166666666,
+				"lat": 43.00271,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_1289",
+				"name": "031 BUF",
+				"lon": -78.81269,
+				"lat": 42.954765,
+				"is_reserved": 0,
+				"is_disabled": 0
+			}
+		]
+	}
+}

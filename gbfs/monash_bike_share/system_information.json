@@ -1,0 +1,14 @@
+{
+	"last_updated": 1462825165,
+	"ttl": 60,
+	"data": {
+		"system_id": "monash_bike_share",
+		"language": "en",
+		"name": "Monash Bike Share",
+		"url": "http://monashbikeshare.com/",
+		"purchase_url": "http://monashbikeshare.com/#memberships",
+		"timezone": "Australia/Melbourne",
+		"phone_number": "+61 450 257 376",
+		"email": "support@monashbikeshare.com"
+	}
+}

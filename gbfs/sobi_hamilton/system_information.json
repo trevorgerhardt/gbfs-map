@@ -1,0 +1,14 @@
+{
+	"last_updated": 1462825168,
+	"ttl": 60,
+	"data": {
+		"system_id": "sobi_hamilton",
+		"language": "en",
+		"name": "SoBi Hamilton",
+		"url": "http://hamilton.socialbicycles.com/",
+		"purchase_url": "http://hamilton.socialbicycles.com/#memberships",
+		"timezone": "America/New_York",
+		"phone_number": "289-768-2453",
+		"email": "help@sobihamilton.ca"
+	}
+}

@@ -1,0 +1,53 @@
+{
+	"last_updated": 1462825167,
+	"ttl": 60,
+	"data": {
+		"plans": [
+			{
+				"plan_id": "payment_plan_62",
+				"name": "Pay As You Go",
+				"url": "https://widget.socialbicycles.com/24/62",
+				"currency": "CAD",
+				"price": 3,
+				"taxable": 1,
+				"description": ""
+			},
+			{
+				"plan_id": "payment_plan_52",
+				"name": "Annual Member",
+				"url": "https://widget.socialbicycles.com/24/52",
+				"currency": "CAD",
+				"price": 85,
+				"taxable": 1,
+				"description": ""
+			},
+			{
+				"plan_id": "payment_plan_118",
+				"name": "Power User",
+				"url": "https://widget.socialbicycles.com/24/118",
+				"currency": "CAD",
+				"price": 125,
+				"taxable": 1,
+				"description": "Frequent User"
+			},
+			{
+				"plan_id": "payment_plan_77",
+				"name": "McMaster Member**",
+				"url": "https://widget.socialbicycles.com/24/77",
+				"currency": "CAD",
+				"price": 70,
+				"taxable": 1,
+				"description": ""
+			},
+			{
+				"plan_id": "payment_plan_51",
+				"name": "Monthly Member",
+				"url": "https://widget.socialbicycles.com/24/51",
+				"currency": "CAD",
+				"price": 15,
+				"taxable": 1,
+				"description": ""
+			}
+		]
+	}
+}

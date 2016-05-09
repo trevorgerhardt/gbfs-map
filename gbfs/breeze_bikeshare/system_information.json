@@ -1,0 +1,14 @@
+{
+	"last_updated": 1462825163,
+	"ttl": 60,
+	"data": {
+		"system_id": "breeze_bikeshare",
+		"language": "en",
+		"name": "Breeze Bikeshare",
+		"url": "http://santamonicabikeshare.com/",
+		"purchase_url": "http://santamonicabikeshare.com/#memberships",
+		"timezone": "America/Los_Angeles",
+		"phone_number": "310-828-2525",
+		"email": "info@BreezeBikeShare.com"
+	}
+}

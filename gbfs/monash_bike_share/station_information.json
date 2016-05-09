@@ -1,0 +1,136 @@
+{
+	"last_updated": 1462825166,
+	"ttl": 60,
+	"data": {
+		"stations": [
+			{
+				"station_id": "hub_1064",
+				"name": "Monash Sport",
+				"region_id": "region_95",
+				"lon": 145.1362281292677,
+				"lat": -37.91238410208696,
+				"address": "Bicycle Lockers, Scenic Boulevard, Clayton, City of Monash, Greater Melbourne, Victoria",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_1065",
+				"name": "Menzies E",
+				"region_id": "region_95",
+				"lon": 145.133110396564,
+				"lat": -37.912613437541644,
+				"address": "Chancellors Walk, Clayton",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_1066",
+				"name": "Menzies W",
+				"region_id": "region_95",
+				"lon": 145.1321069151163,
+				"lat": -37.91235659240465,
+				"address": "Humanities (11) (CL_20Chn), Chancellors Walk, Clayton, City of Monash, Greater Melbourne, Victoria",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_1067",
+				"name": "Campus Centre N",
+				"region_id": "region_95",
+				"lon": 145.1328257471323,
+				"lat": -37.911341370489716,
+				"address": "Monash Eyecare, Rainforest Walk, Clayton, City of Monash, Greater Melbourne, Victoria",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_1068",
+				"name": "Campus Centre S",
+				"region_id": "region_95",
+				"lon": 145.13306245207787,
+				"lat": -37.91222063075334,
+				"address": "Chancellors Walk, Clayton",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_1069",
+				"name": "Library",
+				"region_id": "region_95",
+				"lon": 145.13200029730797,
+				"lat": -37.91012350911407,
+				"address": "College Walk, Clayton",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_1070",
+				"name": "Medicine Offices",
+				"region_id": "region_95",
+				"lon": 145.13135991990566,
+				"lat": -37.91311098996793,
+				"address": "Faculty of Medicine Offices (64) (CL_43Rnf), Ancora Imparo Way, Clayton, City of Monash, Greater Melbourne, Victoria",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_1071",
+				"name": "Rainforest Walk",
+				"region_id": "region_95",
+				"lon": 145.13132974505424,
+				"lat": -37.91250895384967,
+				"address": "Medicine (13D) (CL_35Rnf), Chancellors Walk, Clayton, City of Monash, Greater Melbourne, Victoria",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			}
+		]
+	}
+}

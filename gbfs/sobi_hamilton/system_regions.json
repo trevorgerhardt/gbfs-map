@@ -1,0 +1,16 @@
+{
+	"last_updated": 1462825167,
+	"ttl": 60,
+	"data": {
+		"regions": [
+			{
+				"region_id": "region_86",
+				"name": "Core Service Area"
+			},
+			{
+				"region_id": "region_172",
+				"name": "Van Wagner's"
+			}
+		]
+	}
+}

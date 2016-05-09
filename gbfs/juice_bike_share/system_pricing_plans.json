@@ -1,0 +1,53 @@
+{
+	"last_updated": 1462825176,
+	"ttl": 60,
+	"data": {
+		"plans": [
+			{
+				"plan_id": "payment_plan_137",
+				"name": "Monthly",
+				"url": "https://widget.socialbicycles.com/23/137",
+				"currency": "USD",
+				"price": 15,
+				"taxable": 1,
+				"description": ""
+			},
+			{
+				"plan_id": "payment_plan_146",
+				"name": "Student Annual",
+				"url": "https://widget.socialbicycles.com/23/146",
+				"currency": "USD",
+				"price": 59,
+				"taxable": 1,
+				"description": "Discounted Student Rate Plan"
+			},
+			{
+				"plan_id": "payment_plan_98",
+				"name": "Pay As You Go",
+				"url": "https://widget.socialbicycles.com/23/98",
+				"currency": "USD",
+				"price": 0,
+				"taxable": 1,
+				"description": "Tour the town! "
+			},
+			{
+				"plan_id": "payment_plan_45",
+				"name": "Monthly Plus",
+				"url": "https://widget.socialbicycles.com/23/45",
+				"currency": "USD",
+				"price": 20,
+				"taxable": 1,
+				"description": "This $20/ month subscription lets you ride for 90 minutes/day."
+			},
+			{
+				"plan_id": "payment_plan_283",
+				"name": "Student Annual (Valencia)",
+				"url": "https://widget.socialbicycles.com/23/283",
+				"currency": "USD",
+				"price": 59,
+				"taxable": 1,
+				"description": "Valencia College Plan that has 2 hour rentals instead of 1 hour. We have this special due to our sponsorship partnership, and the lack of stations near the Winter Park Campus."
+			}
+		]
+	}
+}

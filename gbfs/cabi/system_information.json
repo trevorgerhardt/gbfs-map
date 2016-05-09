@@ -1,0 +1,17 @@
+{
+	"last_updated": 1462825137,
+	"ttl": 60,
+	"data": {
+		"system_id": "cabi",
+		"language": "en",
+		"name": "Capital Bikeshare",
+		"short_name": "Capital Bikeshare",
+		"operator": "Motivate International, Inc.",
+		"url": "http://www.capitalbikeshare.com",
+		"purchase_url": "https://secure.capitalbikeshare.com/register/",
+		"start_date": "2010-09-20",
+		"phone_number": "1-877-430-BIKE",
+		"email": "customerservice@capitalbikeshare.com",
+		"timezone": "America/New_York"
+	}
+}

@@ -1,0 +1,26 @@
+{
+	"last_updated": 1462825173,
+	"ttl": 60,
+	"data": {
+		"plans": [
+			{
+				"plan_id": "payment_plan_141",
+				"name": "Hourly",
+				"url": "https://widget.socialbicycles.com/33/141",
+				"currency": "USD",
+				"price": 0,
+				"taxable": 1,
+				"description": "Down for the Day?  Take advantage of our pro-rated hourly plan for only $8 an hour! "
+			},
+			{
+				"plan_id": "payment_plan_291",
+				"name": "2016 Season",
+				"url": "https://widget.socialbicycles.com/33/291",
+				"currency": "USD",
+				"price": 50,
+				"taxable": 1,
+				"description": "Down for the Season?  Ride like a local with a 2016 Season pass."
+			}
+		]
+	}
+}

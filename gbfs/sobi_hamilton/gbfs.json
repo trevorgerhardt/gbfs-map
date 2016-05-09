@@ -1,0 +1,50 @@
+{
+	"last_updated": 1462825161,
+	"ttl": 60,
+	"data": {
+		"en": {
+			"feeds": [
+				{
+					"name": "gbfs",
+					"url": "http://hamilton.socialbicycles.com/opendata/gbfs.json"
+				},
+				{
+					"name": "system_information",
+					"url": "http://hamilton.socialbicycles.com/opendata/system_information.json"
+				},
+				{
+					"name": "station_information",
+					"url": "http://hamilton.socialbicycles.com/opendata/station_information.json"
+				},
+				{
+					"name": "station_status",
+					"url": "http://hamilton.socialbicycles.com/opendata/station_status.json"
+				},
+				{
+					"name": "free_bike_status",
+					"url": "http://hamilton.socialbicycles.com/opendata/free_bike_status.json"
+				},
+				{
+					"name": "system_hours",
+					"url": "http://hamilton.socialbicycles.com/opendata/system_hours.json"
+				},
+				{
+					"name": "system_calendar",
+					"url": "http://hamilton.socialbicycles.com/opendata/system_calendar.json"
+				},
+				{
+					"name": "system_regions",
+					"url": "http://hamilton.socialbicycles.com/opendata/system_regions.json"
+				},
+				{
+					"name": "system_pricing_plans",
+					"url": "http://hamilton.socialbicycles.com/opendata/system_pricing_plans.json"
+				},
+				{
+					"name": "system_alerts",
+					"url": "http://hamilton.socialbicycles.com/opendata/system_alerts.json"
+				}
+			]
+		}
+	}
+}

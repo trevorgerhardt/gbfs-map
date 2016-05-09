@@ -1,0 +1,14 @@
+{
+	"last_updated": 1462825172,
+	"ttl": 60,
+	"data": {
+		"system_id": "grid_bike_share",
+		"language": "en",
+		"name": "Grid Bike Share",
+		"url": "http://grid.socialbicycles.com/",
+		"purchase_url": "http://grid.socialbicycles.com/#memberships",
+		"timezone": "America/Phoenix",
+		"phone_number": "602.753.4743",
+		"email": "info@gridbikes.com"
+	}
+}

@@ -1,0 +1,20 @@
+{
+	"last_updated": 1462825171,
+	"ttl": 60,
+	"data": {
+		"regions": [
+			{
+				"region_id": "region_80",
+				"name": "Phoenix"
+			},
+			{
+				"region_id": "region_81",
+				"name": "Tempe"
+			},
+			{
+				"region_id": "region_213",
+				"name": "Mesa"
+			}
+		]
+	}
+}

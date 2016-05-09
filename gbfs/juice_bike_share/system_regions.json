@@ -1,0 +1,20 @@
+{
+	"last_updated": 1462825176,
+	"ttl": 60,
+	"data": {
+		"regions": [
+			{
+				"region_id": "region_197",
+				"name": "Lake Nona"
+			},
+			{
+				"region_id": "region_196",
+				"name": "Celebration"
+			},
+			{
+				"region_id": "region_85",
+				"name": "Orlando "
+			}
+		]
+	}
+}

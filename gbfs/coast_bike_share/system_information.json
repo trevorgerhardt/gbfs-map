@@ -1,0 +1,14 @@
+{
+	"last_updated": 1462825167,
+	"ttl": 60,
+	"data": {
+		"system_id": "coast_bike_share",
+		"language": "en",
+		"name": "Coast Bike Share",
+		"url": "http://coastbikeshare.com/",
+		"purchase_url": "http://coastbikeshare.com/#memberships",
+		"timezone": "America/New_York",
+		"phone_number": "813.999.3300",
+		"email": "info@coastbikeshare.com"
+	}
+}

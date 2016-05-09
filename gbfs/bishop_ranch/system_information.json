@@ -1,0 +1,14 @@
+{
+	"last_updated": 1462825162,
+	"ttl": 60,
+	"data": {
+		"system_id": "bishop_ranch",
+		"language": "en",
+		"name": "Bishop Ranch",
+		"url": "http://britebikes.socialbicycles.com/",
+		"purchase_url": "http://britebikes.socialbicycles.com/#memberships",
+		"timezone": "America/Los_Angeles",
+		"phone_number": "(925) 968-8377",
+		"email": "BRiteBikes@bishopranch.com"
+	}
+}

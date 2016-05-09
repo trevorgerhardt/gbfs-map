@@ -1,0 +1,14 @@
+{
+	"last_updated": 1462825176,
+	"ttl": 60,
+	"data": {
+		"system_id": "university_of_virginia",
+		"language": "en",
+		"name": "University of Virginia",
+		"url": "http://ubike.virginia.edu/",
+		"purchase_url": "http://ubike.virginia.edu/#memberships",
+		"timezone": "America/New_York",
+		"phone_number": "434-326-7845",
+		"email": "ubike@virginia.edu"
+	}
+}

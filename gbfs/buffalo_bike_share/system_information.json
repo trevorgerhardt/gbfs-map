@@ -1,0 +1,14 @@
+{
+	"last_updated": 1462825170,
+	"ttl": 60,
+	"data": {
+		"system_id": "buffalo_bike_share",
+		"language": "en",
+		"name": "Buffalo Bike Share",
+		"url": "http://buffalo.socialbicycles.com/",
+		"purchase_url": "http://buffalo.socialbicycles.com/#memberships",
+		"timezone": "America/New_York",
+		"phone_number": "",
+		"email": "info@buffalobikeshare.org"
+	}
+}

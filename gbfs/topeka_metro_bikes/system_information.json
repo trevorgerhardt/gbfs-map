@@ -1,0 +1,14 @@
+{
+	"last_updated": 1462825174,
+	"ttl": 60,
+	"data": {
+		"system_id": "topeka_metro_bikes",
+		"language": "en",
+		"name": "Topeka Metro Bikes",
+		"url": "http://topekametrobikes.org/",
+		"purchase_url": "http://topekametrobikes.org/#memberships",
+		"timezone": "America/Chicago",
+		"phone_number": "785-233-2011 x 138",
+		"email": "info@topekametrobikes.org"
+	}
+}

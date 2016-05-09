@@ -1,0 +1,13 @@
+{
+	"ttl": 60,
+	"data": {
+		"system_id": "bcycle_heartland",
+		"name": "Heartland B-cycle",
+		"language": "en",
+		"url": "https://heartland.bcycle.com",
+		"phone_number": "402-957-2453",
+		"email": "bturner@livewellomaha.org",
+		"timezone": "America/Chicago"
+	},
+	"last_updated": "1462825163"
+}

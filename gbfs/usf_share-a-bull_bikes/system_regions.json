@@ -1,0 +1,16 @@
+{
+	"last_updated": 1462825178,
+	"ttl": 60,
+	"data": {
+		"regions": [
+			{
+				"region_id": "region_178",
+				"name": "Riverfront Park"
+			},
+			{
+				"region_id": "region_176",
+				"name": "tampa campus"
+			}
+		]
+	}
+}

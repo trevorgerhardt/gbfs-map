@@ -1,0 +1,136 @@
+{
+	"last_updated": 1462825166,
+	"ttl": 60,
+	"data": {
+		"bikes": [
+			{
+				"bike_id": "bike_954",
+				"name": "BR 82",
+				"lon": -121.96462,
+				"lat": 37.763263333333335,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_467",
+				"name": "BR 50",
+				"lon": -121.96172333333334,
+				"lat": 37.76596833333333,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_464",
+				"name": "BR 47",
+				"lon": -121.95826166666667,
+				"lat": 37.77457833333333,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_618",
+				"name": "BR 17",
+				"lon": -121.96163166666666,
+				"lat": 37.765863333333336,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_949",
+				"name": "BR 77",
+				"lon": -121.96463166666666,
+				"lat": 37.76703666666667,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_961",
+				"name": "BR 89",
+				"lon": -121.95681,
+				"lat": 37.75904166666667,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_942",
+				"name": "BR 70",
+				"lon": -121.96283666666666,
+				"lat": 37.77421666666667,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_946",
+				"name": "BR 76",
+				"lon": -121.96512833333334,
+				"lat": 37.766235,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_581",
+				"name": "BR 28",
+				"lon": -121.96108833333334,
+				"lat": 37.775825,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_572",
+				"name": "BR 36",
+				"lon": -121.96463833333334,
+				"lat": 37.76712833333333,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_929",
+				"name": "BR 21",
+				"lon": -121.96515166666667,
+				"lat": 37.76618333333333,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_612",
+				"name": "BR 14",
+				"lon": -121.961215,
+				"lat": 37.77578,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_575",
+				"name": "BR 22",
+				"lon": -121.96519166666667,
+				"lat": 37.76629166666667,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_931",
+				"name": "BR 59",
+				"lon": -121.96549,
+				"lat": 37.76341,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_930",
+				"name": "BR 58",
+				"lon": -121.96467333333334,
+				"lat": 37.767023333333334,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_614",
+				"name": "BR 13",
+				"lon": -121.96447,
+				"lat": 37.76741833333333,
+				"is_reserved": 0,
+				"is_disabled": 0
+			}
+		]
+	}
+}

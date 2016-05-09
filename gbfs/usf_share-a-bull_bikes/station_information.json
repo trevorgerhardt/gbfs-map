@@ -1,0 +1,168 @@
+{
+	"last_updated": 1462825178,
+	"ttl": 60,
+	"data": {
+		"stations": [
+			{
+				"station_id": "hub_1097",
+				"name": "Patel Center",
+				"region_id": "region_176",
+				"lon": -82.40845799446106,
+				"lat": 28.05550112500214,
+				"address": "4600 East Fowler Avenue, Tampa",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_1104",
+				"name": "Lot 18 South",
+				"region_id": "region_176",
+				"lon": -82.40267515182495,
+				"lat": 28.060264665300465,
+				"address": "207 USF Sycamore Drive, Tampa",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_1112",
+				"name": "Lot 43",
+				"region_id": "region_176",
+				"lon": -82.41648852825165,
+				"lat": 28.06795926070394,
+				"address": "13335 USF Laurel Drive, Tampa",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_1216",
+				"name": "Juniper-Poplar-Magnolia",
+				"region_id": "region_176",
+				"lon": -82.41858132183552,
+				"lat": 28.05947588505838,
+				"address": "3707 USF Beach Lane, Tampa",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_1217",
+				"name": "REC",
+				"region_id": "region_176",
+				"lon": -82.40777134895325,
+				"lat": 28.059885956844763,
+				"address": "12301 USF Maple Drive, Tampa",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_1218",
+				"name": "MSC North",
+				"region_id": "region_176",
+				"lon": -82.41346836090088,
+				"lat": 28.064297828721415,
+				"address": "4103 USF Cedar Circle, Tampa",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_1219",
+				"name": "MSC South",
+				"region_id": "region_176",
+				"lon": -82.41391763091087,
+				"lat": 28.063202570065037,
+				"address": "3839 USF Holly Drive, Tampa",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_1220",
+				"name": "Cooper",
+				"region_id": "region_176",
+				"lon": -82.41085857152939,
+				"lat": 28.05980903164109,
+				"address": "12011 USF Sago Drive, Tampa",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_1226",
+				"name": "Lot 18 north",
+				"region_id": "region_176",
+				"lon": -82.40264296531677,
+				"lat": 28.06553330970077,
+				"address": "504 USF Sycamore Drive, Tampa",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_1270",
+				"name": "Shop",
+				"region_id": "region_176",
+				"lon": -82.4076198041439,
+				"lat": 28.060548696070995,
+				"address": "12301 USF Maple Drive, Tampa",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			}
+		]
+	}
+}

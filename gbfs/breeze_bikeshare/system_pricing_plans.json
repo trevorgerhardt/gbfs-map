@@ -1,0 +1,80 @@
+{
+	"last_updated": 1462825165,
+	"ttl": 60,
+	"data": {
+		"plans": [
+			{
+				"plan_id": "payment_plan_186",
+				"name": "Pay-As-You-Go",
+				"url": "https://widget.socialbicycles.com/42/186",
+				"currency": "USD",
+				"price": 0,
+				"taxable": 1,
+				"description": "The Breeze Pay-As-You-Go plan requires a minimum purchase of $6 + tax to initiate a prepaid balance on the account. The prepaid balance is reduced at the rate of $0.10 per minute for riding time, all other overage fees that exceed an account holder's prepaid balance will be billed within 7 days. "
+			},
+			{
+				"plan_id": "payment_plan_225",
+				"name": "Monthly Plus",
+				"url": "https://widget.socialbicycles.com/42/225",
+				"currency": "USD",
+				"price": 25,
+				"taxable": 1,
+				"description": "The Monthly plus plan includes 60 minutes of rental time each calendar day for 30 days. Additional minutes are charged at the Pay As You Go rate of $0.10/minute. All other fees and credits are described in the Rental Policy. Thank you for riding Breeze."
+			},
+			{
+				"plan_id": "payment_plan_224",
+				"name": "Monthly Basic",
+				"url": "https://widget.socialbicycles.com/42/224",
+				"currency": "USD",
+				"price": 20,
+				"taxable": 1,
+				"description": "The Monthly Basic plan includes 30 minutes of rental time each calendar day for 30 days. Additional minutes are charged at the Pay As You Go rate of $0.10/minute. All other fees and credits are described in the Rental Policy. Thank you for riding Breeze."
+			},
+			{
+				"plan_id": "payment_plan_236",
+				"name": "Annual Plus",
+				"url": "https://widget.socialbicycles.com/42/236",
+				"currency": "USD",
+				"price": 149,
+				"taxable": 1,
+				"description": "The Annual Plus plan includes 60 minutes of rental time each calendar day. Additional minutes are charged at the Pay As You Go rate of $0.10/minute. All other fees and credits are described in the Rental Policy. Thank you for riding Breeze."
+			},
+			{
+				"plan_id": "payment_plan_235",
+				"name": "Annual Basic",
+				"url": "https://widget.socialbicycles.com/42/235",
+				"currency": "USD",
+				"price": 119,
+				"taxable": 1,
+				"description": "The Annual Basic plan includes 30 minutes of rental time each calendar day. Additional minutes are charged at the Pay As You Go rate of $0.10/minute. All other fees and credits are described in the Rental Policy. Thank you for riding Breeze."
+			},
+			{
+				"plan_id": "payment_plan_234",
+				"name": "SMC Students",
+				"url": "https://widget.socialbicycles.com/42/234",
+				"currency": "USD",
+				"price": 47,
+				"taxable": 1,
+				"description": "This plan is for students of Santa Monica College.  SMC ID Numbers will be validated on a recurring basis.\r\n\r\nThe SMC Students plan includes 60 minutes of rental time each calendar day. Additional minutes are charged at the Pay As You Go rate of $0.10/minute. Please read the Rental Policy for details about all other fees and credits. Thank you for riding Breeze."
+			},
+			{
+				"plan_id": "payment_plan_250",
+				"name": "Santa Monica Resident Basic",
+				"url": "https://widget.socialbicycles.com/42/250",
+				"currency": "USD",
+				"price": 79,
+				"taxable": 1,
+				"description": ""
+			},
+			{
+				"plan_id": "payment_plan_249",
+				"name": "Santa Monica Resident Plus ",
+				"url": "https://widget.socialbicycles.com/42/249",
+				"currency": "USD",
+				"price": 99,
+				"taxable": 1,
+				"description": ""
+			}
+		]
+	}
+}

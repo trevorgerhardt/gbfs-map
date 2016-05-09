@@ -1,0 +1,50 @@
+{
+	"last_updated": 1462825169,
+	"ttl": 60,
+	"data": {
+		"en": {
+			"feeds": [
+				{
+					"name": "gbfs",
+					"url": "http://ubike.virginia.edu/opendata/gbfs.json"
+				},
+				{
+					"name": "system_information",
+					"url": "http://ubike.virginia.edu/opendata/system_information.json"
+				},
+				{
+					"name": "station_information",
+					"url": "http://ubike.virginia.edu/opendata/station_information.json"
+				},
+				{
+					"name": "station_status",
+					"url": "http://ubike.virginia.edu/opendata/station_status.json"
+				},
+				{
+					"name": "free_bike_status",
+					"url": "http://ubike.virginia.edu/opendata/free_bike_status.json"
+				},
+				{
+					"name": "system_hours",
+					"url": "http://ubike.virginia.edu/opendata/system_hours.json"
+				},
+				{
+					"name": "system_calendar",
+					"url": "http://ubike.virginia.edu/opendata/system_calendar.json"
+				},
+				{
+					"name": "system_regions",
+					"url": "http://ubike.virginia.edu/opendata/system_regions.json"
+				},
+				{
+					"name": "system_pricing_plans",
+					"url": "http://ubike.virginia.edu/opendata/system_pricing_plans.json"
+				},
+				{
+					"name": "system_alerts",
+					"url": "http://ubike.virginia.edu/opendata/system_alerts.json"
+				}
+			]
+		}
+	}
+}

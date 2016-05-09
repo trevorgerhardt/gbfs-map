@@ -1,0 +1,17 @@
+{
+	"last_updated": 1462825129,
+	"ttl": 60,
+	"data": {
+		"system_id": "hubway",
+		"language": "en",
+		"name": "Hubway",
+		"short_name": "Hubway",
+		"operator": "Motivate International, Inc.",
+		"url": "http://thehubway.com",
+		"purchase_url": "https://thehubway.com/signup",
+		"start_date": "2011-07-28",
+		"phone_number": "1-855-9HUBWAY",
+		"email": "customerservice@thehubway.com",
+		"timezone": "America/New_York"
+	}
+}

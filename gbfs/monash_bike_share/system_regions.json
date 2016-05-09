@@ -1,0 +1,16 @@
+{
+	"last_updated": 1462825165,
+	"ttl": 60,
+	"data": {
+		"regions": [
+			{
+				"region_id": "region_95",
+				"name": "Main Campus"
+			},
+			{
+				"region_id": "region_228",
+				"name": "211 Wellington"
+			}
+		]
+	}
+}

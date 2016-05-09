@@ -1,0 +1,16 @@
+{
+	"last_updated": 1462825173,
+	"ttl": 60,
+	"data": {
+		"bikes": [
+			{
+				"bike_id": "bike_506",
+				"name": "076 LBNY",
+				"lon": -73.65411166666667,
+				"lat": 40.58298666666666,
+				"is_reserved": 0,
+				"is_disabled": 0
+			}
+		]
+	}
+}

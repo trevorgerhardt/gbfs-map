@@ -1,0 +1,14 @@
+{
+	"last_updated": 1462825175,
+	"ttl": 60,
+	"data": {
+		"system_id": "juice_bike_share",
+		"language": "en",
+		"name": "Juice Bike Share",
+		"url": "http://orlando.socialbicycles.com/",
+		"purchase_url": "http://orlando.socialbicycles.com/#memberships",
+		"timezone": "America/New_York",
+		"phone_number": "407-930-9414",
+		"email": "info@juicebikeshare.com"
+	}
+}

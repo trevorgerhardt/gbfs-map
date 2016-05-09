@@ -1,0 +1,12 @@
+{
+	"last_updated": 1462825165,
+	"ttl": 60,
+	"data": {
+		"regions": [
+			{
+				"region_id": "region_192",
+				"name": "Breeze Bike Share Area"
+			}
+		]
+	}
+}

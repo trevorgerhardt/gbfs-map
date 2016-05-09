@@ -1,0 +1,20 @@
+{
+	"last_updated": 1462825176,
+	"ttl": 60,
+	"data": {
+		"regions": [
+			{
+				"region_id": "region_163",
+				"name": "Preston-BRC"
+			},
+			{
+				"region_id": "region_100",
+				"name": "UVA Main Campus"
+			},
+			{
+				"region_id": "region_226",
+				"name": "North Grounds"
+			}
+		]
+	}
+}

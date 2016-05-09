@@ -1,0 +1,17 @@
+{
+	"last_updated": 1462825156,
+	"ttl": 60,
+	"data": {
+		"system_id": "pronto",
+		"language": "en",
+		"name": "Pronto Cycle Share",
+		"short_name": "Pronto Cycle Share",
+		"operator": "Motivate International, Inc.",
+		"url": "http://www.prontocycleshare.com",
+		"purchase_url": "https://www.prontocycleshare.com/",
+		"start_date": "2014-10-12",
+		"phone_number": "1-844-6PRONTO",
+		"email": "customerservice@prontocycleshare.com",
+		"timezone": "US/Pacific"
+	}
+}

@@ -1,0 +1,1881 @@
+{
+	"last_updated": 1462825166,
+	"ttl": 60,
+	"data": {
+		"stations": [
+			{
+				"station_id": "hub_435",
+				"name": "Gore Park - 74",
+				"region_id": "region_86",
+				"lon": -79.8689437450554,
+				"lat": 43.2563611479408,
+				"address": "20 King Street East, Hamilton",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_436",
+				"name": "James North at Mulberry - 76",
+				"region_id": "region_86",
+				"lon": -79.8668572246858,
+				"lat": 43.2616188105294,
+				"address": "178 James Street North, Hamilton",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_527",
+				"name": "Seedworks - 81B",
+				"region_id": "region_86",
+				"lon": -79.86363172531128,
+				"lat": 43.259131702172105,
+				"address": "126 Catharine Street North, Hamilton",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_529",
+				"name": "King at Millers - 3",
+				"region_id": "region_86",
+				"lon": -79.9559750702314,
+				"lat": 43.2655901047225,
+				"address": "14, Miller's Lane, Cootes Paradise, Ancaster, Dundas, Ontario",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_530",
+				"name": "Cootes at King - 4",
+				"region_id": "region_86",
+				"lon": -79.9502560099603,
+				"lat": 43.2657442749436,
+				"address": "4 Cootes Drive, Hamilton",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_531",
+				"name": "Cootes at Dundas - 5",
+				"region_id": "region_86",
+				"lon": -79.9443870227412,
+				"lat": 43.2654225057619,
+				"address": "Cootes Drive Trail, Hamilton",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_535",
+				"name": "Osler at Grant - 6",
+				"region_id": "region_86",
+				"lon": -79.9426434441838,
+				"lat": 43.2595496051254,
+				"address": "89-101 Osler Drive, Hamilton",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_536",
+				"name": "Main at Whitney - 7",
+				"region_id": "region_86",
+				"lon": -79.9398095187494,
+				"lat": 43.2521264410366,
+				"address": "1850, Main Street West, University Gardens, Ancaster, Hamilton, Ontario",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_537",
+				"name": "Osler at Main - 8",
+				"region_id": "region_86",
+				"lon": -79.9342255404988,
+				"lat": 43.2572539435115,
+				"address": "1686 Main Street West, Hamilton",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_538",
+				"name": "Whitney at Lower Horning - 9",
+				"region_id": "region_86",
+				"lon": -79.9354198942367,
+				"lat": 43.2518522355378,
+				"address": "377, Whitney Avenue, University Gardens, Hamilton, Ontario",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_539",
+				"name": "Sanders at Binkley - 12",
+				"region_id": "region_86",
+				"lon": -79.9298070942173,
+				"lat": 43.2587937194694,
+				"address": "58, Sanders Boulevard, University Gardens, Hamilton, Ontario",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_540",
+				"name": "Sanders at Hollywood - 13",
+				"region_id": "region_86",
+				"lon": -79.9264810904732,
+				"lat": 43.2599031676959,
+				"address": "26, Sanders Boulevard, University Gardens, Hamilton, Ontario",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_541",
+				"name": "King at Cline - 18",
+				"region_id": "region_86",
+				"lon": -79.9092948353051,
+				"lat": 43.2605367847852,
+				"address": "1108 King Street West, Hamilton",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_542",
+				"name": "Sterling at Whitton - 19",
+				"region_id": "region_86",
+				"lon": -79.9133658840373,
+				"lat": 43.2622271626907,
+				"address": "139, Sterling Street, Westdale, Hamilton, Ontario",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_543",
+				"name": "Sterling at Haddon - 20",
+				"region_id": "region_86",
+				"lon": -79.9102918339321,
+				"lat": 43.2620502466148,
+				"address": "76, Sterling Street, Westdale, Hamilton, Ontario",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_544",
+				"name": "Westdale Library -21",
+				"region_id": "region_86",
+				"lon": -79.9036106426721,
+				"lat": 43.2627732154453,
+				"address": "948, King Street West, Westdale, Hamilton, Ontario",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_545",
+				"name": "Emerson at Whitney -22",
+				"region_id": "region_86",
+				"lon": -79.9222158171462,
+				"lat": 43.2521423210113,
+				"address": "202, Emerson Street, University Gardens, Hamilton, Ontario",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_546",
+				"name": "Rail Trail at Emerson - 23",
+				"region_id": "region_86",
+				"lon": -79.9208028150996,
+				"lat": 43.2546745875963,
+				"address": "Hamilton Brantford Rail Trail, Emerson Street, Westdale, Hamilton, Ontario",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_547",
+				"name": "Westdale Village - 24",
+				"region_id": "region_86",
+				"lon": -79.90508794784544,
+				"lat": 43.26201477888108,
+				"address": "25 Marion Avenue South, Hamilton",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_548",
+				"name": "Rail Trail at Stroud - 27",
+				"region_id": "region_86",
+				"lon": -79.9166152756283,
+				"lat": 43.2535916384655,
+				"address": "Hamilton Brantford Rail Trail, Emerson Street, Westdale, Hamilton, Ontario",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_549",
+				"name": "Main at Columbia College - 28",
+				"region_id": "region_86",
+				"lon": -79.9075055557357,
+				"lat": 43.2584845065745,
+				"address": "1024, Main Street West, Westdale, Hamilton, Ontario",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_550",
+				"name": "Longwood at King - 30",
+				"region_id": "region_86",
+				"lon": -79.9009418422827,
+				"lat": 43.2630174571678,
+				"address": "881, King Street West, Westdale, Hamilton, Ontario",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_551",
+				"name": "Longwood at Edgevale - 31",
+				"region_id": "region_86",
+				"lon": -79.8993094512,
+				"lat": 43.2662112220324,
+				"address": "78, Longwood Road North, Westdale, Hamilton, Ontario",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_552",
+				"name": "Chedoke Stairs - 32",
+				"region_id": "region_86",
+				"lon": -79.90823779724,
+				"lat": 43.2460802627748,
+				"address": "Chedoke Park, Hamilton, Ontario",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_553",
+				"name": "Main at Longwood - 33",
+				"region_id": "region_86",
+				"lon": -79.9024303171158,
+				"lat": 43.2588992373017,
+				"address": "925, Main Street West, McMaster Innovation Park, Hamilton, Ontario",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_554",
+				"name": "Macklin at King - 34",
+				"region_id": "region_86",
+				"lon": -79.8964982026467,
+				"lat": 43.2621672804245,
+				"address": "768, King Street West, McMaster Innovation Park, Hamilton, Ontario",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_555",
+				"name": "McMaster Innovation Park - 35",
+				"region_id": "region_86",
+				"lon": -79.9011022668214,
+				"lat": 43.2565362152283,
+				"address": "Frid Street, Hamilton",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_556",
+				"name": "Dundurn Stairs - 36",
+				"region_id": "region_86",
+				"lon": -79.8947787566411,
+				"lat": 43.2465214141618,
+				"address": "534, Dundurn Street South, Chedoke Park, Hamilton, Ontario",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_557",
+				"name": "Dundurn at Aberdeen - 38",
+				"region_id": "region_86",
+				"lon": -79.8927465544786,
+				"lat": 43.2513559387353,
+				"address": "330-346 Dundurn Street South, Hamilton",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_558",
+				"name": "Dundurn St S - 39",
+				"region_id": "region_86",
+				"lon": -79.8909067737901,
+				"lat": 43.2548127612063,
+				"address": "229-233 Dundurn Street South, Hamilton",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_559",
+				"name": "Main at Dundurn - 40",
+				"region_id": "region_86",
+				"lon": -79.8892092704773,
+				"lat": 43.25966301112219,
+				"address": "91 Dundurn Street South, Hamilton",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_560",
+				"name": "King at Dundurn - 42",
+				"region_id": "region_86",
+				"lon": -79.8876726044335,
+				"lat": 43.2622886895289,
+				"address": "8-10 Dundurn Street North, Hamilton",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_562",
+				"name": "Charlton at Locke - 44",
+				"region_id": "region_86",
+				"lon": -79.886746253805,
+				"lat": 43.2533465230541,
+				"address": "La Jardinere Flowers, 246, Locke Street South, Hess Village, Hamilton, Ontario",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_563",
+				"name": "Locke at Hunter - 45",
+				"region_id": "region_86",
+				"lon": -79.8851215839386,
+				"lat": 43.25653759778103,
+				"address": "145 Locke Street South, Hamilton",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_564",
+				"name": "Locke at Napier - 46",
+				"region_id": "region_86",
+				"lon": -79.8827367298478,
+				"lat": 43.2628018805713,
+				"address": "64, Locke Street North, Hess Village, Hamilton, Ontario",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_565",
+				"name": "York at Inchbury - 47",
+				"region_id": "region_86",
+				"lon": -79.8819495909127,
+				"lat": 43.2659146108256,
+				"address": "460 York Boulevard, Hamilton",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_566",
+				"name": "Aberdeen at Queen - 48",
+				"region_id": "region_86",
+				"lon": -79.8836993988543,
+				"lat": 43.2488085584277,
+				"address": "ABERDEEN at SPRUCESIDE, Hamilton",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_567",
+				"name": "Herkimer at Queen - 49",
+				"region_id": "region_86",
+				"lon": -79.8821487951959,
+				"lat": 43.2514086337607,
+				"address": "178, Herkimer Street, Hess Village, Hamilton, Ontario",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_568",
+				"name": "Ryerson Recreation Centre - 50",
+				"region_id": "region_86",
+				"lon": -79.8819466027797,
+				"lat": 43.2540651616154,
+				"address": "251 Duke Street, Hamilton",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_569",
+				"name": "Hunter at Hess - 51",
+				"region_id": "region_86",
+				"lon": -79.8788782483609,
+				"lat": 43.2554918848746,
+				"address": "114, Hess Street South, Hess Village, Hamilton, Ontario",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_570",
+				"name": "Queen at Peter - 53",
+				"region_id": "region_86",
+				"lon": -79.877606006297,
+				"lat": 43.2618861338306,
+				"address": "80, Queen Street North, Hess Village, Hamilton, Ontario",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_571",
+				"name": "40 Oxford - 54",
+				"region_id": "region_86",
+				"lon": -79.8778635263443,
+				"lat": 43.26467896416488,
+				"address": "33 Oxford Street, Hamilton",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_572",
+				"name": "Durand Park - 55",
+				"region_id": "region_86",
+				"lon": -79.8765896596649,
+				"lat": 43.2498930603697,
+				"address": "Durand Park, Park Street South, Corktown, Hamilton, Ontario",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_573",
+				"name": "James S at Charlton - 56",
+				"region_id": "region_86",
+				"lon": -79.8720555723035,
+				"lat": 43.2496354495324,
+				"address": "232 James Street South, Hamilton",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_574",
+				"name": "Bay at Bold - 57",
+				"region_id": "region_86",
+				"lon": -79.8753935613187,
+				"lat": 43.2538302267771,
+				"address": "100 Bold Street, Hamilton",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_575",
+				"name": "City Hall - 59",
+				"region_id": "region_86",
+				"lon": -79.8744987564414,
+				"lat": 43.2561324863605,
+				"address": "58 Bay Street South, Hamilton",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_576",
+				"name": "Bay at York - 60",
+				"region_id": "region_86",
+				"lon": -79.8729990705895,
+				"lat": 43.2597759765548,
+				"address": "55, Bay Street North, Hess Village, Hamilton, Ontario",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_577",
+				"name": "Bay at Mulberry - 62",
+				"region_id": "region_86",
+				"lon": -79.8717867948006,
+				"lat": 43.2632515314334,
+				"address": "177-181 Bay Street North, Hamilton",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_578",
+				"name": "Bay at Strachan - 63",
+				"region_id": "region_86",
+				"lon": -79.8678305692086,
+				"lat": 43.267932395204,
+				"address": "325 Bay Street North, Hamilton",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_579",
+				"name": "Bayfront Park - 64",
+				"region_id": "region_86",
+				"lon": -79.87129211425781,
+				"lat": 43.269210155203545,
+				"address": "Waterfront Trail, Hamilton",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_580",
+				"name": "Ainslie at Emerson - 25",
+				"region_id": "region_86",
+				"lon": -79.9234422627427,
+				"lat": 43.2495181157076,
+				"address": "65 Ainslie Avenue, Hamilton",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_581",
+				"name": "Strachan at Mary - 66",
+				"region_id": "region_86",
+				"lon": -79.8594326469212,
+				"lat": 43.2656936955384,
+				"address": "127, Strachan Street East, North End, Hamilton, Ontario",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_582",
+				"name": "Hughson at Picton - 67",
+				"region_id": "region_86",
+				"lon": -79.861626657542,
+				"lat": 43.2701169222876,
+				"address": "448, Hughson Street North, North End, Hamilton, Ontario",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_583",
+				"name": "Discovery Drive - 68",
+				"region_id": "region_86",
+				"lon": -79.8598712682724,
+				"lat": 43.27585203723284,
+				"address": "51, Discovery Drive, North End, Hamilton, Ontario",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_585",
+				"name": "Eastwood Arena - 70",
+				"region_id": "region_86",
+				"lon": -79.856711442486,
+				"lat": 43.271621271914,
+				"address": "111, Burlington Street East, North End, Hamilton, Ontario",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_586",
+				"name": "Catherine at Young - 71",
+				"region_id": "region_86",
+				"lon": -79.8677950761702,
+				"lat": 43.2496648107707,
+				"address": "175 Catharine Street South, Hamilton",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_587",
+				"name": "Main at Macnab -75",
+				"region_id": "region_86",
+				"lon": -79.8714845551524,
+				"lat": 43.25597470709,
+				"address": "50, Main Street West, Hess Village, Hamilton, Ontario",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_588",
+				"name": "Ferguson at Barton - 77",
+				"region_id": "region_86",
+				"lon": -79.8582423171631,
+				"lat": 43.262056982995,
+				"address": "186, Ferguson Avenue North, Beasley, Hamilton, Ontario",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_589",
+				"name": "Ferrie at Furguson -78",
+				"region_id": "region_86",
+				"lon": -79.8549267336925,
+				"lat": 43.2666646956976,
+				"address": "206, Ferrie Street East, North End, Hamilton, Ontario",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_590",
+				"name": "Ferguson at Cannon - 79",
+				"region_id": "region_86",
+				"lon": -79.8598228455297,
+				"lat": 43.2587508364231,
+				"address": "156, Cannon Street East, Beasley, Hamilton, Ontario",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_591",
+				"name": "Ferguson at King William - 80",
+				"region_id": "region_86",
+				"lon": -79.8614431097373,
+				"lat": 43.2551792486624,
+				"address": "4-12 Ferguson Avenue North, Hamilton",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_592",
+				"name": "King William at John - 82",
+				"region_id": "region_86",
+				"lon": -79.8658732358699,
+				"lat": 43.2573326184842,
+				"address": "31-55 John Street North, Hamilton",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_593",
+				"name": "Victoria at Barton - 83",
+				"region_id": "region_86",
+				"lon": -79.8533271968695,
+				"lat": 43.2612832062872,
+				"address": "237, Barton Street East, Beasley, Hamilton, Ontario",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_594",
+				"name": "Cannon at Oak - 85",
+				"region_id": "region_86",
+				"lon": -79.8513960078799,
+				"lat": 43.2567834448025,
+				"address": "362 Cannon Street East, Hamilton",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_596",
+				"name": "Wentworth Steps - 86",
+				"region_id": "region_86",
+				"lon": -79.851974701244,
+				"lat": 43.2449545254859,
+				"address": "203 Wentworth Street South, Hamilton",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_597",
+				"name": "Stinson at Blythe - 87",
+				"region_id": "region_86",
+				"lon": -79.8550984051804,
+				"lat": 43.2480282225403,
+				"address": "12-38 Blythe Street, Hamilton",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_598",
+				"name": "Hunter at Furguson - 88",
+				"region_id": "region_86",
+				"lon": -79.8632085924767,
+				"lat": 43.2518188062396,
+				"address": "175, Hunter Street East, Corktown, Hamilton, Ontario",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_599",
+				"name": "Corktown Park - 89",
+				"region_id": "region_86",
+				"lon": -79.8641461491451,
+				"lat": 43.2492552510953,
+				"address": "174, Ferguson Avenue South, Corktown, Hamilton, Ontario",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_601",
+				"name": "Stinson at West - 92",
+				"region_id": "region_86",
+				"lon": -79.859726111821,
+				"lat": 43.2494985579078,
+				"address": "93, West Avenue South, Corktown, Hamilton, Ontario",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_602",
+				"name": "King William at Victoria - 94",
+				"region_id": "region_86",
+				"lon": -79.8558179262074,
+				"lat": 43.2542485493304,
+				"address": "338, King William Street, Beasley, Hamilton, Ontario",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_603",
+				"name": "Barton at Wentworth - 95",
+				"region_id": "region_86",
+				"lon": -79.8455311859786,
+				"lat": 43.2590802780708,
+				"address": "Fire Station No.8, Barton Street East, Beasley, Hamilton, Ontario",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_604",
+				"name": "Cannon at Wentworth - 96",
+				"region_id": "region_86",
+				"lon": -79.8475054418754,
+				"lat": 43.2559617394464,
+				"address": "451, Cannon Street East, Beasley, Hamilton, Ontario",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_605",
+				"name": "Wentworth at King - 97",
+				"region_id": "region_86",
+				"lon": -79.8488188102237,
+				"lat": 43.2522062183802,
+				"address": "669, King Street East, Hamilton, Ontario",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_606",
+				"name": "Bay at Macaulay - 99",
+				"region_id": "region_86",
+				"lon": -79.86627101898192,
+				"lat": 43.272362258983364,
+				"address": "492 Bay Street North, Hamilton",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_607",
+				"name": "Haymarket at Hughson - 100",
+				"region_id": "region_86",
+				"lon": -79.8689686565841,
+				"lat": 43.2524132793319,
+				"address": "55, Haymarket Street, Corktown, Hamilton, Ontario",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_608",
+				"name": "James at Colbourne - 101",
+				"region_id": "region_86",
+				"lon": -79.8660421593136,
+				"lat": 43.2637774120007,
+				"address": "295 James Street North, Hamilton",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_609",
+				"name": "Ferguson at King - 102",
+				"region_id": "region_86",
+				"lon": -79.8622222831508,
+				"lat": 43.2539723094036,
+				"address": "4523 Ferguson Avenue South, Hamilton",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_610",
+				"name": "Cannon at Birch (Powell Park) - 103",
+				"region_id": "region_86",
+				"lon": -79.8413864485795,
+				"lat": 43.2549843519881,
+				"address": "70 Harvey Street, Hamilton",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_611",
+				"name": "Cannon at Sherman - 104",
+				"region_id": "region_86",
+				"lon": -79.8374917817979,
+				"lat": 43.2533992835566,
+				"address": "61-65 Sherman Avenue North, Hamilton",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_612",
+				"name": "Delaware at Myrtle - 106",
+				"region_id": "region_86",
+				"lon": -79.8495236914621,
+				"lat": 43.2480454302898,
+				"address": "17, Delaware Avenue, Inch Park, Hamilton, Ontario",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_613",
+				"name": "Maplewood at Springer - 108",
+				"region_id": "region_86",
+				"lon": -79.8371172008902,
+				"lat": 43.2451654703378,
+				"address": "71, Maplewood Avenue, Hamilton, Ontario",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_614",
+				"name": "Gage Park - Maplewood - 109",
+				"region_id": "region_86",
+				"lon": -79.8305823825984,
+				"lat": 43.243151843055,
+				"address": "190 Gage Avenue South, Hamilton",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_622",
+				"name": "McMaster Emerson - 15",
+				"region_id": "region_86",
+				"lon": -79.9198429729848,
+				"lat": 43.258067849511,
+				"address": "1400, Main Street West, Westdale, Hamilton, Ontario",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_623",
+				"name": "McMaster Arthur Bourns - 14",
+				"region_id": "region_86",
+				"lon": -79.922358671032,
+				"lat": 43.2599690032886,
+				"address": "2000 College Court, McMaster University, Hamilton",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_624",
+				"name": "McMaster Health Sciences - 10",
+				"region_id": "region_86",
+				"lon": -79.9181025906397,
+				"lat": 43.2605776303108,
+				"address": "University Avenue, McMaster University, Hamilton",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_625",
+				"name": "McMaster Mary Keyes - 16",
+				"region_id": "region_86",
+				"lon": -79.9222410984089,
+				"lat": 43.2624315057369,
+				"address": "Scholars Road, McMaster University, Hamilton",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_626",
+				"name": "McMaster Stadium - 11",
+				"region_id": "region_86",
+				"lon": -79.9187434479012,
+				"lat": 43.2658097943005,
+				"address": "Stearn Drive, McMaster University, Hamilton",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_631",
+				"name": "Hunter GO Centre - 72",
+				"region_id": "region_86",
+				"lon": -79.8695100360153,
+				"lat": 43.253439579,
+				"address": "36 Hunter Street East, Hamilton",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_679",
+				"name": "Inside SoBi Office",
+				"region_id": "region_86",
+				"lon": -79.8631105612337,
+				"lat": 43.2588820851283,
+				"address": "120 Catharine Street North, Hamilton",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_707",
+				"name": "McMaster Student Centre - 17",
+				"region_id": "region_86",
+				"lon": -79.917101372339,
+				"lat": 43.2629926171227,
+				"address": "Stearn Drive, McMaster University, Hamilton",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_708",
+				"name": "York at Macnab - 61",
+				"region_id": "region_86",
+				"lon": -79.8693690705214,
+				"lat": 43.2591376602267,
+				"address": "32 York Boulevard, Hamilton",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_709",
+				"name": "Park at Robinson - 58",
+				"region_id": "region_86",
+				"lon": -79.8749090863127,
+				"lat": 43.2515957745917,
+				"address": "80-92 Robinson Street, Hamilton",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_712",
+				"name": "West at Cannon - 84",
+				"region_id": "region_86",
+				"lon": -79.8561337635964,
+				"lat": 43.257877862291,
+				"address": "144 West Avenue North, Hamilton",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_732",
+				"name": "Melbourne at Locke",
+				"region_id": "region_86",
+				"lon": -79.8859572264425,
+				"lat": 43.2552015794511,
+				"address": "11-15 Melbourne Street, Hamilton",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_765",
+				"name": "Princess Point - 29",
+				"region_id": "region_86",
+				"lon": -79.8945270389426,
+				"lat": 43.2729912871819,
+				"address": "809 Desjardins Recreation Trail, Hamilton",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_778",
+				"name": "Aberdeen at Studholme - 37",
+				"region_id": "region_86",
+				"lon": -79.899692892407,
+				"lat": 43.2526283084979,
+				"address": "34 Studholme Road, Hamilton",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_779",
+				"name": "Hunter at Park",
+				"region_id": "region_86",
+				"lon": -79.8733946157064,
+				"lat": 43.2543192007999,
+				"address": "61 Hurst Place, Hamilton",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_780",
+				"name": "Main at John",
+				"region_id": "region_86",
+				"lon": -79.867341253756,
+				"lat": 43.2544053491713,
+				"address": "57 John Street South, Hamilton",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_802",
+				"name": "Hess at king",
+				"region_id": "region_86",
+				"lon": -79.8771189550803,
+				"lat": 43.2591869912076,
+				"address": "15 Hess Street North, Hamilton",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_830",
+				"name": "Rifle Range at Rail Trail",
+				"region_id": "region_86",
+				"lon": -79.9298771288198,
+				"lat": 43.2554850097816,
+				"address": "64 Rifle Range Road, Hamilton",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_866",
+				"name": "Augusta at John",
+				"region_id": "region_86",
+				"lon": -79.86898005008698,
+				"lat": 43.251632328780424,
+				"address": "62-64 Augusta Street, Hamilton",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_867",
+				"name": "Queen at George",
+				"region_id": "region_86",
+				"lon": -79.87938702106476,
+				"lat": 43.25794405363702,
+				"address": "34-54 Queen Street South, Hamilton",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_869",
+				"name": "Mary at Cannon - 00",
+				"region_id": "region_86",
+				"lon": -79.86189499497414,
+				"lat": 43.25943154069734,
+				"address": "134-136 Cannon Street East, Hamilton",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_894",
+				"name": "Forsyth at Sterling",
+				"region_id": "region_86",
+				"lon": -79.91582751274109,
+				"lat": 43.26271013372248,
+				"address": "88 Forsyth Avenue North, Hamilton",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_903",
+				"name": "Duke at James",
+				"region_id": "region_86",
+				"lon": -79.8713980615139,
+				"lat": 43.251734892170504,
+				"address": "1-27 Duke Street, Hamilton",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_904",
+				"name": "King William at Hughson",
+				"region_id": "region_86",
+				"lon": -79.86722856760025,
+				"lat": 43.25718808755752,
+				"address": "41 King William Street, Hamilton",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_905",
+				"name": "Tisdale at Main No Frills",
+				"region_id": "region_86",
+				"lon": -79.85305577516556,
+				"lat": 43.25200741706332,
+				"address": "9-23 Tisdale Street South, Hamilton",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_921",
+				"name": "Frid at Main",
+				"region_id": "region_86",
+				"lon": -79.89256739616394,
+				"lat": 43.259498930911825,
+				"address": "44 Frid Street, Hamilton",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_924",
+				"name": "James at Guise",
+				"region_id": "region_86",
+				"lon": -79.86148595809937,
+				"lat": 43.273843535067726,
+				"address": "2-30 Guise Street, Hamilton",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_945",
+				"name": "Stadium",
+				"region_id": "region_86",
+				"lon": -79.8314881324768,
+				"lat": 43.25163037518957,
+				"address": "17A Cannon Street East, Hamilton",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_959",
+				"name": "West Harbour GO Station",
+				"region_id": "region_86",
+				"lon": -79.86560583114623,
+				"lat": 43.265901637732775,
+				"address": "351, James Street North, Beasley, Hamilton, Ontario",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_1042",
+				"name": "Van Wagners - MEC",
+				"region_id": "region_172",
+				"lon": -79.7663875669241,
+				"lat": 43.26000777328068,
+				"address": "Waterfront Trail, Hamilton",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE",
+					"CREDITCARD"
+				]
+			},
+			{
+				"station_id": "hub_1063",
+				"name": "Main and Wellington",
+				"region_id": "region_86",
+				"lon": -79.85993966460228,
+				"lat": 43.252775168664385,
+				"address": "242-250 Hamilton Regional Road 8, Hamilton",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_1252",
+				"name": "Cumberland at Blake ",
+				"region_id": "region_86",
+				"lon": -79.84050840139389,
+				"lat": 43.24333095563425,
+				"address": "237-243 Cumberland Avenue, Hamilton",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_1253",
+				"name": "Main  at Eastbourne",
+				"region_id": "region_86",
+				"lon": -79.84201848506926,
+				"lat": 43.24814116192469,
+				"address": "",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_1287",
+				"name": "Cannon at Ottawa",
+				"region_id": "region_86",
+				"lon": -79.8180502653122,
+				"lat": 43.2475653052787,
+				"address": "1182-1188 Cannon Street East, Hamilton",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_1397",
+				"name": "King at Mary",
+				"region_id": "region_86",
+				"lon": -79.86437804996967,
+				"lat": 43.25519606248058,
+				"address": "151-163 Hamilton Regional Road 8, Hamilton",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			}
+		]
+	}
+}

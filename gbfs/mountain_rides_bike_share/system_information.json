@@ -1,0 +1,14 @@
+{
+	"last_updated": 1462825171,
+	"ttl": 60,
+	"data": {
+		"system_id": "mountain_rides_bike_share",
+		"language": "en",
+		"name": "Mountain Rides Bike Share",
+		"url": "http://mrbikeshare.org/",
+		"purchase_url": "http://mrbikeshare.org/#memberships",
+		"timezone": "America/Denver",
+		"phone_number": "",
+		"email": ""
+	}
+}

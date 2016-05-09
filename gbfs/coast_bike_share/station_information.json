@@ -1,0 +1,488 @@
+{
+	"last_updated": 1462825168,
+	"ttl": 60,
+	"data": {
+		"stations": [
+			{
+				"station_id": "hub_251",
+				"name": "19th St and E Palm Ave",
+				"region_id": "region_102",
+				"lon": -82.438056400783,
+				"lat": 27.9627193250593,
+				"address": "2200-2298 North 19th Street, Tampa",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_253",
+				"name": "18th St and 7th Ave",
+				"region_id": "region_102",
+				"lon": -82.4392954650481,
+				"lat": 27.9605393385953,
+				"address": "1730 East 7th Avenue, Tampa",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_254",
+				"name": "14th St and 9th Ave",
+				"region_id": "region_102",
+				"lon": -82.4441223606433,
+				"lat": 27.9619092476164,
+				"address": "2001-2099 Avenida Republica De Cuba, Tampa",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_255",
+				"name": "9th Ave and 16th St",
+				"region_id": "region_102",
+				"lon": -82.4415005780512,
+				"lat": 27.9618561214264,
+				"address": "1600-1698 East 9th Avenue, Tampa",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_256",
+				"name": "15th St and 7th Ave",
+				"region_id": "region_102",
+				"lon": -82.4430826321256,
+				"lat": 27.9604880627085,
+				"address": "1430 East 7th Avenue, Tampa",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_257",
+				"name": "13th St and 8th Ave",
+				"region_id": "region_102",
+				"lon": -82.4456547254871,
+				"lat": 27.9613658481865,
+				"address": "1900-1998 North 13th Street, Tampa",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_263",
+				"name": "N Franklin St and E Cass St",
+				"region_id": "region_102",
+				"lon": -82.45933949947357,
+				"lat": 27.95096617783814,
+				"address": "Element, 808, North Franklin Street, Ridgewood Park, Tampa Heights, Tampa, Florida",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_264",
+				"name": "Curtis Hixon Park",
+				"region_id": "region_102",
+				"lon": -82.4609377282072,
+				"lat": 27.9495104473449,
+				"address": "744-784 North Ashley Drive, Tampa",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_266",
+				"name": "N Franklin St and E Twiggs St",
+				"region_id": "region_102",
+				"lon": -82.4588299730942,
+				"lat": 27.9495321599275,
+				"address": "655 North Franklin Street, Tampa",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_267",
+				"name": "N Jefferson St and Twiggs",
+				"region_id": "region_102",
+				"lon": -82.4542584509825,
+				"lat": 27.9500718099433,
+				"address": "418 North Jefferson Street, Tampa",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_268",
+				"name": "Madison St and N Franklin St",
+				"region_id": "region_102",
+				"lon": -82.4576712302482,
+				"lat": 27.9486487468182,
+				"address": "336-352 East Madison Street, Tampa",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_270",
+				"name": "N Franklin St and E Jackson St  Sponsored By Sam Schwartz Engineering D.P.C.",
+				"region_id": "region_102",
+				"lon": -82.4577408065186,
+				"lat": 27.9473813272224,
+				"address": "301-399 North Franklin Street, Tampa",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_272",
+				"name": "E Whiting St and Riverwalk",
+				"region_id": "region_102",
+				"lon": -82.4586076071121,
+				"lat": 27.9449311118153,
+				"address": "MacDill Park, Tampa Riverwalk, Harbour Island, Tampa, Florida",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_273",
+				"name": "S Franklin St and E Whiting St",
+				"region_id": "region_102",
+				"lon": -82.4568860897568,
+				"lat": 27.9450375505472,
+				"address": "107 South Franklin Street, Tampa",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_274",
+				"name": "S Franklin St and Old Waters St Sponsored By Sam Schwartz Engineering D.P.C.",
+				"region_id": "region_102",
+				"lon": -82.4548257935946,
+				"lat": 27.9412114253873,
+				"address": "400-454 Old Water Street, Tampa",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_278",
+				"name": "E Tyler St and Ashley Dr",
+				"region_id": "region_102",
+				"lon": -82.46202774345875,
+				"lat": 27.951300844725672,
+				"address": "100-178 West Tyler Street, Tampa",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_279",
+				"name": "E Davis Blvd and Chesapeake Ave",
+				"region_id": "region_102",
+				"lon": -82.4529797232004,
+				"lat": 27.9257835077301,
+				"address": "302 East Davis Boulevard, Tampa",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_283",
+				"name": "Bayshore & Rome",
+				"region_id": "region_102",
+				"lon": -82.4765097355042,
+				"lat": 27.9291962234777,
+				"address": "1701 Bayshore Boulevard, Tampa",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_284",
+				"name": "S Franklin St and Channelside",
+				"region_id": "region_102",
+				"lon": -82.45587676763535,
+				"lat": 27.942493131949256,
+				"address": "170-198 Channelside Drive, Tampa",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_450",
+				"name": "Grand Central Ave and S Hyde Park Ave Sponsored By Oxford Exchange",
+				"region_id": "region_102",
+				"lon": -82.4640155437695,
+				"lat": 27.9446846157316,
+				"address": "403 Grand Central Avenue, Tampa",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_451",
+				"name": "Ray Charles Blvd and Governor St",
+				"region_id": "region_102",
+				"lon": -82.4536264456511,
+				"lat": 27.955286642701,
+				"address": "Scott Street, Ybor City, Tampa, Florida",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_452",
+				"name": "Cumberland and 11th",
+				"region_id": "region_102",
+				"lon": -82.4475920457454,
+				"lat": 27.9449469177581,
+				"address": "1211 East Cumberland Avenue, Tampa",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_453",
+				"name": "Marion Transit Center",
+				"region_id": "region_102",
+				"lon": -82.4584196437688,
+				"lat": 27.9554328870259,
+				"address": "Marion Transit Parking Lot, Tampa",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_480",
+				"name": "Waterworks Park",
+				"region_id": "region_102",
+				"lon": -82.4624992346234,
+				"lat": 27.9593143906181,
+				"address": "1638-1798 Doyle Carlton Avenue, Tampa",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_854",
+				"name": "Madison and Meridian",
+				"region_id": "region_102",
+				"lon": -82.4485652057228,
+				"lat": 27.9514051371272,
+				"address": "",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_957",
+				"name": "Coppertail Brewing Co Park and Go Rack",
+				"region_id": "region_102",
+				"lon": -82.43033677339554,
+				"lat": 27.95621647799642,
+				"address": "2601 East 2nd Avenue, Tampa",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_1079",
+				"name": "Harbor Place dr and Harbour post dr",
+				"region_id": "region_102",
+				"lon": -82.45107159018517,
+				"lat": 27.93933334127054,
+				"address": "429-473 Harbour Place Drive, Tampa",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_1214",
+				"name": "Amalie Arena",
+				"region_id": "region_102",
+				"lon": -82.45203584432602,
+				"lat": 27.943777401154524,
+				"address": "421-473 South Jefferson Street, Tampa",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_1301",
+				"name": "Hyde Park Village",
+				"region_id": "region_102",
+				"lon": -82.4767778813839,
+				"lat": 27.93511184865485,
+				"address": "800-816 South Rome Avenue, Tampa",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_1333",
+				"name": "City Bike Tampa Park and Go Rack",
+				"region_id": "region_102",
+				"lon": -82.46007442474365,
+				"lat": 27.951297883048035,
+				"address": "208 East Cass Street, Tampa",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			}
+		]
+	}
+}

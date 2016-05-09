@@ -1,0 +1,24 @@
+{
+	"last_updated": 1462825169,
+	"ttl": 60,
+	"data": {
+		"regions": [
+			{
+				"region_id": "region_45",
+				"name": "UB South"
+			},
+			{
+				"region_id": "region_19",
+				"name": "UB North"
+			},
+			{
+				"region_id": "region_79",
+				"name": "Downtown"
+			},
+			{
+				"region_id": "region_21",
+				"name": "A-Town/EV"
+			}
+		]
+	}
+}

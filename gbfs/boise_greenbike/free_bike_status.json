@@ -1,0 +1,24 @@
+{
+	"last_updated": 1462825163,
+	"ttl": 60,
+	"data": {
+		"bikes": [
+			{
+				"bike_id": "bike_3384",
+				"name": "BGB 030",
+				"lon": -116.190855,
+				"lat": 43.594973333333336,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_2476",
+				"name": "BGB 023",
+				"lon": -116.19306833333333,
+				"lat": 43.613345,
+				"is_reserved": 0,
+				"is_disabled": 0
+			}
+		]
+	}
+}

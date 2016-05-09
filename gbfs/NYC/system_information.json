@@ -1,0 +1,17 @@
+{
+	"last_updated": 1462825155,
+	"ttl": 10,
+	"data": {
+		"system_id": "NYC",
+		"language": "en",
+		"name": "Citi Bike",
+		"short_name": "Citi Bike",
+		"operator": "Motivate International, Inc.",
+		"url": "http://www.citibikenyc.com",
+		"purchase_url": "http://www.citibikenyc.com/",
+		"start_date": "2013-05-01",
+		"phone_number": "1-855-BIKE-311",
+		"email": "customerservice@motivateco.com",
+		"timezone": "America/New_York"
+	}
+}

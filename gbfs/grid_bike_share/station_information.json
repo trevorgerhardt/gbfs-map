@@ -1,0 +1,1001 @@
+{
+	"last_updated": 1462825172,
+	"ttl": 60,
+	"data": {
+		"stations": [
+			{
+				"station_id": "hub_290",
+				"name": "Central / Roosevelt",
+				"region_id": "region_80",
+				"lon": -112.074010667085,
+				"lat": 33.4591031356657,
+				"address": "1000-1034 North Central Avenue, Phoenix",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_297",
+				"name": "Central / Willetta Sponsored by Phoenix Libraries",
+				"region_id": "region_80",
+				"lon": -112.073689688038,
+				"lat": 33.4638486462657,
+				"address": "1401 North Central Avenue, Phoenix",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_299",
+				"name": "11th St. / Washington",
+				"region_id": "region_80",
+				"lon": -112.059274069241,
+				"lat": 33.4482349606463,
+				"address": "1010-1098 East Washington Street, Phoenix",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_302",
+				"name": "Pierce / 1st Street",
+				"region_id": "region_80",
+				"lon": -112.072627733184,
+				"lat": 33.4555259184901,
+				"address": "702, North 1st Street, Encanto, Phoenix, Arizona",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_305",
+				"name": "6th St. / Monroe sponsored by SRP",
+				"region_id": "region_80",
+				"lon": -112.06649601459503,
+				"lat": 33.4503360695349,
+				"address": "567-599 East Monroe Street, Arizona State University Downtown Phoenix, Phoenix",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_309",
+				"name": "5th Ave / Fillmore",
+				"region_id": "region_80",
+				"lon": -112.08021107366,
+				"lat": 33.454811805242,
+				"address": "604, North 5th Avenue, Phoenix, Arizona",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_314",
+				"name": "5th Ave / McDowell",
+				"region_id": "region_80",
+				"lon": -112.080386602526,
+				"lat": 33.4655163627553,
+				"address": "1500-1598 North 5th Avenue, Phoenix",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_316",
+				"name": "Central / Lexington",
+				"region_id": "region_80",
+				"lon": -112.073781944336,
+				"lat": 33.4863116895857,
+				"address": "Light Rail, North Central Avenue, Encanto, Phoenix, Arizona",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_321",
+				"name": "Central / Vernon Sponsored by TJ Vernon, LLC",
+				"region_id": "region_80",
+				"lon": -112.074066048658,
+				"lat": 33.474214157849,
+				"address": "2334 North Central Avenue, Phoenix",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_322",
+				"name": "7th Ave / Glenrosa",
+				"region_id": "region_80",
+				"lon": -112.08357095718384,
+				"lat": 33.49833774425573,
+				"address": "4130, North 7th Avenue, Encanto, Phoenix, Arizona",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_323",
+				"name": "Central / Glenrosa sponsored by SRP",
+				"region_id": "region_80",
+				"lon": -112.073801245027,
+				"lat": 33.4980131383229,
+				"address": "11 West Glenrosa Avenue, Phoenix",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_325",
+				"name": "Central / Camelback sponsored by SRP",
+				"region_id": "region_80",
+				"lon": -112.075066378634,
+				"lat": 33.5086025352445,
+				"address": "Light Rail, West Camelback Road, Phoenix, Arizona",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_329",
+				"name": "Grand Ave / McKinley",
+				"region_id": "region_80",
+				"lon": -112.089269123464,
+				"lat": 33.456967738827,
+				"address": "Grand Avenue, Phoenix, Arizona",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_330",
+				"name": "4th Ave / Clarendon",
+				"region_id": "region_80",
+				"lon": -112.079007760543,
+				"lat": 33.4914509272301,
+				"address": "401 West Clarendon Avenue, Phoenix",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_358",
+				"name": "5th Street / Grant Sponsored by WebPT",
+				"region_id": "region_80",
+				"lon": -112.066667675974,
+				"lat": 33.44093397975,
+				"address": "East Grant Street, Central City, Phoenix, Arizona",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_359",
+				"name": "Jackson / 2nd Street sponsored by SRP",
+				"region_id": "region_80",
+				"lon": -112.071206914651,
+				"lat": 33.4451804740693,
+				"address": "200 East Jackson Street, Phoenix",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_360",
+				"name": "Adams / 2nd Ave",
+				"region_id": "region_80",
+				"lon": -112.07670064254,
+				"lat": 33.4493486960483,
+				"address": "Orpheum Theatre, 203, West Adams Street, Phoenix, Arizona",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE",
+					"CREDITCARD"
+				]
+			},
+			{
+				"station_id": "hub_361",
+				"name": "Adams / 2nd Street",
+				"region_id": "region_80",
+				"lon": -112.071453940019,
+				"lat": 33.4494416771378,
+				"address": "180-198 East Adams Street, Phoenix",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_363",
+				"name": "12th Street / Oak",
+				"region_id": "region_80",
+				"lon": -112.056342282703,
+				"lat": 33.4730304810094,
+				"address": "1200 East Oak Street, Phoenix",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_364",
+				"name": "Central / Campbell",
+				"region_id": "region_80",
+				"lon": -112.074024910907,
+				"lat": 33.5016735723,
+				"address": "4412, North Central Avenue, Encanto, Phoenix, Arizona",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_365",
+				"name": "Central / Thomas",
+				"region_id": "region_80",
+				"lon": -112.073863778945,
+				"lat": 33.4800250653744,
+				"address": "3 East Thomas Road, Phoenix",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_367",
+				"name": "8th Street / Sheridan",
+				"region_id": "region_80",
+				"lon": -112.064066269354,
+				"lat": 33.4748338674807,
+				"address": "East Sheridan Street, Encanto, Phoenix, Arizona",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_377",
+				"name": "3131 S. Central Ave Audubon Center",
+				"region_id": "region_80",
+				"lon": -112.07296969009,
+				"lat": 33.4186012452694,
+				"address": "South Central Avenue, South Mountain, Phoenix, Arizona",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_378",
+				"name": "S. Central / W. Broadway Ed Pastor Transit Center",
+				"region_id": "region_80",
+				"lon": -112.073865361333,
+				"lat": 33.4069535383671,
+				"address": "Ed Pastor Transit Center, West Broadway Road, South Mountain, Phoenix, Arizona",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_491",
+				"name": "GRID OFFICE",
+				"region_id": "region_80",
+				"lon": -112.084449418541,
+				"lat": 33.4414162924909,
+				"address": "739 West Lincoln Street, Phoenix",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_492",
+				"name": "Encanto Park",
+				"region_id": "region_80",
+				"lon": -112.090162135878,
+				"lat": 33.4714711951801,
+				"address": "West Holly Street, Encanto, Phoenix, Arizona",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_595",
+				"name": "Phoenix College",
+				"region_id": "region_80",
+				"lon": -112.08823800086975,
+				"lat": 33.483115669750546,
+				"address": "3000-3048 North 11th Avenue, Phoenix",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_620",
+				"name": "1st St / Buchanan Sponsored by CCBG Architects",
+				"region_id": "region_80",
+				"lon": -112.072499955984,
+				"lat": 33.4435864339528,
+				"address": "Suite 1400, South 1st Street, Phoenix, Arizona",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_621",
+				"name": "5th St / Van Buren Sponsored by APS",
+				"region_id": "region_80",
+				"lon": -112.06747626846,
+				"lat": 33.4515775957345,
+				"address": "College of Medicine Administration, 550, East Van Buren Street, Central City, Phoenix, Arizona",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_628",
+				"name": "10th Street / Roosevelt",
+				"region_id": "region_80",
+				"lon": -112.060802366799,
+				"lat": 33.4588190671665,
+				"address": "1001 North 10th Street, Phoenix",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_629",
+				"name": "Central / Taylor Sponsored by SRP",
+				"region_id": "region_80",
+				"lon": -112.074026997431,
+				"lat": 33.4535346952061,
+				"address": "METRO Light Rail, East Washington Street (Frontage Road), Central City, Phoenix, Arizona",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_632",
+				"name": "5th Street / Roosevelt",
+				"region_id": "region_80",
+				"lon": -112.067498385913,
+				"lat": 33.4588718742282,
+				"address": "1000-1022 North 5th Street, Phoenix",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_655",
+				"name": "7th St. / Garfield hosted by Mother Bunch Brewing",
+				"region_id": "region_80",
+				"lon": -112.065033976668,
+				"lat": 33.4572458992005,
+				"address": "809 North 7th Street, Phoenix",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_658",
+				"name": "3rd Street / Washington Street: Convention Center",
+				"region_id": "region_80",
+				"lon": -112.07004994153976,
+				"lat": 33.448582067540656,
+				"address": "32 North 3rd Street, Phoenix",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_660",
+				"name": "3rd Street / Taylor",
+				"region_id": "region_80",
+				"lon": -112.069701931634,
+				"lat": 33.4536248993351,
+				"address": "501-549 North 3rd Street, Phoenix",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_661",
+				"name": "Adams / 1st Ave",
+				"region_id": "region_80",
+				"lon": -112.07536339759827,
+				"lat": 33.44955726345848,
+				"address": "114 West Adams Street, Phoenix",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_663",
+				"name": "1st Street / Washington Street Sponsored by SRP",
+				"region_id": "region_80",
+				"lon": -112.07254707813263,
+				"lat": 33.44788773031642,
+				"address": "2 East Jefferson Street, Phoenix",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_665",
+				"name": "5th Street / Osborn",
+				"region_id": "region_80",
+				"lon": -112.06732213497162,
+				"lat": 33.48779106632222,
+				"address": "3400-3498 North 5th Street, Phoenix",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_666",
+				"name": "Grand Ave / 10th Ave",
+				"region_id": "region_80",
+				"lon": -112.086362621544,
+				"lat": 33.4546981241866,
+				"address": "1000-1098 Phoenix-Wickenburg Highway, Phoenix",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_1267",
+				"name": "4th Street / Jackson Chase Field ",
+				"region_id": "region_80",
+				"lon": -112.06869810819626,
+				"lat": 33.44502304049054,
+				"address": "310 South 4th Street, Phoenix",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_1269",
+				"name": "Sherman / 3rd Ave.",
+				"region_id": "region_80",
+				"lon": -112.07705587148666,
+				"lat": 33.440114802246114,
+				"address": "217 West Sherman Street, Phoenix",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_1271",
+				"name": "Grant St / 3rd St. ",
+				"region_id": "region_80",
+				"lon": -112.0700103789568,
+				"lat": 33.44116451289266,
+				"address": "East Grant Street, Central City, Phoenix, Arizona",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_1272",
+				"name": "12th St / Palm Coronado Park ",
+				"region_id": "region_80",
+				"lon": -112.05613061785698,
+				"lat": 33.46829702060367,
+				"address": "1815-1999 North 12th Street, Phoenix",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_1273",
+				"name": "9th St. / Van Buren Verde Park",
+				"region_id": "region_80",
+				"lon": -112.06202208995819,
+				"lat": 33.451540071496126,
+				"address": "301-365 North 9th Street, Phoenix",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_1324",
+				"name": "Yuma / Central",
+				"region_id": "region_80",
+				"lon": -112.07393378019333,
+				"lat": 33.435036173048445,
+				"address": "1302 South Central Avenue, Phoenix",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_1325",
+				"name": "Buckeye / 13th St",
+				"region_id": "region_80",
+				"lon": -112.05517172813416,
+				"lat": 33.4366723791616,
+				"address": "1245b East Buckeye Road, Phoenix",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_1326",
+				"name": "Washington / 2nd St",
+				"region_id": "region_80",
+				"lon": -112.07149028778076,
+				"lat": 33.44821559693446,
+				"address": "155-199 East Washington Street, Phoenix",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_1327",
+				"name": "McKinley / 2nd St.",
+				"region_id": "region_80",
+				"lon": -112.07086533308029,
+				"lat": 33.45664123189162,
+				"address": "200-252 East McKinley Street, Phoenix",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_1328",
+				"name": "Central / McDowell  Phoenix Art Museum",
+				"region_id": "region_80",
+				"lon": -112.07364410161972,
+				"lat": 33.46715702116823,
+				"address": "1657-1763 North Central Avenue, Phoenix",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_1329",
+				"name": "Camelback / 7th Ave",
+				"region_id": "region_80",
+				"lon": -112.08179533481598,
+				"lat": 33.509073234038624,
+				"address": "533 West Camelback Road, Phoenix",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_1339",
+				"name": "Main Street / Center  Mesa City Plaza",
+				"region_id": "region_213",
+				"lon": -111.83061316609383,
+				"lat": 33.41529966501612,
+				"address": "30-52 East Main Street, Mesa",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_1340",
+				"name": "University / Center Street  Mesa Amphitheatre",
+				"region_id": "region_213",
+				"lon": -111.83091759681702,
+				"lat": 33.422192786316494,
+				"address": "13-21 East University Drive, Mesa",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_1341",
+				"name": "Centennial Way / 1st Street  Mesa Main Library",
+				"region_id": "region_213",
+				"lon": -111.82887375354767,
+				"lat": 33.41804780025659,
+				"address": "Mesa Public Library, 64, East 1st Street, Mesa, Arizona",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_1342",
+				"name": "Macdonald / 1st Street  Museum of Natural History",
+				"region_id": "region_213",
+				"lon": -111.8342462182045,
+				"lat": 33.41665975068443,
+				"address": "52-80 North Macdonald, Mesa",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_1343",
+				"name": "Robson / 1st Street  i.d.e.a. Museum",
+				"region_id": "region_213",
+				"lon": -111.83686941862106,
+				"lat": 33.41670004949639,
+				"address": "102-104 North Robson, Mesa",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_1344",
+				"name": "Main Street / Country Club Drive",
+				"region_id": "region_213",
+				"lon": -111.83923780918121,
+				"lat": 33.41529630678153,
+				"address": "1 North Morris, Mesa",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_1345",
+				"name": "Main Street / Sycamore",
+				"region_id": "region_213",
+				"lon": -111.87107563018799,
+				"lat": 33.41462465147763,
+				"address": "1841-1879 West Main Street, Mesa",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_1346",
+				"name": "Main Street / Mesa Drive",
+				"region_id": "region_213",
+				"lon": -111.82196170091629,
+				"lat": 33.41534556129599,
+				"address": "420-428 East Main Street, Mesa",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_1347",
+				"name": "Main Street / Horne",
+				"region_id": "region_213",
+				"lon": -111.81513547897339,
+				"lat": 33.414929135817815,
+				"address": "723 East Main Street, Mesa",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_1348",
+				"name": "2nd street / Hobson",
+				"region_id": "region_213",
+				"lon": -111.81860357522964,
+				"lat": 33.41859853624115,
+				"address": "170-198 North Hobson, Mesa",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_1349",
+				"name": "Broadway / Olive",
+				"region_id": "region_213",
+				"lon": -111.81768625974655,
+				"lat": 33.40774324418292,
+				"address": "625 East Broadway Road, Mesa",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_1350",
+				"name": "6th Street / Mesa Drive",
+				"region_id": "region_213",
+				"lon": -111.82296752929686,
+				"lat": 33.425910008939695,
+				"address": "377-399 East 6th Street, Mesa",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			}
+		]
+	}
+}
