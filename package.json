@@ -15,9 +15,8 @@
   ],
   "author": "Conveyal",
   "license": "MIT",
-  "engineStrict": true,
   "engines": {
-    "node": ">= 6"
+    "node": ">=6.0"
   },
   "devDependencies": {
     "fs-extra": "^0.30.0",
