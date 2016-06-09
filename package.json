@@ -4,7 +4,7 @@
   "description": "Show GBFS stations to a GeoJSON feature collection.",
   "main": "index.js",
   "scripts": {
-    "download": "babel-node download.js --presets es2015,stage-2",
+    "download": "node download.js",
     "start": "mastarm serve --config config",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,10 +15,11 @@
   ],
   "author": "Conveyal",
   "license": "MIT",
+  "engineStrict": true,
+  "engines": {
+    "node": ">= 6"
+  },
   "devDependencies": {
-    "babel-cli": "^6.9.0",
-    "babel-preset-es2015": "^6.9.0",
-    "babel-preset-stage-2": "^6.5.0",
     "fs-extra": "^0.30.0",
     "mastarm": "0.0.9"
   },
