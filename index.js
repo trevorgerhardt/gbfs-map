@@ -4,6 +4,9 @@ import turfExtent from 'turf-extent'
 
 import './style.css'
 
+const DBL_QUOTE = '"'
+const COMMA = ','
+
 const root = document.getElementById('root')
 
 root.innerHTML = `
@@ -39,6 +42,7 @@ systemsSelect.onchange = function (event) {
 }
 
 function selectSystem (id) {
+  
   const System = Systems[id]
 
   systemInfo.innerHTML = Object.keys(System).map((key) => {
@@ -76,17 +80,34 @@ function getSystems () {
         .split('\n')
         .slice(1, -1)
         .map((row) => {
-          const quotes = row.split('"')
-          return [...quotes[0].slice(0, -1).split(','), quotes[1], ...quotes[2].slice(1).split(',')]
+          const quotes = row.split(DBL_QUOTE)
+          // FYI: breaks on non-double-quoted location
+          //return [...quotes[0].slice(0, -1).split(','), quotes[1], ...quotes[2].slice(1).split(',')]
+          if (quotes.length == 3) {
+            // handle the case with double-quoted location:
+            const first = quotes[0].split(COMMA)
+            const last = quotes[2].split(COMMA)
+            return [
+              first[0],
+              first[1],       // ignore last comma in first chunk
+              quotes[1],  // use middle chunk from quotes split
+              last[1],       // ignore first comma in last chunk
+              last[2],
+              last[3]
+            ]
+          } else {
+            // standard un-quoted location
+            return row.split(COMMA)
+          }
         })
         .forEach((row) => {
           Systems[row[3]] = {
             country: row[0],
-            gbfs: row[5],
-            id: row[3],
-            location: row[2],
             name: row[1],
-            url: row[4]
+            location: row[2],
+            id: row[3],
+            url: row[4],
+            gbfs: row[5]
           }
         })
     })
@@ -100,7 +121,6 @@ function updateStations (System, infoUrl) {
     .then((res) => res.json())
     .then((gbfs) => {
       System.geojson = gbfs2geojson(gbfs)
-
       map.addSource(System.id, {
         cluster: true,
         clusterRadius: 25,
