@@ -4,8 +4,9 @@
   "description": "Show GBFS stations to a GeoJSON feature collection.",
   "main": "index.js",
   "scripts": {
+    "download": "node download.js",
     "start": "mastarm serve --config config",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mastarm lint"
   },
   "keywords": [
     "gbfs",
@@ -14,7 +15,11 @@
   ],
   "author": "Conveyal",
   "license": "MIT",
+  "engines": {
+    "node": ">=6.0"
+  },
   "devDependencies": {
+    "fs-extra": "^0.30.0",
     "mastarm": "0.0.9"
   },
   "dependencies": {
