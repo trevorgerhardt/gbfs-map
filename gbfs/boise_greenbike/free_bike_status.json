@@ -1,21 +1,69 @@
 {
-	"last_updated": 1462827924,
+	"last_updated": 1470404508,
 	"ttl": 60,
 	"data": {
 		"bikes": [
 			{
-				"bike_id": "bike_3384",
-				"name": "BGB 030",
-				"lon": -116.190855,
-				"lat": 43.594973333333336,
+				"bike_id": "bike_2571",
+				"name": "BGB 111",
+				"lon": -116.20088333333334,
+				"lat": 43.603478333333335,
 				"is_reserved": 0,
 				"is_disabled": 0
 			},
 			{
-				"bike_id": "bike_2556",
-				"name": "BGB 096",
-				"lon": -116.19690833333334,
-				"lat": 43.59955166666667,
+				"bike_id": "bike_2453",
+				"name": "BGB 010",
+				"lon": -116.20013166666666,
+				"lat": 43.615451666666665,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_2474",
+				"name": "BGB 021",
+				"lon": -116.20376666666667,
+				"lat": 43.616375,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_2559",
+				"name": "BGB 099",
+				"lon": -116.200985,
+				"lat": 43.60214,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_2475",
+				"name": "BGB 022",
+				"lon": -116.16936,
+				"lat": 43.60437833333334,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_2531",
+				"name": "BGB 072",
+				"lon": -116.166385,
+				"lat": 43.601328333333335,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_2480",
+				"name": "BGB 027",
+				"lon": -116.204975,
+				"lat": 43.615135,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_2479",
+				"name": "BGB 026",
+				"lon": -116.192315,
+				"lat": 43.61315333333334,
 				"is_reserved": 0,
 				"is_disabled": 0
 			}

@@ -69,7 +69,8 @@
 					"ANDROIDPAY",
 					"TRANSITCARD",
 					"ACCOUNTNUMBER",
-					"PHONE"
+					"PHONE",
+					"CREDITCARD"
 				]
 			},
 			"geometry": {
@@ -114,7 +115,7 @@
 				"region_id": "region_137",
 				"lon": -73.6697781085968,
 				"lat": 40.592851050087724,
-				"address": "",
+				"address": "650 Magnolia Boulevard, Long Beach",
 				"rental_methods": [
 					"KEY",
 					"APPLEPAY",
@@ -233,6 +234,58 @@
 				"coordinates": [
 					-73.67372363805771,
 					40.583919339197266
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_1464",
+				"name": "The Boardwalk at Franklin",
+				"region_id": "region_137",
+				"lon": -73.6504527926445,
+				"lat": 40.58330415808058,
+				"address": "Lido Beach, New York",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.6504527926445,
+					40.58330415808058
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_1673",
+				"name": "Bridgeworks",
+				"region_id": "region_137",
+				"lon": -73.65575551986694,
+				"lat": 40.59369425600941,
+				"address": "270 East State Street, Long Beach",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-73.65575551986694,
+					40.59369425600941
 				]
 			}
 		}

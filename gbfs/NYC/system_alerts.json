@@ -1,5 +1,5 @@
 {
-	"last_updated": 1462827916,
+	"last_updated": 1470404503,
 	"ttl": 10,
 	"data": {
 		"alerts": [
@@ -10,7 +10,7 @@
 					"514"
 				],
 				"summary": "Valet service available",
-				"last_updated": 1462793294
+				"last_updated": 1470396773
 			},
 			{
 				"alert_id": "6",
@@ -19,7 +19,7 @@
 					"402"
 				],
 				"summary": "Valet service available",
-				"last_updated": 1462800483
+				"last_updated": 1470397323
 			},
 			{
 				"alert_id": "8",
@@ -28,16 +28,7 @@
 					"304"
 				],
 				"summary": "Valet service available",
-				"last_updated": 1462793307
-			},
-			{
-				"alert_id": "9",
-				"type": "OTHER",
-				"station_ids": [
-					"520"
-				],
-				"summary": "Valet service available",
-				"last_updated": 1462794067
+				"last_updated": 1470396784
 			},
 			{
 				"alert_id": "11",
@@ -46,7 +37,7 @@
 					"367"
 				],
 				"summary": "Valet service available",
-				"last_updated": 1462793499
+				"last_updated": 1470397344
 			},
 			{
 				"alert_id": "12",
@@ -55,7 +46,7 @@
 					"359"
 				],
 				"summary": "Valet service available",
-				"last_updated": 1462793490
+				"last_updated": 1470397352
 			},
 			{
 				"alert_id": "13",
@@ -64,25 +55,25 @@
 					"3230"
 				],
 				"summary": "Valet service available",
-				"last_updated": 1462819846
+				"last_updated": 1470389372
 			},
 			{
-				"alert_id": "14",
+				"alert_id": "17",
 				"type": "OTHER",
 				"station_ids": [
-					"303"
+					"377"
 				],
 				"summary": "Valet service available",
-				"last_updated": 1462800349
+				"last_updated": 1470400646
 			},
 			{
-				"alert_id": "15",
+				"alert_id": "19",
 				"type": "OTHER",
 				"station_ids": [
-					"3236"
+					"520"
 				],
 				"summary": "Valet service available",
-				"last_updated": 1462819864
+				"last_updated": 1470397365
 			}
 		]
 	}

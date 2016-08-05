@@ -1,25 +1,16 @@
 {
-	"last_updated": 1462827928,
+	"last_updated": 1470404521,
 	"ttl": 60,
 	"data": {
 		"plans": [
 			{
-				"plan_id": "payment_plan_43",
-				"name": "Monthly Basic",
-				"url": "https://widget.socialbicycles.com/20/43",
+				"plan_id": "payment_plan_101",
+				"name": "Pay As You Go",
+				"url": "https://widget.socialbicycles.com/20/101",
 				"currency": "USD",
-				"price": 15,
+				"price": 0,
 				"taxable": 1,
-				"description": ""
-			},
-			{
-				"plan_id": "payment_plan_192",
-				"name": "Monthly Plus",
-				"url": "https://widget.socialbicycles.com/20/192",
-				"currency": "USD",
-				"price": 20,
-				"taxable": 1,
-				"description": ""
+				"description": "Check out up to 4 bikes at a time at the hourly rate using your account number and PIN. Usage is billed by the minute."
 			},
 			{
 				"plan_id": "payment_plan_258",
@@ -28,16 +19,25 @@
 				"currency": "USD",
 				"price": 25,
 				"taxable": 1,
-				"description": ""
+				"description": "Requires confirmed .edu email address. Check out up to 3 additional bikes at the hourly rate (prorated) using account number and PIN."
 			},
 			{
-				"plan_id": "payment_plan_101",
-				"name": "Pay As You Go",
-				"url": "https://widget.socialbicycles.com/20/101",
+				"plan_id": "payment_plan_192",
+				"name": "Monthly Plus Subscription",
+				"url": "https://widget.socialbicycles.com/20/192",
 				"currency": "USD",
-				"price": 0,
+				"price": 20,
 				"taxable": 1,
-				"description": ""
+				"description": "Auto renews monthly. Check out up to 3 additional bikes at the hourly rate (prorated) using account number and PIN."
+			},
+			{
+				"plan_id": "payment_plan_43",
+				"name": "Monthly Basic Subscription",
+				"url": "https://widget.socialbicycles.com/20/43",
+				"currency": "USD",
+				"price": 15,
+				"taxable": 1,
+				"description": "Auto renews monthly. Check out up to 3 additional bikes at the hourly rate (prorated) using account number and PIN."
 			}
 		]
 	}

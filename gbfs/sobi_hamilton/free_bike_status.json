@@ -1,277 +1,341 @@
 {
-	"last_updated": 1462827926,
+	"last_updated": 1470404506,
 	"ttl": 60,
 	"data": {
 		"bikes": [
 			{
-				"bike_id": "bike_3228",
-				"name": "724-Eggy",
-				"lon": -79.91204,
-				"lat": 43.254965,
+				"bike_id": "bike_1964",
+				"name": "204-Ecto-1",
+				"lon": -79.81365333333333,
+				"lat": 43.24491666666667,
 				"is_reserved": 0,
 				"is_disabled": 0
 			},
 			{
-				"bike_id": "bike_2002",
-				"name": "242-Hildegard",
-				"lon": -79.86811166666666,
-				"lat": 43.258673333333334,
+				"bike_id": "bike_2128",
+				"name": "361-Hong",
+				"lon": -79.91598166666667,
+				"lat": 43.26475166666667,
 				"is_reserved": 0,
 				"is_disabled": 0
 			},
 			{
-				"bike_id": "bike_2121",
-				"name": "354-Liz",
-				"lon": -79.85039,
-				"lat": 43.246955,
+				"bike_id": "bike_1988",
+				"name": "229-Daniella",
+				"lon": -79.847955,
+				"lat": 43.250728333333335,
 				"is_reserved": 0,
 				"is_disabled": 0
 			},
 			{
-				"bike_id": "bike_1896",
-				"name": "116-Sandy",
-				"lon": -79.85269166666667,
-				"lat": 43.253545,
+				"bike_id": "bike_3113",
+				"name": "611-Lyra",
+				"lon": -79.90625,
+				"lat": 43.26229333333333,
 				"is_reserved": 0,
 				"is_disabled": 0
 			},
 			{
-				"bike_id": "bike_850",
-				"name": "024-Spin Me 'Round",
-				"lon": -79.91612166666667,
-				"lat": 43.264896666666665,
-				"is_reserved": 0,
-				"is_disabled": 0
-			},
-			{
-				"bike_id": "bike_3148",
-				"name": "646-Popham Wheelies",
-				"lon": -79.88293833333333,
-				"lat": 43.26561,
-				"is_reserved": 0,
-				"is_disabled": 0
-			},
-			{
-				"bike_id": "bike_2306",
-				"name": "548 - Savanna",
-				"lon": -79.89341666666667,
-				"lat": 43.25758,
-				"is_reserved": 0,
-				"is_disabled": 0
-			},
-			{
-				"bike_id": "bike_3247",
-				"name": "743-Ellen",
-				"lon": -79.89323,
-				"lat": 43.25799166666667,
-				"is_reserved": 0,
-				"is_disabled": 0
-			},
-			{
-				"bike_id": "bike_2009",
-				"name": "249-Darlena",
-				"lon": -79.86632833333333,
-				"lat": 43.259785,
-				"is_reserved": 0,
-				"is_disabled": 0
-			},
-			{
-				"bike_id": "bike_2138",
-				"name": "372-Karri",
-				"lon": -79.82532,
-				"lat": 43.239985,
-				"is_reserved": 0,
-				"is_disabled": 0
-			},
-			{
-				"bike_id": "bike_2285",
-				"name": "527 - Clayton ",
-				"lon": -79.91909666666666,
-				"lat": 43.25756333333333,
-				"is_reserved": 0,
-				"is_disabled": 0
-			},
-			{
-				"bike_id": "bike_2215",
-				"name": "453-Chang",
-				"lon": -79.861875,
-				"lat": 43.258916666666664,
-				"is_reserved": 0,
-				"is_disabled": 0
-			},
-			{
-				"bike_id": "bike_3252",
-				"name": "748-Mateo",
-				"lon": -79.86223333333334,
-				"lat": 43.27256,
-				"is_reserved": 0,
-				"is_disabled": 0
-			},
-			{
-				"bike_id": "bike_1941",
-				"name": "132-Tic Tac Toe",
-				"lon": -79.83647333333333,
-				"lat": 43.25589,
-				"is_reserved": 0,
-				"is_disabled": 0
-			},
-			{
-				"bike_id": "bike_866",
-				"name": "047-Chewbikea",
-				"lon": -79.91982833333333,
-				"lat": 43.266508333333334,
-				"is_reserved": 0,
-				"is_disabled": 0
-			},
-			{
-				"bike_id": "bike_2272",
-				"name": "513-Pennie",
-				"lon": -79.87236666666666,
-				"lat": 43.26199666666667,
-				"is_reserved": 0,
-				"is_disabled": 0
-			},
-			{
-				"bike_id": "bike_2072",
-				"name": "309-Lavona",
-				"lon": -79.85961166666667,
-				"lat": 43.2541,
-				"is_reserved": 0,
-				"is_disabled": 0
-			},
-			{
-				"bike_id": "bike_2290",
-				"name": "532-Delfina",
-				"lon": -79.870385,
-				"lat": 43.260505,
-				"is_reserved": 0,
-				"is_disabled": 0
-			},
-			{
-				"bike_id": "bike_2208",
-				"name": "446-Daine",
-				"lon": -79.88423166666666,
-				"lat": 43.263655,
-				"is_reserved": 0,
-				"is_disabled": 0
-			},
-			{
-				"bike_id": "bike_1868",
-				"name": "191-Nita",
-				"lon": -79.876345,
-				"lat": 43.25890166666667,
-				"is_reserved": 0,
-				"is_disabled": 0
-			},
-			{
-				"bike_id": "bike_2282",
-				"name": "524-Mignon",
-				"lon": -79.84149833333333,
-				"lat": 43.248005,
-				"is_reserved": 0,
-				"is_disabled": 0
-			},
-			{
-				"bike_id": "bike_2230",
-				"name": "468-Liza",
-				"lon": -79.88970666666667,
-				"lat": 43.25129833333333,
-				"is_reserved": 0,
-				"is_disabled": 0
-			},
-			{
-				"bike_id": "bike_1862",
-				"name": "123-Cooke Family",
-				"lon": -79.85592166666666,
-				"lat": 43.268285,
-				"is_reserved": 0,
-				"is_disabled": 0
-			},
-			{
-				"bike_id": "bike_2359",
-				"name": "601-Blessed Polly Bee",
-				"lon": -79.86712333333334,
-				"lat": 43.26080666666667,
-				"is_reserved": 0,
-				"is_disabled": 0
-			},
-			{
-				"bike_id": "bike_1948",
-				"name": "143-Tejas",
-				"lon": -79.85406666666667,
-				"lat": 43.248223333333335,
-				"is_reserved": 0,
-				"is_disabled": 0
-			},
-			{
-				"bike_id": "bike_2194",
-				"name": "432 - Petunia",
-				"lon": -79.85970333333333,
-				"lat": 43.26779333333333,
+				"bike_id": "bike_1954",
+				"name": "137-Noam",
+				"lon": -79.87738,
+				"lat": 43.26531,
 				"is_reserved": 0,
 				"is_disabled": 0
 			},
 			{
 				"bike_id": "bike_2045",
 				"name": "285-Nicole",
-				"lon": -79.8786,
-				"lat": 43.26472833333333,
+				"lon": -79.86860333333334,
+				"lat": 43.256055,
 				"is_reserved": 0,
 				"is_disabled": 0
 			},
 			{
-				"bike_id": "bike_2081",
-				"name": "318-Bubba",
-				"lon": -79.86952333333333,
-				"lat": 43.255743333333335,
+				"bike_id": "bike_901",
+				"name": "074-Sandy Treks",
+				"lon": -79.8471,
+				"lat": 43.25010833333333,
 				"is_reserved": 0,
 				"is_disabled": 0
 			},
 			{
-				"bike_id": "bike_2279",
-				"name": "521-Cornelius",
-				"lon": -79.83956166666667,
-				"lat": 43.24768666666667,
+				"bike_id": "bike_2084",
+				"name": "321-Raphaela",
+				"lon": -79.86854,
+				"lat": 43.25597666666667,
 				"is_reserved": 0,
 				"is_disabled": 0
 			},
 			{
-				"bike_id": "bike_2247",
-				"name": "488-Jasperino",
-				"lon": -79.86919,
-				"lat": 43.256555,
+				"bike_id": "bike_3114",
+				"name": "612-Jamillah",
+				"lon": -79.916315,
+				"lat": 43.26031833333333,
 				"is_reserved": 0,
 				"is_disabled": 0
 			},
 			{
-				"bike_id": "bike_2122",
-				"name": "355-Mikel",
-				"lon": -79.83861833333333,
-				"lat": 43.24331,
+				"bike_id": "bike_916",
+				"name": "096-Put The Fun Between Your Legs",
+				"lon": -79.89691333333333,
+				"lat": 43.248905,
 				"is_reserved": 0,
 				"is_disabled": 0
 			},
 			{
-				"bike_id": "bike_1993",
-				"name": "232-Dulce",
-				"lon": -79.84863,
-				"lat": 43.248491666666666,
+				"bike_id": "bike_845",
+				"name": "028-Papa Smurf",
+				"lon": -79.86497833333334,
+				"lat": 43.255923333333335,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_2344",
+				"name": "586-Stanford",
+				"lon": -79.84045166666667,
+				"lat": 43.267645,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_3158",
+				"name": "656-Mtl",
+				"lon": -79.91783666666667,
+				"lat": 43.25342333333333,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_3157",
+				"name": "655-Susan",
+				"lon": -79.84213,
+				"lat": 43.26506833333333,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_2032",
+				"name": "272-Gilda",
+				"lon": -79.83041833333333,
+				"lat": 43.25495,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_2182",
+				"name": "417-Tamiko",
+				"lon": -79.830235,
+				"lat": 43.257538333333336,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_2254",
+				"name": "495-Larissa",
+				"lon": -79.82931833333333,
+				"lat": 43.246723333333335,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_2167",
+				"name": "399-Bankman",
+				"lon": -79.919505,
+				"lat": 43.25191,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_2227",
+				"name": "465-Leslee",
+				"lon": -79.85972166666667,
+				"lat": 43.253816666666665,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_3142",
+				"name": "640-Ja",
+				"lon": -79.84144,
+				"lat": 43.25115666666667,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_2286",
+				"name": "528-Aaron",
+				"lon": -79.87028166666667,
+				"lat": 43.25669333333333,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_1977",
+				"name": "217-Jannettje",
+				"lon": -79.91637,
+				"lat": 43.26314333333333,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_2020",
+				"name": "260-Lakeisha",
+				"lon": -79.86226666666667,
+				"lat": 43.25515,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_2282",
+				"name": "524-Mignon",
+				"lon": -79.93627666666667,
+				"lat": 43.26764333333333,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_3119",
+				"name": "617-Lisa",
+				"lon": -79.91413666666666,
+				"lat": 43.266358333333336,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_1984",
+				"name": "225-Arturo",
+				"lon": -79.86697666666667,
+				"lat": 43.260571666666664,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_3124",
+				"name": "622-Jane",
+				"lon": -79.82143333333333,
+				"lat": 43.247033333333334,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_851",
+				"name": "023-Deekan",
+				"lon": -79.85329666666667,
+				"lat": 43.25742,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_3166",
+				"name": "664-Sebrina",
+				"lon": -79.92189,
+				"lat": 43.261855,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_2242",
+				"name": "480-Yasiin",
+				"lon": -79.91182666666667,
+				"lat": 43.25774833333333,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_2351",
+				"name": "593-Randalf",
+				"lon": -79.78706,
+				"lat": 43.256085,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_2316",
+				"name": "558 - Arron",
+				"lon": -79.84792,
+				"lat": 43.24998,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_2153",
+				"name": "387-Vincent",
+				"lon": -79.853335,
+				"lat": 43.25799,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_1969",
+				"name": "210-Corey's Bike",
+				"lon": -79.84438833333333,
+				"lat": 43.26867333333333,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_2099",
+				"name": "336-Augustina",
+				"lon": -79.85468833333333,
+				"lat": 43.247685,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_1331",
+				"name": "098-LRT Last km Solution",
+				"lon": -79.81905833333333,
+				"lat": 43.244665,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_3121",
+				"name": "619-Alvera",
+				"lon": -79.83901333333333,
+				"lat": 43.257358333333336,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_882",
+				"name": "053-Richard Camohat",
+				"lon": -79.93586833333333,
+				"lat": 43.25724,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_2194",
+				"name": "432 - Petunia",
+				"lon": -79.84419333333334,
+				"lat": 43.26918166666667,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_3115",
+				"name": "613-Collette",
+				"lon": -79.86040666666666,
+				"lat": 43.260755,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_857",
+				"name": "040-Crown Point",
+				"lon": -79.83028,
+				"lat": 43.254871666666666,
 				"is_reserved": 0,
 				"is_disabled": 0
 			},
 			{
 				"bike_id": "bike_913",
 				"name": "100-Toms + McNally Design",
-				"lon": -79.86929833333333,
-				"lat": 43.256373333333336,
-				"is_reserved": 0,
-				"is_disabled": 0
-			},
-			{
-				"bike_id": "bike_843",
-				"name": "019-Linus' Blanket",
-				"lon": -79.861375,
-				"lat": 43.25898,
+				"lon": -79.86209333333333,
+				"lat": 43.25225,
 				"is_reserved": 0,
 				"is_disabled": 0
 			}

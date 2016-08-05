@@ -1,5 +1,5 @@
 {
-	"last_updated": 1462827866,
+	"last_updated": 1470404479,
 	"ttl": 60,
 	"data": {
 		"stations": [
@@ -13,8 +13,8 @@
 					"KEY",
 					"CREDITCARD"
 				],
-				"capacity": 18,
-				"eightd_has_key_dispenser": false
+				"capacity": 21,
+				"eightd_has_key_dispenser": true
 			},
 			{
 				"station_id": "2",
@@ -26,7 +26,7 @@
 					"KEY",
 					"CREDITCARD"
 				],
-				"capacity": 16,
+				"capacity": 17,
 				"eightd_has_key_dispenser": true
 			},
 			{
@@ -52,7 +52,7 @@
 					"KEY",
 					"CREDITCARD"
 				],
-				"capacity": 13,
+				"capacity": 15,
 				"eightd_has_key_dispenser": true
 			},
 			{
@@ -78,7 +78,7 @@
 					"KEY",
 					"CREDITCARD"
 				],
-				"capacity": 22,
+				"capacity": 20,
 				"eightd_has_key_dispenser": true
 			},
 			{
@@ -91,7 +91,7 @@
 					"KEY",
 					"CREDITCARD"
 				],
-				"capacity": 16,
+				"capacity": 20,
 				"eightd_has_key_dispenser": true
 			},
 			{
@@ -104,7 +104,7 @@
 					"KEY",
 					"CREDITCARD"
 				],
-				"capacity": 19,
+				"capacity": 20,
 				"eightd_has_key_dispenser": true
 			},
 			{
@@ -117,7 +117,7 @@
 					"KEY",
 					"CREDITCARD"
 				],
-				"capacity": 18,
+				"capacity": 17,
 				"eightd_has_key_dispenser": true
 			},
 			{
@@ -130,7 +130,7 @@
 					"KEY",
 					"CREDITCARD"
 				],
-				"capacity": 16,
+				"capacity": 17,
 				"eightd_has_key_dispenser": true
 			},
 			{
@@ -183,7 +183,7 @@
 					"CREDITCARD"
 				],
 				"capacity": 16,
-				"eightd_has_key_dispenser": true
+				"eightd_has_key_dispenser": false
 			},
 			{
 				"station_id": "15",
@@ -208,7 +208,7 @@
 					"KEY",
 					"CREDITCARD"
 				],
-				"capacity": 26,
+				"capacity": 27,
 				"eightd_has_key_dispenser": true
 			},
 			{
@@ -234,7 +234,7 @@
 					"KEY",
 					"CREDITCARD"
 				],
-				"capacity": 13,
+				"capacity": 14,
 				"eightd_has_key_dispenser": true
 			},
 			{
@@ -286,7 +286,7 @@
 					"KEY",
 					"CREDITCARD"
 				],
-				"capacity": 13,
+				"capacity": 16,
 				"eightd_has_key_dispenser": true
 			},
 			{
@@ -299,7 +299,7 @@
 					"KEY",
 					"CREDITCARD"
 				],
-				"capacity": 16,
+				"capacity": 18,
 				"eightd_has_key_dispenser": true
 			},
 			{
@@ -312,8 +312,8 @@
 					"KEY",
 					"CREDITCARD"
 				],
-				"capacity": 14,
-				"eightd_has_key_dispenser": true
+				"capacity": 19,
+				"eightd_has_key_dispenser": false
 			},
 			{
 				"station_id": "26",
@@ -377,7 +377,7 @@
 					"KEY",
 					"CREDITCARD"
 				],
-				"capacity": 13,
+				"capacity": 20,
 				"eightd_has_key_dispenser": true
 			},
 			{
@@ -403,7 +403,7 @@
 					"KEY",
 					"CREDITCARD"
 				],
-				"capacity": 17,
+				"capacity": 18,
 				"eightd_has_key_dispenser": true
 			},
 			{
@@ -430,7 +430,7 @@
 					"CREDITCARD"
 				],
 				"capacity": 20,
-				"eightd_has_key_dispenser": false
+				"eightd_has_key_dispenser": true
 			},
 			{
 				"station_id": "35",
@@ -446,19 +446,6 @@
 				"eightd_has_key_dispenser": true
 			},
 			{
-				"station_id": "36",
-				"name": "Dexter Ave & Denny Way",
-				"short_name": "SLU-18",
-				"lat": 47.618285,
-				"lon": -122.342205,
-				"rental_methods": [
-					"KEY",
-					"CREDITCARD"
-				],
-				"capacity": 16,
-				"eightd_has_key_dispenser": false
-			},
-			{
 				"station_id": "37",
 				"name": "Key Arena / 1st Ave N & Harrison St",
 				"short_name": "SLU-19",
@@ -468,7 +455,7 @@
 					"KEY",
 					"CREDITCARD"
 				],
-				"capacity": 16,
+				"capacity": 18,
 				"eightd_has_key_dispenser": true
 			},
 			{
@@ -481,7 +468,7 @@
 					"KEY",
 					"CREDITCARD"
 				],
-				"capacity": 17,
+				"capacity": 19,
 				"eightd_has_key_dispenser": true
 			},
 			{
@@ -494,7 +481,7 @@
 					"KEY",
 					"CREDITCARD"
 				],
-				"capacity": 11,
+				"capacity": 18,
 				"eightd_has_key_dispenser": true
 			},
 			{
@@ -533,8 +520,8 @@
 					"KEY",
 					"CREDITCARD"
 				],
-				"capacity": 14,
-				"eightd_has_key_dispenser": true
+				"capacity": 15,
+				"eightd_has_key_dispenser": false
 			},
 			{
 				"station_id": "44",
@@ -546,7 +533,7 @@
 					"KEY",
 					"CREDITCARD"
 				],
-				"capacity": 16,
+				"capacity": 17,
 				"eightd_has_key_dispenser": true
 			},
 			{
@@ -559,7 +546,7 @@
 					"KEY",
 					"CREDITCARD"
 				],
-				"capacity": 8,
+				"capacity": 14,
 				"eightd_has_key_dispenser": true
 			},
 			{
@@ -572,7 +559,7 @@
 					"KEY",
 					"CREDITCARD"
 				],
-				"capacity": 12,
+				"capacity": 14,
 				"eightd_has_key_dispenser": true
 			},
 			{
@@ -598,7 +585,7 @@
 					"KEY",
 					"CREDITCARD"
 				],
-				"capacity": 24,
+				"capacity": 25,
 				"eightd_has_key_dispenser": true
 			},
 			{
@@ -611,7 +598,7 @@
 					"KEY",
 					"CREDITCARD"
 				],
-				"capacity": 18,
+				"capacity": 19,
 				"eightd_has_key_dispenser": true
 			},
 			{
@@ -637,7 +624,7 @@
 					"KEY",
 					"CREDITCARD"
 				],
-				"capacity": 15,
+				"capacity": 16,
 				"eightd_has_key_dispenser": true
 			},
 			{
@@ -651,7 +638,7 @@
 					"CREDITCARD"
 				],
 				"capacity": 20,
-				"eightd_has_key_dispenser": true
+				"eightd_has_key_dispenser": false
 			},
 			{
 				"station_id": "63",
@@ -663,7 +650,7 @@
 					"KEY",
 					"CREDITCARD"
 				],
-				"capacity": 17,
+				"capacity": 19,
 				"eightd_has_key_dispenser": true
 			},
 			{
@@ -676,7 +663,7 @@
 					"KEY",
 					"CREDITCARD"
 				],
-				"capacity": 20,
+				"capacity": 21,
 				"eightd_has_key_dispenser": true
 			},
 			{
@@ -689,7 +676,7 @@
 					"KEY",
 					"CREDITCARD"
 				],
-				"capacity": 26,
+				"capacity": 16,
 				"eightd_has_key_dispenser": true
 			},
 			{
@@ -703,6 +690,19 @@
 					"CREDITCARD"
 				],
 				"capacity": 18,
+				"eightd_has_key_dispenser": true
+			},
+			{
+				"station_id": "68",
+				"name": "Thomas St & 5th Ave N",
+				"short_name": "SLU-22",
+				"lat": 47.62087852950126,
+				"lon": -122.34737692415365,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 21,
 				"eightd_has_key_dispenser": true
 			}
 		]

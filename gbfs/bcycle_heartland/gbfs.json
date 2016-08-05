@@ -18,9 +18,13 @@
 				{
 					"url": "https://gbfs.bcycle.com/bcycle_heartland/station_status.json",
 					"name": "station_status"
+				},
+				{
+					"url": "https://gbfs.bcycle.com/bcycle_heartland/system_pricing_plans.json",
+					"name": "system_pricing_plans"
 				}
 			]
 		}
 	},
-	"last_updated": "1462827921"
+	"last_updated": "1470404504"
 }

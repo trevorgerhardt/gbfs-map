@@ -1,5 +1,5 @@
 {
-	"last_updated": 1462827935,
+	"last_updated": 1470404520,
 	"ttl": 60,
 	"data": {
 		"stations": [
@@ -55,8 +55,8 @@
 				"station_id": "hub_1216",
 				"name": "Juniper-Poplar-Magnolia",
 				"region_id": "region_176",
-				"lon": -82.41858132183552,
-				"lat": 28.05947588505838,
+				"lon": -82.4185836687684,
+				"lat": 28.059439197529855,
 				"address": "3707 USF Beach Lane, Tampa",
 				"rental_methods": [
 					"KEY",
@@ -154,6 +154,22 @@
 				"lon": -82.4076198041439,
 				"lat": 28.060548696070995,
 				"address": "12301 USF Maple Drive, Tampa",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_1779",
+				"name": "number 2",
+				"region_id": "region_176",
+				"lon": -82.41548404097557,
+				"lat": 28.05914658387902,
+				"address": "4220 East Fowler Avenue, Tampa",
 				"rental_methods": [
 					"KEY",
 					"APPLEPAY",

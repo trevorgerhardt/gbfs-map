@@ -603,58 +603,6 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"station_id": "hub_378",
-				"name": "S. Central / W. Broadway Ed Pastor Transit Center",
-				"region_id": "region_80",
-				"lon": -112.073865361333,
-				"lat": 33.4069535383671,
-				"address": "Ed Pastor Transit Center, West Broadway Road, South Mountain, Phoenix, Arizona",
-				"rental_methods": [
-					"KEY",
-					"APPLEPAY",
-					"ANDROIDPAY",
-					"TRANSITCARD",
-					"ACCOUNTNUMBER",
-					"PHONE"
-				]
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-112.073865361333,
-					33.4069535383671
-				]
-			}
-		},
-		{
-			"type": "Feature",
-			"properties": {
-				"station_id": "hub_491",
-				"name": "GRID OFFICE",
-				"region_id": "region_80",
-				"lon": -112.084449418541,
-				"lat": 33.4414162924909,
-				"address": "739 West Lincoln Street, Phoenix",
-				"rental_methods": [
-					"KEY",
-					"APPLEPAY",
-					"ANDROIDPAY",
-					"TRANSITCARD",
-					"ACCOUNTNUMBER",
-					"PHONE"
-				]
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-112.084449418541,
-					33.4414162924909
-				]
-			}
-		},
-		{
-			"type": "Feature",
-			"properties": {
 				"station_id": "hub_492",
 				"name": "Encanto Park",
 				"region_id": "region_80",
@@ -1611,6 +1559,58 @@
 				"coordinates": [
 					-111.82296752929686,
 					33.425910008939695
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_1441",
+				"name": "Van Buren St & 1st Ave (Central Station)",
+				"region_id": "region_80",
+				"lon": -112.07477733492851,
+				"lat": 33.451737007029394,
+				"address": "Central Station NB Lane Stop 2, Phoenix",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-112.07477733492851,
+					33.451737007029394
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_1782",
+				"name": "Enchanted Island",
+				"region_id": "region_80",
+				"lon": -112.0882473886013,
+				"lat": 33.47364665940653,
+				"address": "1202 West Encanto Boulevard, Phoenix",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-112.0882473886013,
+					33.47364665940653
 				]
 			}
 		}

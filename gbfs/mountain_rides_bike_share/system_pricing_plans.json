@@ -1,25 +1,16 @@
 {
-	"last_updated": 1462827930,
+	"last_updated": 1470404514,
 	"ttl": 60,
 	"data": {
 		"plans": [
 			{
-				"plan_id": "payment_plan_61",
-				"name": "4-Day Pass",
-				"url": "https://widget.socialbicycles.com/6/61",
+				"plan_id": "payment_plan_14",
+				"name": "PAUG",
+				"url": "https://widget.socialbicycles.com/6/14",
 				"currency": "USD",
-				"price": 12,
+				"price": 0,
 				"taxable": 1,
-				"description": "The Day Pass membership provides users one hour of free ride time every day for four days. Additional time is charged at $4 per hour, prorated based on actual usage. \r\n\r\nIf you choose to use the 'Hold' function on the bike, you will be charged the same $4/hour rate as if you were riding the bike."
-			},
-			{
-				"plan_id": "payment_plan_59",
-				"name": "Monthly",
-				"url": "https://widget.socialbicycles.com/6/59",
-				"currency": "USD",
-				"price": 30,
-				"taxable": 1,
-				"description": "The Monthly membership provides users one hour of free ride time every day of the membership. Additional time is charged at $4 per hour, prorated based on actual usage. \r\nMemberships renew automatically unless you contact Mountain Rides.\r\n\r\nIf you choose to use the 'Hold' function on the bike, you will be charged the same $4/hour rate as if you were riding the bike."
+				"description": "Pay-As-You-Go users simply pay $5 per hour, prorated for all their riding.\r\n\r\nIf you choose to use the 'Hold' function on the bike, you will be charged the same $5/hour rate as if you were riding the bike."
 			},
 			{
 				"plan_id": "payment_plan_60",
@@ -31,13 +22,22 @@
 				"description": "The Yearly membership provides users one hour of free ride time every day of the membership. Additional time is charged at $4 per hour, prorated based on actual usage. \r\nMemberships renew automatically unless you contact Mountain Rides.\r\n\r\nIf you choose to use the 'Hold' function on the bike, you will be charged the same $4/hour rate as if you were riding the bike."
 			},
 			{
-				"plan_id": "payment_plan_14",
-				"name": "PAUG",
-				"url": "https://widget.socialbicycles.com/6/14",
+				"plan_id": "payment_plan_59",
+				"name": "Monthly",
+				"url": "https://widget.socialbicycles.com/6/59",
 				"currency": "USD",
-				"price": 0,
+				"price": 30,
 				"taxable": 1,
-				"description": "Pay-As-You-Go users simply pay $5 per hour, prorated for all their riding.\r\n\r\nIf you choose to use the 'Hold' function on the bike, you will be charged the same $5/hour rate as if you were riding the bike."
+				"description": "The Monthly membership provides users one hour of free ride time every day of the membership. Additional time is charged at $4 per hour, prorated based on actual usage. \r\nMemberships renew automatically unless you contact Mountain Rides.\r\n\r\nIf you choose to use the 'Hold' function on the bike, you will be charged the same $4/hour rate as if you were riding the bike."
+			},
+			{
+				"plan_id": "payment_plan_61",
+				"name": "4-Day Pass",
+				"url": "https://widget.socialbicycles.com/6/61",
+				"currency": "USD",
+				"price": 12,
+				"taxable": 1,
+				"description": "The Day Pass membership provides users one hour of free ride time every day for four days. Additional time is charged at $4 per hour, prorated based on actual usage. \r\n\r\nIf you choose to use the 'Hold' function on the bike, you will be charged the same $4/hour rate as if you were riding the bike."
 			}
 		]
 	}

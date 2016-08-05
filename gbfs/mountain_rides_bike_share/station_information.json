@@ -1,5 +1,5 @@
 {
-	"last_updated": 1462827930,
+	"last_updated": 1470404514,
 	"ttl": 60,
 	"data": {
 		"stations": [
@@ -714,6 +714,38 @@
 				"lon": -114.362091422081,
 				"lat": 43.682991527198936,
 				"address": "303 Walnut Avenue, Ketchum",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_1485",
+				"name": "River and 2nd",
+				"region_id": "region_157",
+				"lon": -114.36463683843613,
+				"lat": 43.67709067379101,
+				"address": "200 River Street West, Ketchum",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			{
+				"station_id": "hub_1708",
+				"name": "Warm Springs",
+				"region_id": "region_157",
+				"lon": -114.36742901802063,
+				"lat": 43.683148642889904,
+				"address": "711 Warm Springs Road, Ketchum",
 				"rental_methods": [
 					"KEY",
 					"APPLEPAY",

@@ -841,7 +841,7 @@
 					"KEY",
 					"CREDITCARD"
 				],
-				"capacity": 11,
+				"capacity": 15,
 				"eightd_has_key_dispenser": false
 			},
 			"geometry": {
@@ -2773,7 +2773,7 @@
 					"KEY",
 					"CREDITCARD"
 				],
-				"capacity": 27,
+				"capacity": 31,
 				"eightd_has_key_dispenser": false
 			},
 			"geometry": {
@@ -2796,7 +2796,7 @@
 					"KEY",
 					"CREDITCARD"
 				],
-				"capacity": 15,
+				"capacity": 19,
 				"eightd_has_key_dispenser": false
 			},
 			"geometry": {
@@ -3302,7 +3302,7 @@
 					"KEY",
 					"CREDITCARD"
 				],
-				"capacity": 15,
+				"capacity": 19,
 				"eightd_has_key_dispenser": false
 			},
 			"geometry": {
@@ -3900,7 +3900,7 @@
 					"KEY",
 					"CREDITCARD"
 				],
-				"capacity": 19,
+				"capacity": 23,
 				"eightd_has_key_dispenser": false
 			},
 			"geometry": {
@@ -4007,10 +4007,10 @@
 			"type": "Feature",
 			"properties": {
 				"station_id": "181",
-				"name": "N Quincy St & Wilson Blvd",
+				"name": "Wilson Blvd & N Quincy St",
 				"short_name": "31039",
-				"lat": 38.880151,
-				"lon": -77.107673,
+				"lat": 38.880012,
+				"lon": -77.107854,
 				"rental_methods": [
 					"KEY",
 					"CREDITCARD"
@@ -4021,8 +4021,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-77.107673,
-					38.880151
+					-77.107854,
+					38.880012
 				]
 			}
 		},
@@ -4337,7 +4337,7 @@
 					"KEY",
 					"CREDITCARD"
 				],
-				"capacity": 19,
+				"capacity": 29,
 				"eightd_has_key_dispenser": false
 			},
 			"geometry": {
@@ -7894,10 +7894,10 @@
 			"type": "Feature",
 			"properties": {
 				"station_id": "354",
-				"name": "Lee Hwy & N Nelson St",
+				"name": "Lee Hwy & N Monroe St",
 				"short_name": "31092",
-				"lat": 38.895929,
-				"lon": -77.105246,
+				"lat": 38.896456,
+				"lon": -77.104562,
 				"rental_methods": [
 					"KEY",
 					"CREDITCARD"
@@ -7908,8 +7908,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-77.105246,
-					38.895929
+					-77.104562,
+					38.896456
 				]
 			}
 		},
@@ -8715,6 +8715,466 @@
 				"coordinates": [
 					-77.032375,
 					38.925284
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "398",
+				"name": "Potomac Ave & Main Line Blvd",
+				"short_name": "31910",
+				"lat": 38.822738,
+				"lon": -77.049265,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 19,
+				"eightd_has_key_dispenser": true
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-77.049265,
+					38.822738
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "399",
+				"name": "11th & O St NW",
+				"short_name": "31286",
+				"lat": 38.90843,
+				"lon": -77.02714,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 19,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-77.02714,
+					38.90843
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "400",
+				"name": "10th St & L'Enfant Plaza SW",
+				"short_name": "31287",
+				"lat": 38.884377,
+				"lon": -77.025791,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 23,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-77.025791,
+					38.884377
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "401",
+				"name": "Connecticut Ave & Yuma St NW",
+				"short_name": "31318",
+				"lat": 38.947156,
+				"lon": -77.065115,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 19,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-77.065115,
+					38.947156
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "402",
+				"name": "2nd St & Massachusetts Ave NE",
+				"short_name": "31641",
+				"lat": 38.894972,
+				"lon": -77.003135,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 23,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-77.003135,
+					38.894972
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "403",
+				"name": "Radford & Osage St",
+				"short_name": "31908",
+				"lat": 38.828437,
+				"lon": -77.086031,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 23,
+				"eightd_has_key_dispenser": true
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-77.086031,
+					38.828437
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "404",
+				"name": "East Falls Church Metro/Sycamore St & 19th St N",
+				"short_name": "31904",
+				"lat": 38.884859,
+				"lon": -77.155988,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 19,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-77.155988,
+					38.884859
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "406",
+				"name": "Commonwealth Ave & Oak St",
+				"short_name": "31906",
+				"lat": 38.812711,
+				"lon": -77.061715,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 19,
+				"eightd_has_key_dispenser": true
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-77.061715,
+					38.812711
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "407",
+				"name": "Commonwealth & E Monroe Ave",
+				"short_name": "31913",
+				"lat": 38.820265,
+				"lon": -77.062973,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 15,
+				"eightd_has_key_dispenser": true
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-77.062973,
+					38.820265
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "408",
+				"name": "4th St & Madison Dr NW",
+				"short_name": "31288",
+				"lat": 38.890493,
+				"lon": -77.017253,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 19,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-77.017253,
+					38.890493
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "409",
+				"name": "Henry Bacon Dr & Lincoln Memorial Circle NW",
+				"short_name": "31289",
+				"lat": 38.890544,
+				"lon": -77.049379,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 19,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-77.049379,
+					38.890544
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "410",
+				"name": "17th St & Independence Ave SW",
+				"short_name": "31290",
+				"lat": 38.888097,
+				"lon": -77.038325,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 19,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-77.038325,
+					38.888097
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "411",
+				"name": "Franklin & S Washington St",
+				"short_name": "31907",
+				"lat": 38.798133,
+				"lon": -77.0487,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 19,
+				"eightd_has_key_dispenser": true
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-77.0487,
+					38.798133
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "412",
+				"name": "Mount Vernon Ave & Four Mile Run Park",
+				"short_name": "31909",
+				"lat": 38.843422,
+				"lon": -77.064016,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 15,
+				"eightd_has_key_dispenser": true
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-77.064016,
+					38.843422
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "413",
+				"name": "New Jersey Ave & L St NW",
+				"short_name": "31642",
+				"lat": 38.903598,
+				"lon": -77.01397,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 19,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-77.01397,
+					38.903598
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "414",
+				"name": "Mount Vernon Ave & Bruce St",
+				"short_name": "31912",
+				"lat": 38.841291,
+				"lon": -77.063093,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 15,
+				"eightd_has_key_dispenser": true
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-77.063093,
+					38.841291
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "415",
+				"name": "Lee Center",
+				"short_name": "31914",
+				"lat": 38.797557,
+				"lon": -77.053766,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 15,
+				"eightd_has_key_dispenser": true
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-77.053766,
+					38.797557
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "416",
+				"name": "Powhatan St & Bashford Ln",
+				"short_name": "31915",
+				"lat": 38.818748,
+				"lon": -77.047783,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 15,
+				"eightd_has_key_dispenser": true
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-77.047783,
+					38.818748
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "417",
+				"name": "Potomac & Swann Ave",
+				"short_name": "31916",
+				"lat": 38.829545,
+				"lon": -77.047844,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 19,
+				"eightd_has_key_dispenser": true
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-77.047844,
+					38.829545
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "418",
+				"name": "14th & Irving St NW",
+				"short_name": "31124",
+				"lat": 38.928552,
+				"lon": -77.032224,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 31,
+				"eightd_has_key_dispenser": false
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-77.032224,
+					38.928552
 				]
 			}
 		}

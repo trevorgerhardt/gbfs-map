@@ -1,16 +1,16 @@
 {
-	"last_updated": 1462827926,
+	"last_updated": 1470404512,
 	"ttl": 60,
 	"data": {
 		"plans": [
 			{
-				"plan_id": "payment_plan_68",
-				"name": "Annual",
-				"url": "https://widget.socialbicycles.com/36/68",
+				"plan_id": "payment_plan_364",
+				"name": "Semester ii  2016",
+				"url": "https://widget.socialbicycles.com/36/364",
 				"currency": "AUD",
-				"price": 62,
+				"price": 39,
 				"taxable": 1,
-				"description": "Annual Plan is for 365 days from commencement and provides  low cost access to Bikes for as little as 18 cents per day."
+				"description": ""
 			},
 			{
 				"plan_id": "payment_plan_69",
@@ -22,13 +22,13 @@
 				"description": "PAYR provides a flexible 365 day plan for accessing Bikes when you need them. After payment of the Membership Fee, you are only charged when you use the Bikes."
 			},
 			{
-				"plan_id": "payment_plan_257",
-				"name": "Semester 2016",
-				"url": "https://widget.socialbicycles.com/36/257",
+				"plan_id": "payment_plan_68",
+				"name": "Annual",
+				"url": "https://widget.socialbicycles.com/36/68",
 				"currency": "AUD",
-				"price": 39,
+				"price": 62,
 				"taxable": 1,
-				"description": ""
+				"description": "Annual Plan is for 365 days from commencement and provides  low cost access to Bikes for as little as 18 cents per day."
 			}
 		]
 	}

@@ -1,93 +1,133 @@
 {
-	"last_updated": 1462827926,
+	"last_updated": 1470404510,
 	"ttl": 60,
 	"data": {
 		"bikes": [
 			{
-				"bike_id": "bike_1791",
-				"name": "C-1252 - Martinez",
-				"lon": -82.44482833333333,
-				"lat": 27.961296666666666,
-				"is_reserved": 0,
-				"is_disabled": 0
-			},
-			{
-				"bike_id": "bike_1720",
-				"name": "C-1232 - Wing 1",
-				"lon": -82.45699333333333,
-				"lat": 27.949268333333332,
-				"is_reserved": 0,
-				"is_disabled": 0
-			},
-			{
 				"bike_id": "bike_1183",
 				"name": "C-1121",
-				"lon": -82.45969,
-				"lat": 27.950778333333332,
+				"lon": -82.45692333333334,
+				"lat": 27.94931,
 				"is_reserved": 0,
 				"is_disabled": 0
 			},
 			{
-				"bike_id": "bike_3492",
-				"name": "C-1299",
-				"lon": -82.45019333333333,
-				"lat": 27.94248,
+				"bike_id": "bike_1557",
+				"name": "C-1042 Hinske",
+				"lon": -82.458955,
+				"lat": 27.951401666666666,
 				"is_reserved": 0,
 				"is_disabled": 0
 			},
 			{
-				"bike_id": "bike_5254",
-				"name": "C-1080 - Barnes",
-				"lon": -82.45740833333333,
-				"lat": 27.949028333333334,
+				"bike_id": "bike_1560",
+				"name": "C-1148 - Hippeard",
+				"lon": -82.45746166666666,
+				"lat": 27.949173333333334,
 				"is_reserved": 0,
 				"is_disabled": 0
 			},
 			{
-				"bike_id": "bike_528",
-				"name": "C-1289",
-				"lon": -82.45018666666667,
-				"lat": 27.94318,
+				"bike_id": "bike_3488",
+				"name": "C-1017",
+				"lon": -82.45619666666667,
+				"lat": 27.948838333333335,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_1550",
+				"name": "C-1210 Clarke",
+				"lon": -82.45509,
+				"lat": 27.941928333333333,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_3295",
+				"name": "C-1010 - Kazmir",
+				"lon": -82.45907,
+				"lat": 27.951486666666668,
 				"is_reserved": 0,
 				"is_disabled": 0
 			},
 			{
 				"bike_id": "bike_540",
 				"name": "C-1171",
-				"lon": -82.46169166666667,
-				"lat": 27.949173333333334,
+				"lon": -82.45765666666667,
+				"lat": 27.949116666666665,
 				"is_reserved": 0,
 				"is_disabled": 0
 			},
 			{
-				"bike_id": "bike_1808",
-				"name": "C-1266 - Maas",
-				"lon": -82.45065166666667,
-				"lat": 27.941853333333334,
+				"bike_id": "bike_1795",
+				"name": "C-1008 Howell",
+				"lon": -82.45739833333333,
+				"lat": 27.94912666666667,
 				"is_reserved": 0,
 				"is_disabled": 0
 			},
 			{
-				"bike_id": "bike_1697",
-				"name": "C-1251",
-				"lon": -82.444975,
-				"lat": 27.960918333333332,
+				"bike_id": "bike_5258",
+				"name": "C-1093 - Gibson",
+				"lon": -82.45916333333334,
+				"lat": 27.948978333333333,
 				"is_reserved": 0,
 				"is_disabled": 0
 			},
 			{
-				"bike_id": "bike_1817",
-				"name": "C-1280 - Ortiz",
-				"lon": -82.44495166666667,
-				"lat": 27.961166666666667,
+				"bike_id": "bike_3482",
+				"name": "C-1004",
+				"lon": -82.45491166666666,
+				"lat": 27.941951666666668,
 				"is_reserved": 0,
 				"is_disabled": 0
 			},
 			{
-				"bike_id": "bike_3297",
-				"name": "C-1238 - Brown",
-				"lon": -82.45737,
-				"lat": 27.94902666666667,
+				"bike_id": "bike_3489",
+				"name": "C-1146",
+				"lon": -82.46397,
+				"lat": 27.944066666666668,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_503",
+				"name": "C-1012 - Niemann",
+				"lon": -82.45759,
+				"lat": 27.944848333333333,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_1774",
+				"name": "C-1082 Benjamin",
+				"lon": -82.46098333333333,
+				"lat": 27.941078333333333,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_5315",
+				"name": "C-1168",
+				"lon": -82.45397333333334,
+				"lat": 27.926491666666667,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_3491",
+				"name": "C-1300",
+				"lon": -82.45743333333333,
+				"lat": 27.944743333333335,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_492",
+				"name": "C-1001 - Balfour",
+				"lon": -82.45090833333333,
+				"lat": 27.938351666666666,
 				"is_reserved": 0,
 				"is_disabled": 0
 			}

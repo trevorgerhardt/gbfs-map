@@ -1,17 +1,8 @@
 {
-	"last_updated": 1462827927,
+	"last_updated": 1470404513,
 	"ttl": 60,
 	"data": {
 		"plans": [
-			{
-				"plan_id": "payment_plan_64",
-				"name": "Annual",
-				"url": "https://widget.socialbicycles.com/11/64",
-				"currency": "USD",
-				"price": 79,
-				"taxable": 1,
-				"description": ""
-			},
 			{
 				"plan_id": "payment_plan_112",
 				"name": "Monthly Basic Subscription ",
@@ -22,13 +13,13 @@
 				"description": "Monthly Subscription including 60 minutes of ride time per day"
 			},
 			{
-				"plan_id": "payment_plan_113",
-				"name": "Students",
-				"url": "https://widget.socialbicycles.com/11/113",
+				"plan_id": "payment_plan_25",
+				"name": "Pay As You Go",
+				"url": "https://widget.socialbicycles.com/11/25",
 				"currency": "USD",
-				"price": 59,
+				"price": 0,
 				"taxable": 1,
-				"description": "Annual Student Plan\r\nCurrently Applies to: USF, USF HEALTH, HCC, UT,SPC, St. Leo"
+				"description": "The Prepaid Pay as You Go plan adds value to your Social Bicycles account which is redeemed as you ride. Once you sign up for a Pay As You Go plan, you're charged the amount you selected plus tax which will be deposited as credit into your account. You will then be charged the amount you designated any time your account goes below $1.00\r\n\r\nMore frequent riders may want to get an Annual Membership, which will give you 60 minutes of time per day for just $79 per year!\r\n"
 			},
 			{
 				"plan_id": "payment_plan_164",
@@ -40,13 +31,22 @@
 				"description": "Monthly Plus Subscription including 90 minutes of ride time per day"
 			},
 			{
-				"plan_id": "payment_plan_25",
-				"name": "Pay As You Go",
-				"url": "https://widget.socialbicycles.com/11/25",
+				"plan_id": "payment_plan_113",
+				"name": "Students",
+				"url": "https://widget.socialbicycles.com/11/113",
 				"currency": "USD",
-				"price": 0,
+				"price": 59,
 				"taxable": 1,
-				"description": "The Prepaid Pay as You Go plan adds value to your Social Bicycles account which is redeemed as you ride. Once you sign up for a Pay As You Go plan, you're charged the amount you selected plus tax which will be deposited as credit into your account. You will then be charged the amount you designated any time your account goes below $1.00\r\n\r\nMore frequent riders may want to get an Annual Membership, which will give you 60 minutes of time per day for just $79 per year!\r\n"
+				"description": "Annual Student Plan\r\nCurrently Applies to: USF, USF HEALTH, HCC, UT,SPC, St. Leo"
+			},
+			{
+				"plan_id": "payment_plan_64",
+				"name": "Annual",
+				"url": "https://widget.socialbicycles.com/11/64",
+				"currency": "USD",
+				"price": 79,
+				"taxable": 1,
+				"description": ""
 			}
 		]
 	}

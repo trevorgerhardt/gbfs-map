@@ -1,25 +1,16 @@
 {
-	"last_updated": 1462827933,
+	"last_updated": 1470404524,
 	"ttl": 60,
 	"data": {
 		"plans": [
 			{
-				"plan_id": "payment_plan_116",
-				"name": "Annual",
-				"url": "https://widget.socialbicycles.com/37/116",
+				"plan_id": "payment_plan_117",
+				"name": "Hourly",
+				"url": "https://widget.socialbicycles.com/37/117",
 				"currency": "USD",
-				"price": 25,
+				"price": 0,
 				"taxable": 1,
 				"description": ""
-			},
-			{
-				"plan_id": "payment_plan_115",
-				"name": "Washburn - Monthly",
-				"url": "https://widget.socialbicycles.com/37/115",
-				"currency": "USD",
-				"price": 5,
-				"taxable": 1,
-				"description": "Washburn University and Washburn Tech ID holders - students, faculty, and staff."
 			},
 			{
 				"plan_id": "payment_plan_114",
@@ -31,11 +22,20 @@
 				"description": "Washburn University and Washburn Technical Institute ID holders - students, faculty, and staff. "
 			},
 			{
-				"plan_id": "payment_plan_117",
-				"name": "Hourly",
-				"url": "https://widget.socialbicycles.com/37/117",
+				"plan_id": "payment_plan_115",
+				"name": "Washburn - Monthly",
+				"url": "https://widget.socialbicycles.com/37/115",
 				"currency": "USD",
-				"price": 0,
+				"price": 5,
+				"taxable": 1,
+				"description": "Washburn University and Washburn Tech ID holders - students, faculty, and staff."
+			},
+			{
+				"plan_id": "payment_plan_116",
+				"name": "Annual",
+				"url": "https://widget.socialbicycles.com/37/116",
+				"currency": "USD",
+				"price": 25,
 				"taxable": 1,
 				"description": ""
 			}

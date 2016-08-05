@@ -1170,6 +1170,58 @@
 					43.682991527198936
 				]
 			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_1485",
+				"name": "River and 2nd",
+				"region_id": "region_157",
+				"lon": -114.36463683843613,
+				"lat": 43.67709067379101,
+				"address": "200 River Street West, Ketchum",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.36463683843613,
+					43.67709067379101
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_1708",
+				"name": "Warm Springs",
+				"region_id": "region_157",
+				"lon": -114.36742901802063,
+				"lat": 43.683148642889904,
+				"address": "711 Warm Springs Road, Ketchum",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-114.36742901802063,
+					43.683148642889904
+				]
+			}
 		}
 	]
 }

@@ -30,58 +30,6 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"station_id": "hub_500",
-				"name": "BR2600 Visitor Lot",
-				"region_id": "region_107",
-				"lon": -121.96313381195067,
-				"lat": 37.76689827842722,
-				"address": "2600 Camino Ramon, San Ramon",
-				"rental_methods": [
-					"KEY",
-					"APPLEPAY",
-					"ANDROIDPAY",
-					"TRANSITCARD",
-					"ACCOUNTNUMBER",
-					"PHONE"
-				]
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-121.96313381195067,
-					37.76689827842722
-				]
-			}
-		},
-		{
-			"type": "Feature",
-			"properties": {
-				"station_id": "hub_501",
-				"name": "BR3",
-				"region_id": "region_107",
-				"lon": -121.95909440517424,
-				"lat": 37.76763190215443,
-				"address": "San Ramon, California",
-				"rental_methods": [
-					"KEY",
-					"APPLEPAY",
-					"ANDROIDPAY",
-					"TRANSITCARD",
-					"ACCOUNTNUMBER",
-					"PHONE"
-				]
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-121.95909440517424,
-					37.76763190215443
-				]
-			}
-		},
-		{
-			"type": "Feature",
-			"properties": {
 				"station_id": "hub_508",
 				"name": "BR8",
 				"region_id": "region_107",
@@ -102,32 +50,6 @@
 				"coordinates": [
 					-121.96752727031709,
 					37.76878957103581
-				]
-			}
-		},
-		{
-			"type": "Feature",
-			"properties": {
-				"station_id": "hub_513",
-				"name": "BR6",
-				"region_id": "region_107",
-				"lon": -121.96487188339233,
-				"lat": 37.771698505160366,
-				"address": "2400-2440 Camino Ramon, San Ramon",
-				"rental_methods": [
-					"KEY",
-					"APPLEPAY",
-					"ANDROIDPAY",
-					"TRANSITCARD",
-					"ACCOUNTNUMBER",
-					"PHONE"
-				]
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-121.96487188339233,
-					37.771698505160366
 				]
 			}
 		},
@@ -212,58 +134,6 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"station_id": "hub_520",
-				"name": "BR15",
-				"region_id": "region_107",
-				"lon": -121.96046233177184,
-				"lat": 37.77431899214581,
-				"address": "12647-12677 Alcosta Boulevard, San Ramon",
-				"rental_methods": [
-					"KEY",
-					"APPLEPAY",
-					"ANDROIDPAY",
-					"TRANSITCARD",
-					"ACCOUNTNUMBER",
-					"PHONE"
-				]
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-121.96046233177184,
-					37.77431899214581
-				]
-			}
-		},
-		{
-			"type": "Feature",
-			"properties": {
-				"station_id": "hub_521",
-				"name": "BR11 ",
-				"region_id": "region_107",
-				"lon": -121.9649416208267,
-				"lat": 37.77603201110472,
-				"address": "2301-2305 Camino Ramon, San Ramon",
-				"rental_methods": [
-					"KEY",
-					"APPLEPAY",
-					"ANDROIDPAY",
-					"TRANSITCARD",
-					"ACCOUNTNUMBER",
-					"PHONE"
-				]
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-121.9649416208267,
-					37.77603201110472
-				]
-			}
-		},
-		{
-			"type": "Feature",
-			"properties": {
 				"station_id": "hub_524",
 				"name": "BR12 N",
 				"region_id": "region_107",
@@ -310,6 +180,188 @@
 				"coordinates": [
 					-121.992872431289,
 					37.7714624826912
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_1458",
+				"name": "San Ramon City Hall",
+				"region_id": "region_107",
+				"lon": -121.95511937141418,
+				"lat": 37.7645658999702,
+				"address": "Iron Horse Regional Trail, San Ramon",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-121.95511937141418,
+					37.7645658999702
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_1459",
+				"name": "BR11",
+				"region_id": "region_107",
+				"lon": -121.96518838405609,
+				"lat": 37.776150728255345,
+				"address": "2301-2305 Camino Ramon, San Ramon",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-121.96518838405609,
+					37.776150728255345
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_1460",
+				"name": "BR15",
+				"region_id": "region_107",
+				"lon": -121.9605267047882,
+				"lat": 37.77427232884218,
+				"address": "12647-12677 Alcosta Boulevard, San Ramon",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-121.9605267047882,
+					37.77427232884218
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_1461",
+				"name": "BR 2600 Visitor Lot",
+				"region_id": "region_107",
+				"lon": -121.96319282054901,
+				"lat": 37.766851630534205,
+				"address": "2600 Camino Ramon, San Ramon",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-121.96319282054901,
+					37.766851630534205
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_1462",
+				"name": "BR6",
+				"region_id": "region_107",
+				"lon": -121.96504354476927,
+				"lat": 37.7717324101728,
+				"address": "2400-2440 Camino Ramon, San Ramon",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-121.96504354476927,
+					37.7717324101728
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_1732",
+				"name": "BR3 North",
+				"region_id": "region_107",
+				"lon": -121.95952892303467,
+				"lat": 37.76856481823885,
+				"address": "2613 Camino Ramon, San Ramon",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-121.95952892303467,
+					37.76856481823885
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_1733",
+				"name": "BR3 South",
+				"region_id": "region_107",
+				"lon": -121.95842921733856,
+				"lat": 37.76695339964549,
+				"address": "2623 Camino Ramon, San Ramon",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-121.95842921733856,
+					37.76695339964549
 				]
 			}
 		}

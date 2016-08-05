@@ -7,9 +7,9 @@
 				"station_id": "hub_435",
 				"name": "Gore Park - 74",
 				"region_id": "region_86",
-				"lon": -79.8689437450554,
-				"lat": 43.2563611479408,
-				"address": "20 King Street East, Hamilton",
+				"lon": -79.86929655075073,
+				"lat": 43.25643601915583,
+				"address": "James Street South, Corktown, Hamilton, Ontario",
 				"rental_methods": [
 					"KEY",
 					"APPLEPAY",
@@ -22,8 +22,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-79.8689437450554,
-					43.2563611479408
+					-79.86929655075073,
+					43.25643601915583
 				]
 			}
 		},
@@ -33,8 +33,8 @@
 				"station_id": "hub_436",
 				"name": "James North at Mulberry - 76",
 				"region_id": "region_86",
-				"lon": -79.8668572246858,
-				"lat": 43.2616188105294,
+				"lon": -79.86686378717422,
+				"lat": 43.2615967802864,
 				"address": "178 James Street North, Hamilton",
 				"rental_methods": [
 					"KEY",
@@ -48,8 +48,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-79.8668572246858,
-					43.2616188105294
+					-79.86686378717422,
+					43.2615967802864
 				]
 			}
 		},
@@ -59,8 +59,8 @@
 				"station_id": "hub_527",
 				"name": "Seedworks - 81B",
 				"region_id": "region_86",
-				"lon": -79.86363172531128,
-				"lat": 43.259131702172105,
+				"lon": -79.86361294984816,
+				"lat": 43.25911119199103,
 				"address": "126 Catharine Street North, Hamilton",
 				"rental_methods": [
 					"KEY",
@@ -74,8 +74,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-79.86363172531128,
-					43.259131702172105
+					-79.86361294984816,
+					43.25911119199103
 				]
 			}
 		},
@@ -85,9 +85,9 @@
 				"station_id": "hub_529",
 				"name": "King at Millers - 3",
 				"region_id": "region_86",
-				"lon": -79.9559750702314,
-				"lat": 43.2655901047225,
-				"address": "14, Miller's Lane, Cootes Paradise, Ancaster, Dundas, Ontario",
+				"lon": -79.95594263076782,
+				"lat": 43.26553835390151,
+				"address": "16 Miller's Lane, Hamilton",
 				"rental_methods": [
 					"KEY",
 					"APPLEPAY",
@@ -100,8 +100,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-79.9559750702314,
-					43.2655901047225
+					-79.95594263076782,
+					43.26553835390151
 				]
 			}
 		},
@@ -189,8 +189,8 @@
 				"station_id": "hub_536",
 				"name": "Main at Whitney - 7",
 				"region_id": "region_86",
-				"lon": -79.9398095187494,
-				"lat": 43.2521264410366,
+				"lon": -79.93979036808014,
+				"lat": 43.25205234935895,
 				"address": "1850, Main Street West, University Gardens, Ancaster, Hamilton, Ontario",
 				"rental_methods": [
 					"KEY",
@@ -204,8 +204,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-79.9398095187494,
-					43.2521264410366
+					-79.93979036808014,
+					43.25205234935895
 				]
 			}
 		},
@@ -267,8 +267,8 @@
 				"station_id": "hub_539",
 				"name": "Sanders at Binkley - 12",
 				"region_id": "region_86",
-				"lon": -79.9298070942173,
-				"lat": 43.2587937194694,
+				"lon": -79.92979913949966,
+				"lat": 43.25875372772543,
 				"address": "58, Sanders Boulevard, University Gardens, Hamilton, Ontario",
 				"rental_methods": [
 					"KEY",
@@ -282,8 +282,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-79.9298070942173,
-					43.2587937194694
+					-79.92979913949966,
+					43.25875372772543
 				]
 			}
 		},
@@ -371,9 +371,9 @@
 				"station_id": "hub_543",
 				"name": "Sterling at Haddon - 20",
 				"region_id": "region_86",
-				"lon": -79.9102918339321,
-				"lat": 43.2620502466148,
-				"address": "76, Sterling Street, Westdale, Hamilton, Ontario",
+				"lon": -79.91026729345322,
+				"lat": 43.26202552179778,
+				"address": "71 Sterling Street, Hamilton",
 				"rental_methods": [
 					"KEY",
 					"APPLEPAY",
@@ -386,8 +386,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-79.9102918339321,
-					43.2620502466148
+					-79.91026729345322,
+					43.26202552179778
 				]
 			}
 		},
@@ -397,9 +397,9 @@
 				"station_id": "hub_544",
 				"name": "Westdale Library -21",
 				"region_id": "region_86",
-				"lon": -79.9036106426721,
-				"lat": 43.2627732154453,
-				"address": "948, King Street West, Westdale, Hamilton, Ontario",
+				"lon": -79.90359663963316,
+				"lat": 43.262715994377196,
+				"address": "955 King Street West, Hamilton",
 				"rental_methods": [
 					"KEY",
 					"APPLEPAY",
@@ -412,8 +412,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-79.9036106426721,
-					43.2627732154453
+					-79.90359663963316,
+					43.262715994377196
 				]
 			}
 		},
@@ -683,9 +683,9 @@
 				"station_id": "hub_555",
 				"name": "McMaster Innovation Park - 35",
 				"region_id": "region_86",
-				"lon": -79.9011022668214,
-				"lat": 43.2565362152283,
-				"address": "Frid Street, Hamilton",
+				"lon": -79.90117862820625,
+				"lat": 43.25656885270854,
+				"address": "175 Longwood Road South, Hamilton",
 				"rental_methods": [
 					"KEY",
 					"APPLEPAY",
@@ -698,8 +698,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-79.9011022668214,
-					43.2565362152283
+					-79.90117862820625,
+					43.25656885270854
 				]
 			}
 		},
@@ -735,8 +735,8 @@
 				"station_id": "hub_557",
 				"name": "Dundurn at Aberdeen - 38",
 				"region_id": "region_86",
-				"lon": -79.8927465544786,
-				"lat": 43.2513559387353,
+				"lon": -79.89265590906143,
+				"lat": 43.251458458948996,
 				"address": "330-346 Dundurn Street South, Hamilton",
 				"rental_methods": [
 					"KEY",
@@ -750,8 +750,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-79.8927465544786,
-					43.2513559387353
+					-79.89265590906143,
+					43.251458458948996
 				]
 			}
 		},
@@ -813,8 +813,8 @@
 				"station_id": "hub_560",
 				"name": "King at Dundurn - 42",
 				"region_id": "region_86",
-				"lon": -79.8876726044335,
-				"lat": 43.2622886895289,
+				"lon": -79.88771259784698,
+				"lat": 43.26231948632845,
 				"address": "8-10 Dundurn Street North, Hamilton",
 				"rental_methods": [
 					"KEY",
@@ -828,8 +828,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-79.8876726044335,
-					43.2622886895289
+					-79.88771259784698,
+					43.26231948632845
 				]
 			}
 		},
@@ -969,8 +969,8 @@
 				"station_id": "hub_567",
 				"name": "Herkimer at Queen - 49",
 				"region_id": "region_86",
-				"lon": -79.8821487951959,
-				"lat": 43.2514086337607,
+				"lon": -79.88208532333374,
+				"lat": 43.251408642220426,
 				"address": "178, Herkimer Street, Hess Village, Hamilton, Ontario",
 				"rental_methods": [
 					"KEY",
@@ -984,8 +984,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-79.8821487951959,
-					43.2514086337607
+					-79.88208532333374,
+					43.251408642220426
 				]
 			}
 		},
@@ -1021,9 +1021,9 @@
 				"station_id": "hub_569",
 				"name": "Hunter at Hess - 51",
 				"region_id": "region_86",
-				"lon": -79.8788782483609,
-				"lat": 43.2554918848746,
-				"address": "114, Hess Street South, Hess Village, Hamilton, Ontario",
+				"lon": -79.87889617681503,
+				"lat": 43.255383107655966,
+				"address": "131-133 Hess Street South, Hamilton",
 				"rental_methods": [
 					"KEY",
 					"APPLEPAY",
@@ -1036,8 +1036,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-79.8788782483609,
-					43.2554918848746
+					-79.87889617681503,
+					43.255383107655966
 				]
 			}
 		},
@@ -1073,9 +1073,9 @@
 				"station_id": "hub_571",
 				"name": "40 Oxford - 54",
 				"region_id": "region_86",
-				"lon": -79.8778635263443,
-				"lat": 43.26467896416488,
-				"address": "33 Oxford Street, Hamilton",
+				"lon": -79.8777937889099,
+				"lat": 43.26456372689135,
+				"address": "40-48 Oxford Street, Hamilton",
 				"rental_methods": [
 					"KEY",
 					"APPLEPAY",
@@ -1088,8 +1088,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-79.8778635263443,
-					43.26467896416488
+					-79.8777937889099,
+					43.26456372689135
 				]
 			}
 		},
@@ -1229,9 +1229,9 @@
 				"station_id": "hub_577",
 				"name": "Bay at Mulberry - 62",
 				"region_id": "region_86",
-				"lon": -79.8717867948006,
-				"lat": 43.2632515314334,
-				"address": "177-181 Bay Street North, Hamilton",
+				"lon": -79.87180307507515,
+				"lat": 43.263198441574474,
+				"address": "177, Bay Street North, Hess Village, Hamilton, Ontario",
 				"rental_methods": [
 					"KEY",
 					"APPLEPAY",
@@ -1244,8 +1244,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-79.8717867948006,
-					43.2632515314334
+					-79.87180307507515,
+					43.263198441574474
 				]
 			}
 		},
@@ -1281,9 +1281,9 @@
 				"station_id": "hub_579",
 				"name": "Bayfront Park - 64",
 				"region_id": "region_86",
-				"lon": -79.87129211425781,
-				"lat": 43.269210155203545,
-				"address": "Waterfront Trail, Hamilton",
+				"lon": -79.87134844064711,
+				"lat": 43.26926679295707,
+				"address": "Harbour Front Drive, North End, Hamilton, Ontario",
 				"rental_methods": [
 					"KEY",
 					"APPLEPAY",
@@ -1296,8 +1296,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-79.87129211425781,
-					43.269210155203545
+					-79.87134844064711,
+					43.26926679295707
 				]
 			}
 		},
@@ -1385,9 +1385,9 @@
 				"station_id": "hub_583",
 				"name": "Discovery Drive - 68",
 				"region_id": "region_86",
-				"lon": -79.8598712682724,
-				"lat": 43.27585203723284,
-				"address": "51, Discovery Drive, North End, Hamilton, Ontario",
+				"lon": -79.86029773950577,
+				"lat": 43.27606684636728,
+				"address": "Waterfront Trail, Hamilton",
 				"rental_methods": [
 					"KEY",
 					"APPLEPAY",
@@ -1400,8 +1400,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-79.8598712682724,
-					43.27585203723284
+					-79.86029773950577,
+					43.27606684636728
 				]
 			}
 		},
@@ -1463,9 +1463,9 @@
 				"station_id": "hub_587",
 				"name": "Main at Macnab -75",
 				"region_id": "region_86",
-				"lon": -79.8714845551524,
-				"lat": 43.25597470709,
-				"address": "50, Main Street West, Hess Village, Hamilton, Ontario",
+				"lon": -79.87145036458969,
+				"lat": 43.25586951986928,
+				"address": "50 Main Street West, Hamilton",
 				"rental_methods": [
 					"KEY",
 					"APPLEPAY",
@@ -1478,8 +1478,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-79.8714845551524,
-					43.25597470709
+					-79.87145036458969,
+					43.25586951986928
 				]
 			}
 		},
@@ -1515,8 +1515,8 @@
 				"station_id": "hub_589",
 				"name": "Ferrie at Furguson -78",
 				"region_id": "region_86",
-				"lon": -79.8549267336925,
-				"lat": 43.2666646956976,
+				"lon": -79.85489845275879,
+				"lat": 43.266617945064255,
 				"address": "206, Ferrie Street East, North End, Hamilton, Ontario",
 				"rental_methods": [
 					"KEY",
@@ -1530,8 +1530,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-79.8549267336925,
-					43.2666646956976
+					-79.85489845275879,
+					43.266617945064255
 				]
 			}
 		},
@@ -1593,9 +1593,9 @@
 				"station_id": "hub_592",
 				"name": "King William at John - 82",
 				"region_id": "region_86",
-				"lon": -79.8658732358699,
-				"lat": 43.2573326184842,
-				"address": "31-55 John Street North, Hamilton",
+				"lon": -79.86580431461334,
+				"lat": 43.257359011015176,
+				"address": "32-36 John Street North, Hamilton",
 				"rental_methods": [
 					"KEY",
 					"APPLEPAY",
@@ -1608,8 +1608,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-79.8658732358699,
-					43.2573326184842
+					-79.86580431461334,
+					43.257359011015176
 				]
 			}
 		},
@@ -1619,9 +1619,9 @@
 				"station_id": "hub_593",
 				"name": "Victoria at Barton - 83",
 				"region_id": "region_86",
-				"lon": -79.8533271968695,
-				"lat": 43.2612832062872,
-				"address": "237, Barton Street East, Beasley, Hamilton, Ontario",
+				"lon": -79.853318631649,
+				"lat": 43.26124519046125,
+				"address": "286-300 Victoria Avenue North, Hamilton",
 				"rental_methods": [
 					"KEY",
 					"APPLEPAY",
@@ -1634,8 +1634,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-79.8533271968695,
-					43.2612832062872
+					-79.853318631649,
+					43.26124519046125
 				]
 			}
 		},
@@ -1671,8 +1671,8 @@
 				"station_id": "hub_596",
 				"name": "Wentworth Steps - 86",
 				"region_id": "region_86",
-				"lon": -79.851974701244,
-				"lat": 43.2449545254859,
+				"lon": -79.85186353325844,
+				"lat": 43.24487936776345,
 				"address": "203 Wentworth Street South, Hamilton",
 				"rental_methods": [
 					"KEY",
@@ -1686,8 +1686,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-79.851974701244,
-					43.2449545254859
+					-79.85186353325844,
+					43.24487936776345
 				]
 			}
 		},
@@ -1723,8 +1723,8 @@
 				"station_id": "hub_598",
 				"name": "Hunter at Furguson - 88",
 				"region_id": "region_86",
-				"lon": -79.8632085924767,
-				"lat": 43.2518188062396,
+				"lon": -79.86318781971931,
+				"lat": 43.251798383773966,
 				"address": "175, Hunter Street East, Corktown, Hamilton, Ontario",
 				"rental_methods": [
 					"KEY",
@@ -1738,8 +1738,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-79.8632085924767,
-					43.2518188062396
+					-79.86318781971931,
+					43.251798383773966
 				]
 			}
 		},
@@ -1801,8 +1801,8 @@
 				"station_id": "hub_602",
 				"name": "King William at Victoria - 94",
 				"region_id": "region_86",
-				"lon": -79.8558179262074,
-				"lat": 43.2542485493304,
+				"lon": -79.85582381486893,
+				"lat": 43.254154362311304,
 				"address": "338, King William Street, Beasley, Hamilton, Ontario",
 				"rental_methods": [
 					"KEY",
@@ -1816,8 +1816,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-79.8558179262074,
-					43.2542485493304
+					-79.85582381486893,
+					43.254154362311304
 				]
 			}
 		},
@@ -1931,9 +1931,9 @@
 				"station_id": "hub_607",
 				"name": "Haymarket at Hughson - 100",
 				"region_id": "region_86",
-				"lon": -79.8689686565841,
-				"lat": 43.2524132793319,
-				"address": "55, Haymarket Street, Corktown, Hamilton, Ontario",
+				"lon": -79.86883386969566,
+				"lat": 43.2523698048509,
+				"address": "22 Haymarket Street, Hamilton",
 				"rental_methods": [
 					"KEY",
 					"APPLEPAY",
@@ -1946,8 +1946,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-79.8689686565841,
-					43.2524132793319
+					-79.86883386969566,
+					43.2523698048509
 				]
 			}
 		},
@@ -1983,8 +1983,8 @@
 				"station_id": "hub_609",
 				"name": "Ferguson at King - 102",
 				"region_id": "region_86",
-				"lon": -79.8622222831508,
-				"lat": 43.2539723094036,
+				"lon": -79.86223563551903,
+				"lat": 43.25400491861888,
 				"address": "4523 Ferguson Avenue South, Hamilton",
 				"rental_methods": [
 					"KEY",
@@ -1998,8 +1998,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-79.8622222831508,
-					43.2539723094036
+					-79.86223563551903,
+					43.25400491861888
 				]
 			}
 		},
@@ -2009,9 +2009,9 @@
 				"station_id": "hub_610",
 				"name": "Cannon at Birch (Powell Park) - 103",
 				"region_id": "region_86",
-				"lon": -79.8413864485795,
-				"lat": 43.2549843519881,
-				"address": "70 Harvey Street, Hamilton",
+				"lon": -79.84128892421722,
+				"lat": 43.25504613306136,
+				"address": "72 Harvey Street, Hamilton",
 				"rental_methods": [
 					"KEY",
 					"APPLEPAY",
@@ -2024,8 +2024,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-79.8413864485795,
-					43.2549843519881
+					-79.84128892421722,
+					43.25504613306136
 				]
 			}
 		},
@@ -2087,8 +2087,8 @@
 				"station_id": "hub_613",
 				"name": "Maplewood at Springer - 108",
 				"region_id": "region_86",
-				"lon": -79.8371172008902,
-				"lat": 43.2451654703378,
+				"lon": -79.83708053827286,
+				"lat": 43.245150946389735,
 				"address": "71, Maplewood Avenue, Hamilton, Ontario",
 				"rental_methods": [
 					"KEY",
@@ -2102,8 +2102,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-79.8371172008902,
-					43.2451654703378
+					-79.83708053827286,
+					43.245150946389735
 				]
 			}
 		},
@@ -2113,8 +2113,8 @@
 				"station_id": "hub_614",
 				"name": "Gage Park - Maplewood - 109",
 				"region_id": "region_86",
-				"lon": -79.8305823825984,
-				"lat": 43.243151843055,
+				"lon": -79.83051180839539,
+				"lat": 43.24330946327177,
 				"address": "190 Gage Avenue South, Hamilton",
 				"rental_methods": [
 					"KEY",
@@ -2128,8 +2128,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-79.8305823825984,
-					43.243151843055
+					-79.83051180839539,
+					43.24330946327177
 				]
 			}
 		},
@@ -2139,9 +2139,9 @@
 				"station_id": "hub_622",
 				"name": "McMaster Emerson - 15",
 				"region_id": "region_86",
-				"lon": -79.9198429729848,
-				"lat": 43.258067849511,
-				"address": "1400, Main Street West, Westdale, Hamilton, Ontario",
+				"lon": -79.91978779435158,
+				"lat": 43.258038792898375,
+				"address": "Main Street West, Emerson at Main, Hamilton",
 				"rental_methods": [
 					"KEY",
 					"APPLEPAY",
@@ -2154,8 +2154,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-79.9198429729848,
-					43.258067849511
+					-79.91978779435158,
+					43.258038792898375
 				]
 			}
 		},
@@ -2217,9 +2217,9 @@
 				"station_id": "hub_625",
 				"name": "McMaster Mary Keyes - 16",
 				"region_id": "region_86",
-				"lon": -79.9222410984089,
-				"lat": 43.2624315057369,
-				"address": "Scholars Road, McMaster University, Hamilton",
+				"lon": -79.92224670946598,
+				"lat": 43.262460120020584,
+				"address": "Matthews Hall, Scholars Road, Westdale, Hamilton, Ontario",
 				"rental_methods": [
 					"KEY",
 					"APPLEPAY",
@@ -2232,8 +2232,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-79.9222410984089,
-					43.2624315057369
+					-79.92224670946598,
+					43.262460120020584
 				]
 			}
 		},
@@ -2269,8 +2269,8 @@
 				"station_id": "hub_631",
 				"name": "Hunter GO Centre - 72",
 				"region_id": "region_86",
-				"lon": -79.8695100360153,
-				"lat": 43.253439579,
+				"lon": -79.86948698759079,
+				"lat": 43.25343546641674,
 				"address": "36 Hunter Street East, Hamilton",
 				"rental_methods": [
 					"KEY",
@@ -2284,8 +2284,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-79.8695100360153,
-					43.253439579
+					-79.86948698759079,
+					43.25343546641674
 				]
 			}
 		},
@@ -2321,9 +2321,9 @@
 				"station_id": "hub_707",
 				"name": "McMaster Student Centre - 17",
 				"region_id": "region_86",
-				"lon": -79.917101372339,
-				"lat": 43.2629926171227,
-				"address": "Stearn Drive, McMaster University, Hamilton",
+				"lon": -79.91714715957642,
+				"lat": 43.26274333966465,
+				"address": "Sterling Street, McMaster University, Hamilton",
 				"rental_methods": [
 					"KEY",
 					"APPLEPAY",
@@ -2336,8 +2336,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-79.917101372339,
-					43.2629926171227
+					-79.91714715957642,
+					43.26274333966465
 				]
 			}
 		},
@@ -2347,9 +2347,9 @@
 				"station_id": "hub_708",
 				"name": "York at Macnab - 61",
 				"region_id": "region_86",
-				"lon": -79.8693690705214,
-				"lat": 43.2591376602267,
-				"address": "32 York Boulevard, Hamilton",
+				"lon": -79.86919194459914,
+				"lat": 43.25901059433612,
+				"address": "25 York Boulevard, Hamilton",
 				"rental_methods": [
 					"KEY",
 					"APPLEPAY",
@@ -2362,8 +2362,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-79.8693690705214,
-					43.2591376602267
+					-79.86919194459914,
+					43.25901059433612
 				]
 			}
 		},
@@ -2555,8 +2555,8 @@
 				"station_id": "hub_802",
 				"name": "Hess at king",
 				"region_id": "region_86",
-				"lon": -79.8771189550803,
-				"lat": 43.2591869912076,
+				"lon": -79.87721174955368,
+				"lat": 43.259125842121065,
 				"address": "15 Hess Street North, Hamilton",
 				"rental_methods": [
 					"KEY",
@@ -2570,8 +2570,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-79.8771189550803,
-					43.2591869912076
+					-79.87721174955368,
+					43.259125842121065
 				]
 			}
 		},
@@ -2685,9 +2685,9 @@
 				"station_id": "hub_894",
 				"name": "Forsyth at Sterling",
 				"region_id": "region_86",
-				"lon": -79.91582751274109,
-				"lat": 43.26271013372248,
-				"address": "88 Forsyth Avenue North, Hamilton",
+				"lon": -79.91578191518784,
+				"lat": 43.26305976281214,
+				"address": "96, Forsyth Avenue North, Westdale, Hamilton, Ontario",
 				"rental_methods": [
 					"KEY",
 					"APPLEPAY",
@@ -2700,8 +2700,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-79.91582751274109,
-					43.26271013372248
+					-79.91578191518784,
+					43.26305976281214
 				]
 			}
 		},
@@ -2737,8 +2737,8 @@
 				"station_id": "hub_904",
 				"name": "King William at Hughson",
 				"region_id": "region_86",
-				"lon": -79.86722856760025,
-				"lat": 43.25718808755752,
+				"lon": -79.86726745963097,
+				"lat": 43.25717148364292,
 				"address": "41 King William Street, Hamilton",
 				"rental_methods": [
 					"KEY",
@@ -2752,8 +2752,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-79.86722856760025,
-					43.25718808755752
+					-79.86726745963097,
+					43.25717148364292
 				]
 			}
 		},
@@ -2763,8 +2763,8 @@
 				"station_id": "hub_905",
 				"name": "Tisdale at Main No Frills",
 				"region_id": "region_86",
-				"lon": -79.85305577516556,
-				"lat": 43.25200741706332,
+				"lon": -79.85307991504669,
+				"lat": 43.25191559879094,
 				"address": "9-23 Tisdale Street South, Hamilton",
 				"rental_methods": [
 					"KEY",
@@ -2778,8 +2778,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-79.85305577516556,
-					43.25200741706332
+					-79.85307991504669,
+					43.25191559879094
 				]
 			}
 		},
@@ -2789,8 +2789,8 @@
 				"station_id": "hub_921",
 				"name": "Frid at Main",
 				"region_id": "region_86",
-				"lon": -79.89256739616394,
-				"lat": 43.259498930911825,
+				"lon": -79.89262372255325,
+				"lat": 43.25940517059312,
 				"address": "44 Frid Street, Hamilton",
 				"rental_methods": [
 					"KEY",
@@ -2804,8 +2804,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-79.89256739616394,
-					43.259498930911825
+					-79.89262372255325,
+					43.25940517059312
 				]
 			}
 		},
@@ -2841,8 +2841,8 @@
 				"station_id": "hub_945",
 				"name": "Stadium",
 				"region_id": "region_86",
-				"lon": -79.8314881324768,
-				"lat": 43.25163037518957,
+				"lon": -79.8312360048294,
+				"lat": 43.25152292759607,
 				"address": "17A Cannon Street East, Hamilton",
 				"rental_methods": [
 					"KEY",
@@ -2856,8 +2856,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-79.8314881324768,
-					43.25163037518957
+					-79.8312360048294,
+					43.25152292759607
 				]
 			}
 		},
@@ -2867,9 +2867,9 @@
 				"station_id": "hub_959",
 				"name": "West Harbour GO Station",
 				"region_id": "region_86",
-				"lon": -79.86560583114623,
-				"lat": 43.265901637732775,
-				"address": "351, James Street North, Beasley, Hamilton, Ontario",
+				"lon": -79.86539393663406,
+				"lat": 43.266030544377564,
+				"address": "380 James Street North, Hamilton",
 				"rental_methods": [
 					"KEY",
 					"APPLEPAY",
@@ -2882,8 +2882,34 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-79.86560583114623,
-					43.265901637732775
+					-79.86539393663406,
+					43.266030544377564
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_960",
+				"name": "Pier 4",
+				"region_id": "region_86",
+				"lon": -79.86689731478691,
+				"lat": 43.27260051521549,
+				"address": "50 Leander Drive, Hamilton",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.86689731478691,
+					43.27260051521549
 				]
 			}
 		},
@@ -2920,9 +2946,9 @@
 				"station_id": "hub_1063",
 				"name": "Main and Wellington",
 				"region_id": "region_86",
-				"lon": -79.85993966460228,
-				"lat": 43.252775168664385,
-				"address": "242-250 Hamilton Regional Road 8, Hamilton",
+				"lon": -79.86008584499359,
+				"lat": 43.25281814686537,
+				"address": "250 Main Street East, Hamilton",
 				"rental_methods": [
 					"KEY",
 					"APPLEPAY",
@@ -2935,8 +2961,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-79.85993966460228,
-					43.252775168664385
+					-79.86008584499359,
+					43.25281814686537
 				]
 			}
 		},
@@ -2974,7 +3000,7 @@
 				"region_id": "region_86",
 				"lon": -79.84201848506926,
 				"lat": 43.24814116192469,
-				"address": "",
+				"address": "700 Main Street East, Hamilton",
 				"rental_methods": [
 					"KEY",
 					"APPLEPAY",
@@ -3041,6 +3067,32 @@
 				"coordinates": [
 					-79.86437804996967,
 					43.25519606248058
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_1468",
+				"name": "270 Sherman",
+				"region_id": "region_86",
+				"lon": -79.83439028263092,
+				"lat": 43.26031346760522,
+				"address": "272 Sherman Avenue North, Hamilton",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-79.83439028263092,
+					43.26031346760522
 				]
 			}
 		}

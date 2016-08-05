@@ -1,25 +1,25 @@
 {
-	"last_updated": 1462827922,
+	"last_updated": 1470404505,
 	"ttl": 60,
 	"data": {
 		"stations": [
 			{
 				"station_id": "bcycle_heartland_1916",
-				"num_bikes_available": 1,
-				"num_docks_available": 9,
+				"num_bikes_available": 4,
+				"num_docks_available": 6,
 				"is_installed": 1,
 				"is_renting": 1,
 				"is_returning": 1,
-				"last_reported": 1462827922
+				"last_reported": 1470404505
 			},
 			{
 				"station_id": "bcycle_heartland_1917",
-				"num_bikes_available": 5,
-				"num_docks_available": 2,
+				"num_bikes_available": 7,
+				"num_docks_available": 0,
 				"is_installed": 1,
 				"is_renting": 1,
 				"is_returning": 1,
-				"last_reported": 1462827922
+				"last_reported": 1470404505
 			},
 			{
 				"station_id": "bcycle_heartland_1918",
@@ -28,52 +28,52 @@
 				"is_installed": 1,
 				"is_renting": 1,
 				"is_returning": 1,
-				"last_reported": 1462827922
+				"last_reported": 1470404505
 			},
 			{
 				"station_id": "bcycle_heartland_1919",
+				"num_bikes_available": 8,
+				"num_docks_available": 1,
+				"is_installed": 1,
+				"is_renting": 0,
+				"is_returning": 0,
+				"last_reported": 1470404505
+			},
+			{
+				"station_id": "bcycle_heartland_1920",
 				"num_bikes_available": 3,
+				"num_docks_available": 8,
+				"is_installed": 1,
+				"is_renting": 1,
+				"is_returning": 1,
+				"last_reported": 1470404505
+			},
+			{
+				"station_id": "bcycle_heartland_2430",
+				"num_bikes_available": 11,
+				"num_docks_available": 4,
+				"is_installed": 1,
+				"is_renting": 1,
+				"is_returning": 1,
+				"last_reported": 1470404505
+			},
+			{
+				"station_id": "bcycle_heartland_2431",
+				"num_bikes_available": 4,
 				"num_docks_available": 6,
 				"is_installed": 1,
 				"is_renting": 1,
 				"is_returning": 1,
-				"last_reported": 1462827922
-			},
-			{
-				"station_id": "bcycle_heartland_1920",
-				"num_bikes_available": 9,
-				"num_docks_available": 2,
-				"is_installed": 1,
-				"is_renting": 1,
-				"is_returning": 1,
-				"last_reported": 1462827922
-			},
-			{
-				"station_id": "bcycle_heartland_2430",
-				"num_bikes_available": 14,
-				"num_docks_available": 1,
-				"is_installed": 1,
-				"is_renting": 1,
-				"is_returning": 1,
-				"last_reported": 1462827922
-			},
-			{
-				"station_id": "bcycle_heartland_2431",
-				"num_bikes_available": 6,
-				"num_docks_available": 3,
-				"is_installed": 1,
-				"is_renting": 1,
-				"is_returning": 1,
-				"last_reported": 1462827922
+				"last_reported": 1470404505
 			},
 			{
 				"station_id": "bcycle_heartland_2432",
-				"num_bikes_available": 2,
-				"num_docks_available": 9,
+				"num_bikes_available": 3,
+				"num_docks_available": 8,
 				"is_installed": 1,
 				"is_renting": 1,
 				"is_returning": 1,
-				"last_reported": 1462827922
+				"last_reported": 1470404505
 			},
 			{
 				"station_id": "bcycle_heartland_2652",
@@ -82,61 +82,61 @@
 				"is_installed": 1,
 				"is_renting": 1,
 				"is_returning": 1,
-				"last_reported": 1462827922
+				"last_reported": 1470404505
 			},
 			{
 				"station_id": "bcycle_heartland_2653",
-				"num_bikes_available": 2,
-				"num_docks_available": 9,
+				"num_bikes_available": 9,
+				"num_docks_available": 2,
 				"is_installed": 1,
 				"is_renting": 1,
 				"is_returning": 1,
-				"last_reported": 1462827922
+				"last_reported": 1470404505
 			},
 			{
 				"station_id": "bcycle_heartland_2655",
-				"num_bikes_available": 5,
-				"num_docks_available": 4,
+				"num_bikes_available": 6,
+				"num_docks_available": 3,
 				"is_installed": 1,
 				"is_renting": 1,
 				"is_returning": 1,
-				"last_reported": 1462827922
+				"last_reported": 1470404505
 			},
 			{
 				"station_id": "bcycle_heartland_2881",
-				"num_bikes_available": 7,
-				"num_docks_available": 7,
+				"num_bikes_available": 13,
+				"num_docks_available": 2,
 				"is_installed": 1,
 				"is_renting": 1,
 				"is_returning": 1,
-				"last_reported": 1462827922
+				"last_reported": 1470404505
 			},
 			{
 				"station_id": "bcycle_heartland_2882",
-				"num_bikes_available": 3,
-				"num_docks_available": 8,
+				"num_bikes_available": 1,
+				"num_docks_available": 10,
 				"is_installed": 1,
 				"is_renting": 1,
 				"is_returning": 1,
-				"last_reported": 1462827922
+				"last_reported": 1470404505
 			},
 			{
 				"station_id": "bcycle_heartland_2887",
-				"num_bikes_available": 4,
-				"num_docks_available": 6,
-				"is_installed": 1,
-				"is_renting": 1,
-				"is_returning": 1,
-				"last_reported": 1462827922
-			},
-			{
-				"station_id": "bcycle_heartland_2888",
 				"num_bikes_available": 3,
 				"num_docks_available": 7,
 				"is_installed": 1,
 				"is_renting": 1,
 				"is_returning": 1,
-				"last_reported": 1462827922
+				"last_reported": 1470404505
+			},
+			{
+				"station_id": "bcycle_heartland_2888",
+				"num_bikes_available": 5,
+				"num_docks_available": 5,
+				"is_installed": 1,
+				"is_renting": 1,
+				"is_returning": 1,
+				"last_reported": 1470404505
 			},
 			{
 				"station_id": "bcycle_heartland_2889",
@@ -145,34 +145,34 @@
 				"is_installed": 1,
 				"is_renting": 1,
 				"is_returning": 1,
-				"last_reported": 1462827922
+				"last_reported": 1470404505
 			},
 			{
 				"station_id": "bcycle_heartland_2890",
-				"num_bikes_available": 2,
-				"num_docks_available": 9,
+				"num_bikes_available": 6,
+				"num_docks_available": 5,
 				"is_installed": 1,
 				"is_renting": 1,
 				"is_returning": 1,
-				"last_reported": 1462827922
+				"last_reported": 1470404505
 			},
 			{
 				"station_id": "bcycle_heartland_2891",
-				"num_bikes_available": 2,
-				"num_docks_available": 8,
+				"num_bikes_available": 6,
+				"num_docks_available": 4,
 				"is_installed": 1,
 				"is_renting": 1,
 				"is_returning": 1,
-				"last_reported": 1462827922
+				"last_reported": 1470404505
 			},
 			{
 				"station_id": "bcycle_heartland_2892",
-				"num_bikes_available": 4,
-				"num_docks_available": 5,
+				"num_bikes_available": 2,
+				"num_docks_available": 7,
 				"is_installed": 1,
-				"is_renting": 0,
-				"is_returning": 0,
-				"last_reported": 1462827922
+				"is_renting": 1,
+				"is_returning": 1,
+				"last_reported": 1470404505
 			},
 			{
 				"station_id": "bcycle_heartland_2893",
@@ -181,106 +181,124 @@
 				"is_installed": 1,
 				"is_renting": 1,
 				"is_returning": 1,
-				"last_reported": 1462827922
+				"last_reported": 1470404505
 			},
 			{
 				"station_id": "bcycle_heartland_2894",
-				"num_bikes_available": 5,
-				"num_docks_available": 6,
+				"num_bikes_available": 4,
+				"num_docks_available": 7,
 				"is_installed": 1,
 				"is_renting": 1,
 				"is_returning": 1,
-				"last_reported": 1462827922
+				"last_reported": 1470404505
 			},
 			{
 				"station_id": "bcycle_heartland_2895",
-				"num_bikes_available": 3,
-				"num_docks_available": 7,
-				"is_installed": 1,
-				"is_renting": 0,
-				"is_returning": 0,
-				"last_reported": 1462827922
-			},
-			{
-				"station_id": "bcycle_heartland_2896",
-				"num_bikes_available": 5,
+				"num_bikes_available": 4,
 				"num_docks_available": 6,
 				"is_installed": 1,
 				"is_renting": 1,
 				"is_returning": 1,
-				"last_reported": 1462827922
+				"last_reported": 1470404505
 			},
 			{
-				"station_id": "bcycle_heartland_2897",
+				"station_id": "bcycle_heartland_2896",
 				"num_bikes_available": 6,
 				"num_docks_available": 5,
 				"is_installed": 1,
 				"is_renting": 1,
 				"is_returning": 1,
-				"last_reported": 1462827922
+				"last_reported": 1470404505
+			},
+			{
+				"station_id": "bcycle_heartland_2897",
+				"num_bikes_available": 3,
+				"num_docks_available": 8,
+				"is_installed": 1,
+				"is_renting": 1,
+				"is_returning": 1,
+				"last_reported": 1470404505
 			},
 			{
 				"station_id": "bcycle_heartland_2898",
+				"num_bikes_available": 2,
+				"num_docks_available": 7,
+				"is_installed": 1,
+				"is_renting": 1,
+				"is_returning": 1,
+				"last_reported": 1470404505
+			},
+			{
+				"station_id": "bcycle_heartland_2899",
+				"num_bikes_available": 5,
+				"num_docks_available": 8,
+				"is_installed": 1,
+				"is_renting": 1,
+				"is_returning": 1,
+				"last_reported": 1470404505
+			},
+			{
+				"station_id": "bcycle_heartland_2900",
+				"num_bikes_available": 5,
+				"num_docks_available": 6,
+				"is_installed": 1,
+				"is_renting": 1,
+				"is_returning": 1,
+				"last_reported": 1470404505
+			},
+			{
+				"station_id": "bcycle_heartland_2901",
+				"num_bikes_available": 11,
+				"num_docks_available": 0,
+				"is_installed": 1,
+				"is_renting": 1,
+				"is_returning": 1,
+				"last_reported": 1470404505
+			},
+			{
+				"station_id": "bcycle_heartland_2902",
+				"num_bikes_available": 3,
+				"num_docks_available": 8,
+				"is_installed": 1,
+				"is_renting": 1,
+				"is_returning": 1,
+				"last_reported": 1470404505
+			},
+			{
+				"station_id": "bcycle_heartland_2903",
+				"num_bikes_available": 2,
+				"num_docks_available": 9,
+				"is_installed": 1,
+				"is_renting": 1,
+				"is_returning": 1,
+				"last_reported": 1470404505
+			},
+			{
+				"station_id": "bcycle_heartland_2904",
 				"num_bikes_available": 1,
 				"num_docks_available": 8,
 				"is_installed": 1,
 				"is_renting": 1,
 				"is_returning": 1,
-				"last_reported": 1462827922
+				"last_reported": 1470404505
 			},
 			{
-				"station_id": "bcycle_heartland_2899",
-				"num_bikes_available": 9,
+				"station_id": "bcycle_heartland_3402",
+				"num_bikes_available": 6,
 				"num_docks_available": 4,
 				"is_installed": 1,
 				"is_renting": 1,
 				"is_returning": 1,
-				"last_reported": 1462827922
+				"last_reported": 1470404505
 			},
 			{
-				"station_id": "bcycle_heartland_2900",
-				"num_bikes_available": 1,
-				"num_docks_available": 10,
+				"station_id": "bcycle_heartland_3403",
+				"num_bikes_available": 4,
+				"num_docks_available": 7,
 				"is_installed": 1,
 				"is_renting": 1,
 				"is_returning": 1,
-				"last_reported": 1462827922
-			},
-			{
-				"station_id": "bcycle_heartland_2901",
-				"num_bikes_available": 6,
-				"num_docks_available": 5,
-				"is_installed": 1,
-				"is_renting": 1,
-				"is_returning": 1,
-				"last_reported": 1462827922
-			},
-			{
-				"station_id": "bcycle_heartland_2902",
-				"num_bikes_available": 6,
-				"num_docks_available": 5,
-				"is_installed": 1,
-				"is_renting": 1,
-				"is_returning": 1,
-				"last_reported": 1462827922
-			},
-			{
-				"station_id": "bcycle_heartland_2903",
-				"num_bikes_available": 0,
-				"num_docks_available": 11,
-				"is_installed": 1,
-				"is_renting": 1,
-				"is_returning": 1,
-				"last_reported": 1462827922
-			},
-			{
-				"station_id": "bcycle_heartland_2904",
-				"num_bikes_available": 5,
-				"num_docks_available": 5,
-				"is_installed": 1,
-				"is_renting": 1,
-				"is_returning": 1,
-				"last_reported": 1462827922
+				"last_reported": 1470404505
 			}
 		]
 	}

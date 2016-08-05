@@ -13,8 +13,8 @@
 					"KEY",
 					"CREDITCARD"
 				],
-				"capacity": 18,
-				"eightd_has_key_dispenser": false
+				"capacity": 21,
+				"eightd_has_key_dispenser": true
 			},
 			"geometry": {
 				"type": "Point",
@@ -36,7 +36,7 @@
 					"KEY",
 					"CREDITCARD"
 				],
-				"capacity": 16,
+				"capacity": 17,
 				"eightd_has_key_dispenser": true
 			},
 			"geometry": {
@@ -82,7 +82,7 @@
 					"KEY",
 					"CREDITCARD"
 				],
-				"capacity": 13,
+				"capacity": 15,
 				"eightd_has_key_dispenser": true
 			},
 			"geometry": {
@@ -128,7 +128,7 @@
 					"KEY",
 					"CREDITCARD"
 				],
-				"capacity": 22,
+				"capacity": 20,
 				"eightd_has_key_dispenser": true
 			},
 			"geometry": {
@@ -151,7 +151,7 @@
 					"KEY",
 					"CREDITCARD"
 				],
-				"capacity": 16,
+				"capacity": 20,
 				"eightd_has_key_dispenser": true
 			},
 			"geometry": {
@@ -174,7 +174,7 @@
 					"KEY",
 					"CREDITCARD"
 				],
-				"capacity": 19,
+				"capacity": 20,
 				"eightd_has_key_dispenser": true
 			},
 			"geometry": {
@@ -197,7 +197,7 @@
 					"KEY",
 					"CREDITCARD"
 				],
-				"capacity": 18,
+				"capacity": 17,
 				"eightd_has_key_dispenser": true
 			},
 			"geometry": {
@@ -220,7 +220,7 @@
 					"KEY",
 					"CREDITCARD"
 				],
-				"capacity": 16,
+				"capacity": 17,
 				"eightd_has_key_dispenser": true
 			},
 			"geometry": {
@@ -313,7 +313,7 @@
 					"CREDITCARD"
 				],
 				"capacity": 16,
-				"eightd_has_key_dispenser": true
+				"eightd_has_key_dispenser": false
 			},
 			"geometry": {
 				"type": "Point",
@@ -358,7 +358,7 @@
 					"KEY",
 					"CREDITCARD"
 				],
-				"capacity": 26,
+				"capacity": 27,
 				"eightd_has_key_dispenser": true
 			},
 			"geometry": {
@@ -404,7 +404,7 @@
 					"KEY",
 					"CREDITCARD"
 				],
-				"capacity": 13,
+				"capacity": 14,
 				"eightd_has_key_dispenser": true
 			},
 			"geometry": {
@@ -496,7 +496,7 @@
 					"KEY",
 					"CREDITCARD"
 				],
-				"capacity": 13,
+				"capacity": 16,
 				"eightd_has_key_dispenser": true
 			},
 			"geometry": {
@@ -519,7 +519,7 @@
 					"KEY",
 					"CREDITCARD"
 				],
-				"capacity": 16,
+				"capacity": 18,
 				"eightd_has_key_dispenser": true
 			},
 			"geometry": {
@@ -542,8 +542,8 @@
 					"KEY",
 					"CREDITCARD"
 				],
-				"capacity": 14,
-				"eightd_has_key_dispenser": true
+				"capacity": 19,
+				"eightd_has_key_dispenser": false
 			},
 			"geometry": {
 				"type": "Point",
@@ -657,7 +657,7 @@
 					"KEY",
 					"CREDITCARD"
 				],
-				"capacity": 13,
+				"capacity": 20,
 				"eightd_has_key_dispenser": true
 			},
 			"geometry": {
@@ -703,7 +703,7 @@
 					"KEY",
 					"CREDITCARD"
 				],
-				"capacity": 17,
+				"capacity": 18,
 				"eightd_has_key_dispenser": true
 			},
 			"geometry": {
@@ -750,7 +750,7 @@
 					"CREDITCARD"
 				],
 				"capacity": 20,
-				"eightd_has_key_dispenser": false
+				"eightd_has_key_dispenser": true
 			},
 			"geometry": {
 				"type": "Point",
@@ -786,29 +786,6 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"station_id": "36",
-				"name": "Dexter Ave & Denny Way",
-				"short_name": "SLU-18",
-				"lat": 47.618285,
-				"lon": -122.342205,
-				"rental_methods": [
-					"KEY",
-					"CREDITCARD"
-				],
-				"capacity": 16,
-				"eightd_has_key_dispenser": false
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-122.342205,
-					47.618285
-				]
-			}
-		},
-		{
-			"type": "Feature",
-			"properties": {
 				"station_id": "37",
 				"name": "Key Arena / 1st Ave N & Harrison St",
 				"short_name": "SLU-19",
@@ -818,7 +795,7 @@
 					"KEY",
 					"CREDITCARD"
 				],
-				"capacity": 16,
+				"capacity": 18,
 				"eightd_has_key_dispenser": true
 			},
 			"geometry": {
@@ -841,7 +818,7 @@
 					"KEY",
 					"CREDITCARD"
 				],
-				"capacity": 17,
+				"capacity": 19,
 				"eightd_has_key_dispenser": true
 			},
 			"geometry": {
@@ -864,7 +841,7 @@
 					"KEY",
 					"CREDITCARD"
 				],
-				"capacity": 11,
+				"capacity": 18,
 				"eightd_has_key_dispenser": true
 			},
 			"geometry": {
@@ -933,8 +910,8 @@
 					"KEY",
 					"CREDITCARD"
 				],
-				"capacity": 14,
-				"eightd_has_key_dispenser": true
+				"capacity": 15,
+				"eightd_has_key_dispenser": false
 			},
 			"geometry": {
 				"type": "Point",
@@ -956,7 +933,7 @@
 					"KEY",
 					"CREDITCARD"
 				],
-				"capacity": 16,
+				"capacity": 17,
 				"eightd_has_key_dispenser": true
 			},
 			"geometry": {
@@ -979,7 +956,7 @@
 					"KEY",
 					"CREDITCARD"
 				],
-				"capacity": 8,
+				"capacity": 14,
 				"eightd_has_key_dispenser": true
 			},
 			"geometry": {
@@ -1002,7 +979,7 @@
 					"KEY",
 					"CREDITCARD"
 				],
-				"capacity": 12,
+				"capacity": 14,
 				"eightd_has_key_dispenser": true
 			},
 			"geometry": {
@@ -1048,7 +1025,7 @@
 					"KEY",
 					"CREDITCARD"
 				],
-				"capacity": 24,
+				"capacity": 25,
 				"eightd_has_key_dispenser": true
 			},
 			"geometry": {
@@ -1071,7 +1048,7 @@
 					"KEY",
 					"CREDITCARD"
 				],
-				"capacity": 18,
+				"capacity": 19,
 				"eightd_has_key_dispenser": true
 			},
 			"geometry": {
@@ -1117,7 +1094,7 @@
 					"KEY",
 					"CREDITCARD"
 				],
-				"capacity": 15,
+				"capacity": 16,
 				"eightd_has_key_dispenser": true
 			},
 			"geometry": {
@@ -1141,7 +1118,7 @@
 					"CREDITCARD"
 				],
 				"capacity": 20,
-				"eightd_has_key_dispenser": true
+				"eightd_has_key_dispenser": false
 			},
 			"geometry": {
 				"type": "Point",
@@ -1163,7 +1140,7 @@
 					"KEY",
 					"CREDITCARD"
 				],
-				"capacity": 17,
+				"capacity": 19,
 				"eightd_has_key_dispenser": true
 			},
 			"geometry": {
@@ -1186,7 +1163,7 @@
 					"KEY",
 					"CREDITCARD"
 				],
-				"capacity": 20,
+				"capacity": 21,
 				"eightd_has_key_dispenser": true
 			},
 			"geometry": {
@@ -1209,7 +1186,7 @@
 					"KEY",
 					"CREDITCARD"
 				],
-				"capacity": 26,
+				"capacity": 16,
 				"eightd_has_key_dispenser": true
 			},
 			"geometry": {
@@ -1240,6 +1217,29 @@
 				"coordinates": [
 					-122.32077687978745,
 					47.61863956301253
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "68",
+				"name": "Thomas St & 5th Ave N",
+				"short_name": "SLU-22",
+				"lat": 47.62087852950126,
+				"lon": -122.34737692415365,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 21,
+				"eightd_has_key_dispenser": true
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-122.34737692415365,
+					47.62087852950126
 				]
 			}
 		}

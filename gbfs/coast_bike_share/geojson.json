@@ -56,32 +56,6 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"station_id": "hub_254",
-				"name": "14th St and 9th Ave",
-				"region_id": "region_102",
-				"lon": -82.4441223606433,
-				"lat": 27.9619092476164,
-				"address": "2001-2099 Avenida Republica De Cuba, Tampa",
-				"rental_methods": [
-					"KEY",
-					"APPLEPAY",
-					"ANDROIDPAY",
-					"TRANSITCARD",
-					"ACCOUNTNUMBER",
-					"PHONE"
-				]
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-82.4441223606433,
-					27.9619092476164
-				]
-			}
-		},
-		{
-			"type": "Feature",
-			"properties": {
 				"station_id": "hub_255",
 				"name": "9th Ave and 16th St",
 				"region_id": "region_102",
@@ -633,7 +607,7 @@
 				"region_id": "region_102",
 				"lon": -82.4485652057228,
 				"lat": 27.9514051371272,
-				"address": "",
+				"address": "1201-1273 East Madison Street, Tampa",
 				"rental_methods": [
 					"KEY",
 					"APPLEPAY",
@@ -778,6 +752,110 @@
 				"coordinates": [
 					-82.46007442474365,
 					27.951297883048035
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_1508",
+				"name": "Cass St and Rome Ave",
+				"region_id": "region_102",
+				"lon": -82.47639834880829,
+				"lat": 27.949753075611753,
+				"address": "1516-1530 West Cass Street, Tampa",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-82.47639834880829,
+					27.949753075611753
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_1530",
+				"name": "Platt and Parker",
+				"region_id": "region_102",
+				"lon": -82.4608039855957,
+				"lat": 27.941678017295615,
+				"address": "129-199 West Platt Street, Tampa",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-82.4608039855957,
+					27.941678017295615
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_1531",
+				"name": "Platt and Rome",
+				"region_id": "region_102",
+				"lon": -82.47638761997223,
+				"lat": 27.941768059477553,
+				"address": "1600-1698 West Platt Street, Tampa",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-82.47638761997223,
+					27.941768059477553
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_1532",
+				"name": "Platt and Moody",
+				"region_id": "region_102",
+				"lon": -82.48368591070175,
+				"lat": 27.941817819605127,
+				"address": "2352-2398 West Platt Street, Tampa",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-82.48368591070175,
+					27.941817819605127
 				]
 			}
 		}

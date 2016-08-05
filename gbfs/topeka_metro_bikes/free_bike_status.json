@@ -1,69 +1,77 @@
 {
-	"last_updated": 1462827932,
+	"last_updated": 1470404524,
 	"ttl": 60,
 	"data": {
 		"bikes": [
 			{
-				"bike_id": "bike_5453",
-				"name": "157",
-				"lon": -95.69594166666667,
-				"lat": 39.040103333333334,
+				"bike_id": "bike_5422",
+				"name": "125",
+				"lon": -95.68728,
+				"lat": 39.030015,
 				"is_reserved": 0,
 				"is_disabled": 0
 			},
 			{
 				"bike_id": "bike_5439",
 				"name": "143",
-				"lon": -95.69597,
-				"lat": 39.04058,
+				"lon": -95.704565,
+				"lat": 39.03151833333333,
 				"is_reserved": 0,
 				"is_disabled": 0
 			},
 			{
-				"bike_id": "bike_5412",
-				"name": "115",
-				"lon": -95.67396,
-				"lat": 39.05065166666667,
+				"bike_id": "bike_5482",
+				"name": "186",
+				"lon": -95.68728,
+				"lat": 39.030028333333334,
 				"is_reserved": 0,
 				"is_disabled": 0
 			},
 			{
-				"bike_id": "bike_787",
-				"name": "084 TMB wood",
-				"lon": -95.69582166666666,
-				"lat": 39.040396666666666,
+				"bike_id": "bike_4157",
+				"name": "044 TMB",
+				"lon": -95.68729,
+				"lat": 39.030005,
 				"is_reserved": 0,
 				"is_disabled": 0
 			},
 			{
-				"bike_id": "bike_5433",
-				"name": "136",
-				"lon": -95.69946333333333,
-				"lat": 39.03579333333333,
+				"bike_id": "bike_5423",
+				"name": "020 TMB",
+				"lon": -95.673885,
+				"lat": 39.050675,
 				"is_reserved": 0,
 				"is_disabled": 0
 			},
 			{
-				"bike_id": "bike_5467",
-				"name": "171",
-				"lon": -95.70357,
-				"lat": 39.04273333333333,
+				"bike_id": "bike_2593",
+				"name": "050 TMB keys",
+				"lon": -95.67467666666667,
+				"lat": 39.05448333333333,
 				"is_reserved": 0,
 				"is_disabled": 0
 			},
 			{
-				"bike_id": "bike_5460",
-				"name": "164",
-				"lon": -95.76021833333333,
-				"lat": 39.02875,
+				"bike_id": "bike_5475",
+				"name": "179",
+				"lon": -95.72942166666667,
+				"lat": 39.05830666666667,
 				"is_reserved": 0,
 				"is_disabled": 0
 			},
 			{
-				"bike_id": "bike_5408",
-				"name": "111",
-				"lon": -95.68921,
-				"lat": 39.02959833333333,
+				"bike_id": "bike_5464",
+				"name": "168",
+				"lon": -95.687325,
+				"lat": 39.02999666666667,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_5455",
+				"name": "159",
+				"lon": -95.684515,
+				"lat": 39.03486,
 				"is_reserved": 0,
 				"is_disabled": 0
 			}

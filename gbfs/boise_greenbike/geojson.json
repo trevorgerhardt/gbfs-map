@@ -249,7 +249,7 @@
 				"region_id": "region_159",
 				"lon": -116.19784891605379,
 				"lat": 43.61093115980109,
-				"address": "",
+				"address": "200 West Front Street, Boise",
 				"rental_methods": [
 					"KEY",
 					"APPLEPAY",
@@ -274,9 +274,9 @@
 				"station_id": "hub_697",
 				"name": "U of I - Boise",
 				"region_id": "region_159",
-				"lon": -116.194526921547,
-				"lat": 43.6092904435191,
-				"address": "252 East Front Street, Boise",
+				"lon": -116.19416892528533,
+				"lat": 43.60913669974712,
+				"address": "322 East Front Street, Boise",
 				"rental_methods": [
 					"KEY",
 					"APPLEPAY",
@@ -290,8 +290,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-116.194526921547,
-					43.6092904435191
+					-116.19416892528533,
+					43.60913669974712
 				]
 			}
 		},
@@ -352,7 +352,7 @@
 			"type": "Feature",
 			"properties": {
 				"station_id": "hub_700",
-				"name": "6th & Broad",
+				"name": "BodyBuilding.com 6th & Broad",
 				"region_id": "region_159",
 				"lon": -116.203501910451,
 				"lat": 43.6122921157811,
@@ -664,7 +664,7 @@
 			"type": "Feature",
 			"properties": {
 				"station_id": "hub_1360",
-				"name": "Treefort - BoDo Hub",
+				"name": "BoDo Hub",
 				"region_id": "region_159",
 				"lon": -116.206716299057,
 				"lat": 43.613708194816596,
@@ -762,6 +762,214 @@
 				"coordinates": [
 					-116.2048789858818,
 					43.61615692838946
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_1676",
+				"name": "Dutch Bros",
+				"region_id": "region_159",
+				"lon": -116.20875477790831,
+				"lat": 43.622667627827774,
+				"address": "464-498 North 15th Street, Boise",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-116.20875477790831,
+					43.622667627827774
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_1677",
+				"name": "Hyde Park",
+				"region_id": "region_159",
+				"lon": -116.20344400405884,
+				"lat": 43.62930381539501,
+				"address": "Alturas Street, Boise City, Idaho",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-116.20344400405884,
+					43.62930381539501
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_1678",
+				"name": "Payette Brewing",
+				"region_id": "region_159",
+				"lon": -116.21534764766692,
+				"lat": 43.61352176720437,
+				"address": "733 South Pioneer Street, Boise",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-116.21534764766692,
+					43.61352176720437
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_1679",
+				"name": "Telaya Winery",
+				"region_id": "region_159",
+				"lon": -116.23483657836914,
+				"lat": 43.62283460935435,
+				"address": "299 East 32nd Street, Garden City",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-116.23483657836914,
+					43.62283460935435
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_1680",
+				"name": "Highlands Hollow",
+				"region_id": "region_159",
+				"lon": -116.20852947235107,
+				"lat": 43.64245753282772,
+				"address": "2493-2551 North Harrison Hollow Lane, Boise",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-116.20852947235107,
+					43.64245753282772
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_1681",
+				"name": "Fort Boise Community Center",
+				"region_id": "region_159",
+				"lon": -116.19089126586914,
+				"lat": 43.61613750910408,
+				"address": "178-298 Fort Place, Boise",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-116.19089126586914,
+					43.61613750910408
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_1694",
+				"name": "Idaho Botanical Garden",
+				"region_id": "region_159",
+				"lon": -116.16201460361481,
+				"lat": 43.60114642030288,
+				"address": "2399 Goodman Street, Boise",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-116.16201460361481,
+					43.60114642030288
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_1791",
+				"name": "VA Center",
+				"region_id": "region_159",
+				"lon": -116.19264006614684,
+				"lat": 43.62173951275029,
+				"address": "North Va Hospital Loop, Boise",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-116.19264006614684,
+					43.62173951275029
 				]
 			}
 		}

@@ -4,11 +4,11 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"station_id": "bcycle_heartland_1916",
-				"name": "62nd & Dodge",
-				"lat": 41.25832,
 				"lon": -96.00853,
-				"address": "6200 Dodge Street"
+				"lat": 41.25832,
+				"address": "6200 Dodge Street",
+				"name": "62nd & Dodge",
+				"station_id": "bcycle_heartland_1916"
 			},
 			"geometry": {
 				"type": "Point",
@@ -21,11 +21,11 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"station_id": "bcycle_heartland_1917",
-				"name": "67th & Pine",
-				"lat": 41.24497,
 				"lon": -96.01573,
-				"address": "1625 S 67th St"
+				"lat": 41.24497,
+				"address": "1625 S 67th St",
+				"name": "67th & Pine",
+				"station_id": "bcycle_heartland_1917"
 			},
 			"geometry": {
 				"type": "Point",
@@ -38,11 +38,11 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"station_id": "bcycle_heartland_1918",
-				"name": "66th & Center",
-				"lat": 41.23805,
 				"lon": -96.0135,
-				"address": "6600 Center Street"
+				"lat": 41.23805,
+				"address": "6600 Center Street",
+				"name": "66th & Center",
+				"station_id": "bcycle_heartland_1918"
 			},
 			"geometry": {
 				"type": "Point",
@@ -55,11 +55,11 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"station_id": "bcycle_heartland_1919",
-				"name": "67th & Frances",
-				"lat": 41.24009,
 				"lon": -96.01512,
-				"address": "2110 South 67th Street"
+				"lat": 41.24009,
+				"address": "2110 South 67th Street",
+				"name": "67th & Frances",
+				"station_id": "bcycle_heartland_1919"
 			},
 			"geometry": {
 				"type": "Point",
@@ -72,11 +72,11 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"station_id": "bcycle_heartland_1920",
-				"name": "Aksarben Drive",
-				"lat": 41.24112,
 				"lon": -96.01792,
-				"address": "Aksarben Drive"
+				"lat": 41.24112,
+				"address": "Aksarben Drive",
+				"name": "Aksarben Drive",
+				"station_id": "bcycle_heartland_1920"
 			},
 			"geometry": {
 				"type": "Point",
@@ -89,11 +89,11 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"station_id": "bcycle_heartland_2430",
-				"name": "Bob Kerrey Pedestrian Bridge",
-				"lat": 41.26568,
 				"lon": -95.92402,
-				"address": "Bob Kerrey Pedestrian Bridge"
+				"lat": 41.26568,
+				"address": "Bob Kerrey Pedestrian Bridge",
+				"name": "Bob Kerrey Pedestrian Bridge",
+				"station_id": "bcycle_heartland_2430"
 			},
 			"geometry": {
 				"type": "Point",
@@ -106,11 +106,11 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"station_id": "bcycle_heartland_2431",
-				"name": "13th & Howard",
-				"lat": 41.25575,
 				"lon": -95.93341,
-				"address": "472 S. 13th St."
+				"lat": 41.25575,
+				"address": "472 S. 13th St.",
+				"name": "13th & Howard",
+				"station_id": "bcycle_heartland_2431"
 			},
 			"geometry": {
 				"type": "Point",
@@ -123,11 +123,11 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"station_id": "bcycle_heartland_2432",
-				"name": "1819 Farnam",
-				"lat": 41.25749,
 				"lon": -95.94036,
-				"address": "1819 Farham St."
+				"lat": 41.25749,
+				"address": "1819 Farham St.",
+				"name": "1819 Farnam",
+				"station_id": "bcycle_heartland_2432"
 			},
 			"geometry": {
 				"type": "Point",
@@ -140,11 +140,11 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"station_id": "bcycle_heartland_2652",
-				"name": "11th & Jackson",
-				"lat": 41.25431,
 				"lon": -95.93036,
-				"address": "1085 Jackson St."
+				"lat": 41.25431,
+				"address": "1085 Jackson St.",
+				"name": "11th & Jackson",
+				"station_id": "bcycle_heartland_2652"
 			},
 			"geometry": {
 				"type": "Point",
@@ -157,11 +157,11 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"station_id": "bcycle_heartland_2653",
-				"name": "14th & Fahey",
-				"lat": 41.26636,
 				"lon": -95.93434,
-				"address": "785 N. 14th St."
+				"lat": 41.26636,
+				"address": "785 N. 14th St.",
+				"name": "14th & Fahey",
+				"station_id": "bcycle_heartland_2653"
 			},
 			"geometry": {
 				"type": "Point",
@@ -174,11 +174,11 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"station_id": "bcycle_heartland_2655",
-				"name": "1516 Cuming St",
-				"lat": 41.26814,
 				"lon": -95.93645,
-				"address": "1516 Cuming St."
+				"lat": 41.26814,
+				"address": "1516 Cuming St.",
+				"name": "1516 Cuming St",
+				"station_id": "bcycle_heartland_2655"
 			},
 			"geometry": {
 				"type": "Point",
@@ -191,11 +191,11 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"station_id": "bcycle_heartland_2881",
-				"name": "Tom Hanafan River's Edge Park ",
-				"lat": 41.26321,
 				"lon": -95.91758,
-				"address": "4398 Ave B"
+				"lat": 41.26321,
+				"address": "4398 Ave B",
+				"name": "Tom Hanafan River's Edge Park ",
+				"station_id": "bcycle_heartland_2881"
 			},
 			"geometry": {
 				"type": "Point",
@@ -208,11 +208,11 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"station_id": "bcycle_heartland_2882",
-				"name": "Ameristar",
-				"lat": 41.24346,
 				"lon": -95.90946,
-				"address": "2200 River Road"
+				"lat": 41.24346,
+				"address": "2200 River Road",
+				"name": "Ameristar",
+				"station_id": "bcycle_heartland_2882"
 			},
 			"geometry": {
 				"type": "Point",
@@ -225,11 +225,11 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"station_id": "bcycle_heartland_2887",
-				"name": "1st & Broadway",
-				"lat": 41.26309,
 				"lon": -95.84385,
-				"address": "103 W Broadway"
+				"lat": 41.26309,
+				"address": "103 W Broadway",
+				"name": "1st & Broadway",
+				"station_id": "bcycle_heartland_2887"
 			},
 			"geometry": {
 				"type": "Point",
@@ -242,11 +242,11 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"station_id": "bcycle_heartland_2888",
-				"name": "Broadway & Main",
-				"lat": 41.26096,
 				"lon": -95.84948,
-				"address": "300 W Broadway"
+				"lat": 41.26096,
+				"address": "300 W Broadway",
+				"name": "Broadway & Main",
+				"station_id": "bcycle_heartland_2888"
 			},
 			"geometry": {
 				"type": "Point",
@@ -259,11 +259,11 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"station_id": "bcycle_heartland_2889",
-				"name": "711 S Main St",
-				"lat": 41.25466,
 				"lon": -95.8514,
-				"address": "711 S Main St"
+				"lat": 41.25466,
+				"address": "711 S Main St",
+				"name": "711 S Main St",
+				"station_id": "bcycle_heartland_2889"
 			},
 			"geometry": {
 				"type": "Point",
@@ -276,11 +276,11 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"station_id": "bcycle_heartland_2890",
-				"name": "Pearl St & Willow Ave",
-				"lat": 41.25832,
 				"lon": -95.85088,
-				"address": "209 Pearl St"
+				"lat": 41.25832,
+				"address": "209 Pearl St",
+				"name": "Pearl St & Willow Ave",
+				"station_id": "bcycle_heartland_2890"
 			},
 			"geometry": {
 				"type": "Point",
@@ -293,11 +293,11 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"station_id": "bcycle_heartland_2891",
-				"name": "50th & Underwood",
-				"lat": 41.26522,
 				"lon": -95.99057,
-				"address": "5002 Underwood Ave"
+				"lat": 41.26522,
+				"address": "5002 Underwood Ave",
+				"name": "50th & Underwood",
+				"station_id": "bcycle_heartland_2891"
 			},
 			"geometry": {
 				"type": "Point",
@@ -310,11 +310,11 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"station_id": "bcycle_heartland_2892",
-				"name": "20th & Dodge",
-				"lat": 41.2596,
 				"lon": -95.94211,
-				"address": "1999 Dodge Street"
+				"lat": 41.2596,
+				"address": "1999 Dodge Street",
+				"name": "20th & Dodge",
+				"station_id": "bcycle_heartland_2892"
 			},
 			"geometry": {
 				"type": "Point",
@@ -327,11 +327,11 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"station_id": "bcycle_heartland_2893",
-				"name": "15th & Howard",
-				"lat": 41.25553,
 				"lon": -95.93624,
-				"address": "424 S 15 ST"
+				"lat": 41.25553,
+				"address": "424 S 15 ST",
+				"name": "15th & Howard",
+				"station_id": "bcycle_heartland_2893"
 			},
 			"geometry": {
 				"type": "Point",
@@ -344,11 +344,11 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"station_id": "bcycle_heartland_2894",
-				"name": "16th & Douglas",
-				"lat": 41.25885,
 				"lon": -95.93703,
-				"address": "1516 Douglas Street"
+				"lat": 41.25885,
+				"address": "1516 Douglas Street",
+				"name": "16th & Douglas",
+				"station_id": "bcycle_heartland_2894"
 			},
 			"geometry": {
 				"type": "Point",
@@ -361,11 +361,11 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"station_id": "bcycle_heartland_2895",
-				"name": "9th & Jones",
-				"lat": 41.25345,
 				"lon": -95.92824,
-				"address": "855 Jones St"
+				"lat": 41.25345,
+				"address": "855 Jones St",
+				"name": "9th & Jones",
+				"station_id": "bcycle_heartland_2895"
 			},
 			"geometry": {
 				"type": "Point",
@@ -378,11 +378,11 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"station_id": "bcycle_heartland_2896",
-				"name": "10th & Dodge",
-				"lat": 41.25982,
 				"lon": -95.9286,
-				"address": "920 Dodge Street"
+				"lat": 41.25982,
+				"address": "920 Dodge Street",
+				"name": "10th & Dodge",
+				"station_id": "bcycle_heartland_2896"
 			},
 			"geometry": {
 				"type": "Point",
@@ -395,11 +395,11 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"station_id": "bcycle_heartland_2897",
-				"name": "Midtown Crossing: 32nd & Farnam",
-				"lat": 41.25784,
 				"lon": -95.96009,
-				"address": "3189 Farnam St"
+				"lat": 41.25784,
+				"address": "3189 Farnam St",
+				"name": "Midtown Crossing: 32nd & Farnam",
+				"station_id": "bcycle_heartland_2897"
 			},
 			"geometry": {
 				"type": "Point",
@@ -412,11 +412,11 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"station_id": "bcycle_heartland_2898",
-				"name": "24th & Lake",
-				"lat": 41.28133,
 				"lon": -95.94696,
-				"address": "2425 N 24th St"
+				"lat": 41.28133,
+				"address": "2425 N 24th St",
+				"name": "24th & Lake",
+				"station_id": "bcycle_heartland_2898"
 			},
 			"geometry": {
 				"type": "Point",
@@ -429,11 +429,11 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"station_id": "bcycle_heartland_2899",
-				"name": "10th & Cass",
-				"lat": 41.26398,
 				"lon": -95.92947,
-				"address": "456 N 10th St"
+				"lat": 41.26398,
+				"address": "456 N 10th St",
+				"name": "10th & Cass",
+				"station_id": "bcycle_heartland_2899"
 			},
 			"geometry": {
 				"type": "Point",
@@ -446,11 +446,11 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"station_id": "bcycle_heartland_2900",
-				"name": "14th & Douglas",
-				"lat": 41.25892,
 				"lon": -95.93458,
-				"address": "1400 Douglas Street"
+				"lat": 41.25892,
+				"address": "1400 Douglas Street",
+				"name": "14th & Douglas",
+				"station_id": "bcycle_heartland_2900"
 			},
 			"geometry": {
 				"type": "Point",
@@ -463,11 +463,11 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"station_id": "bcycle_heartland_2901",
-				"name": "10th & Farnam",
-				"lat": 41.25724,
 				"lon": -95.92854,
-				"address": "301 S 10 ST"
+				"lat": 41.25724,
+				"address": "301 S 10 ST",
+				"name": "10th & Farnam",
+				"station_id": "bcycle_heartland_2901"
 			},
 			"geometry": {
 				"type": "Point",
@@ -480,11 +480,11 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"station_id": "bcycle_heartland_2902",
-				"name": "Lewis & Clark Landing",
-				"lat": 41.26193,
 				"lon": -95.92391,
-				"address": "345 Riverfront Drive"
+				"lat": 41.26193,
+				"address": "345 Riverfront Drive",
+				"name": "Lewis & Clark Landing",
+				"station_id": "bcycle_heartland_2902"
 			},
 			"geometry": {
 				"type": "Point",
@@ -497,11 +497,11 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"station_id": "bcycle_heartland_2903",
-				"name": "The Durham Museum",
-				"lat": 41.2515,
 				"lon": -95.92903,
-				"address": "801 S 10th St"
+				"lat": 41.2515,
+				"address": "801 S 10th St",
+				"name": "The Durham Museum",
+				"station_id": "bcycle_heartland_2903"
 			},
 			"geometry": {
 				"type": "Point",
@@ -514,17 +514,51 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"station_id": "bcycle_heartland_2904",
-				"name": "7th & Jones",
-				"lat": 41.25352,
 				"lon": -95.9244,
-				"address": "666 Jones St"
+				"lat": 41.25352,
+				"address": "666 Jones St",
+				"name": "7th & Jones",
+				"station_id": "bcycle_heartland_2904"
 			},
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
 					-95.9244,
 					41.25352
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"lon": -95.93572,
+				"lat": 41.25789,
+				"address": "215 S 15th Street",
+				"name": "15th & Farnam",
+				"station_id": "bcycle_heartland_3402"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-95.93572,
+					41.25789
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"lon": -96.0221,
+				"lat": 41.24011,
+				"address": "7000 Mercy Road",
+				"name": "College of Saint Mary",
+				"station_id": "bcycle_heartland_3403"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-96.0221,
+					41.24011
 				]
 			}
 		}

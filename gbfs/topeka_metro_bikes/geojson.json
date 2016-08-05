@@ -734,32 +734,6 @@
 		{
 			"type": "Feature",
 			"properties": {
-				"station_id": "hub_714",
-				"name": "KS Corp Commission",
-				"region_id": "region_120",
-				"lon": -95.7560843038403,
-				"lat": 39.0406355561727,
-				"address": "1500 Southwest Arrowhead Road, Topeka",
-				"rental_methods": [
-					"KEY",
-					"APPLEPAY",
-					"ANDROIDPAY",
-					"TRANSITCARD",
-					"ACCOUNTNUMBER",
-					"PHONE"
-				]
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-95.7560843038403,
-					39.0406355561727
-				]
-			}
-		},
-		{
-			"type": "Feature",
-			"properties": {
 				"station_id": "hub_735",
 				"name": "Lake Shawnee - Marina West",
 				"region_id": "region_120",
@@ -1261,7 +1235,7 @@
 				"region_id": "region_120",
 				"lon": -95.7236558885051,
 				"lat": 39.0259068294422,
-				"address": "",
+				"address": "2200 Southwest Gage Boulevard, Topeka",
 				"rental_methods": [
 					"KEY",
 					"APPLEPAY",
@@ -2037,7 +2011,7 @@
 			"type": "Feature",
 			"properties": {
 				"station_id": "hub_901",
-				"name": "Valeo entrance wave rack",
+				"name": "Stormont-Vail - Wave rack near entrance",
 				"region_id": "region_120",
 				"lon": -95.72314873337746,
 				"lat": 39.05807736415895,
@@ -2784,6 +2758,318 @@
 				"coordinates": [
 					-95.6732127070427,
 					39.05160594524673
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_1447",
+				"name": "Downtown - City of Topeka - Holliday Building",
+				"region_id": "region_120",
+				"lon": -95.66882193088531,
+				"lat": 39.04947714152772,
+				"address": "600 Southeast Madison Street, Topeka",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-95.66882193088531,
+					39.04947714152772
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_1465",
+				"name": "First Congregational Church",
+				"region_id": "region_120",
+				"lon": -95.71361348032951,
+				"lat": 39.03638369282106,
+				"address": "1701 Southwest Collins Avenue, Topeka",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-95.71361348032951,
+					39.03638369282106
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_1682",
+				"name": "Hanover Pancake House",
+				"region_id": "region_120",
+				"lon": -95.6754121184349,
+				"lat": 39.04465689287201,
+				"address": "1034 South Kansas Avenue, Topeka",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-95.6754121184349,
+					39.04465689287201
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_1702",
+				"name": "Dornwood Spray Park",
+				"region_id": "region_120",
+				"lon": -95.64049243927002,
+				"lat": 39.022207368280306,
+				"address": "2801-3399 Southeast 25th Street, Topeka",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-95.64049243927002,
+					39.022207368280306
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_1706",
+				"name": "Downtown - TPD Station",
+				"region_id": "region_120",
+				"lon": -95.6708550453186,
+				"lat": 39.05470321908514,
+				"address": "100-198 Southeast 4th Street, Topeka",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-95.6708550453186,
+					39.05470321908514
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_1707",
+				"name": "GreatLife - YWCA",
+				"region_id": "region_120",
+				"lon": -95.67912697792052,
+				"lat": 39.04284869444257,
+				"address": "200-298 Southwest 13th Street, Topeka",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-95.67912697792052,
+					39.04284869444257
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_1715",
+				"name": "Bus Shelter at Westridge Mall",
+				"region_id": "region_120",
+				"lon": -95.7657864689827,
+				"lat": 39.035496681508604,
+				"address": "Hidden Valley subdivision, Kansas",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-95.7657864689827,
+					39.035496681508604
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_1720",
+				"name": "HyVee Grocery",
+				"region_id": "region_120",
+				"lon": -95.76346635818481,
+				"lat": 39.012685782906075,
+				"address": "3001 Southwest Wanamaker Road, Topeka",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-95.76346635818481,
+					39.012685782906075
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_1721",
+				"name": "Starbucks",
+				"region_id": "region_120",
+				"lon": -95.76175510883331,
+				"lat": 39.013181795837845,
+				"address": "2940 Southwest Wanamaker Road, Topeka",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-95.76175510883331,
+					39.013181795837845
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_1789",
+				"name": "Fire Station at Shunga and Fairlawn",
+				"region_id": "region_120",
+				"lon": -95.74344635009766,
+				"lat": 39.019196193691144,
+				"address": "5101-5199 Southwest Shunga Drive, Topeka",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-95.74344635009766,
+					39.019196193691144
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_1790",
+				"name": "Fire Station at Western and 21st",
+				"region_id": "region_120",
+				"lon": -95.68664789199829,
+				"lat": 39.029837881514055,
+				"address": "Topeka Fire Department Station 5, 720, Southwest 21st Street, Topeka, Kansas",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-95.68664789199829,
+					39.029837881514055
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_1793",
+				"name": "Midwest Health Aquatic Center",
+				"region_id": "region_120",
+				"lon": -95.78260391950607,
+				"lat": 39.02815848915278,
+				"address": "6801-6989 Southwest 21st Street, Topeka",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-95.78260391950607,
+					39.02815848915278
 				]
 			}
 		}

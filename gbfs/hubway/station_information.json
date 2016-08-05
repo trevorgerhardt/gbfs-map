@@ -1,5 +1,5 @@
 {
-	"last_updated": 1462827900,
+	"last_updated": 1470404510,
 	"ttl": 60,
 	"data": {
 		"stations": [
@@ -168,7 +168,7 @@
 					"KEY",
 					"CREDITCARD"
 				],
-				"capacity": 17,
+				"capacity": 21,
 				"eightd_has_key_dispenser": false
 			},
 			{
@@ -406,7 +406,7 @@
 					"KEY",
 					"CREDITCARD"
 				],
-				"capacity": 19,
+				"capacity": 15,
 				"eightd_has_key_dispenser": true
 			},
 			{
@@ -715,20 +715,6 @@
 					"CREDITCARD"
 				],
 				"capacity": 15,
-				"eightd_has_key_dispenser": false
-			},
-			{
-				"station_id": "57",
-				"name": "Columbus Ave. at Mass. Ave.",
-				"short_name": "C32004",
-				"lat": 42.340799,
-				"lon": -71.081572,
-				"region_id": 10,
-				"rental_methods": [
-					"KEY",
-					"CREDITCARD"
-				],
-				"capacity": 11,
 				"eightd_has_key_dispenser": false
 			},
 			{
@@ -1169,8 +1155,8 @@
 				"station_id": "92",
 				"name": "UMass Boston Integrated Sciences Complex",
 				"short_name": "C32014",
-				"lat": 42.314507,
-				"lon": -71.041269,
+				"lat": 42.3139036,
+				"lon": -71.0405121,
 				"region_id": 10,
 				"rental_methods": [
 					"KEY",
@@ -1432,6 +1418,20 @@
 				"eightd_has_key_dispenser": false
 			},
 			{
+				"station_id": "112",
+				"name": "Somerville Hospital at Highland Ave / Crocker St",
+				"short_name": "S32010",
+				"lat": 42.39082,
+				"lon": -71.10942,
+				"region_id": 9,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 15,
+				"eightd_has_key_dispenser": false
+			},
+			{
 				"station_id": "113",
 				"name": "Andrew Station - Dorchester Ave at Humboldt Pl",
 				"short_name": "C32012",
@@ -1569,20 +1569,6 @@
 					"CREDITCARD"
 				],
 				"capacity": 15,
-				"eightd_has_key_dispenser": false
-			},
-			{
-				"station_id": "123",
-				"name": "JP Center - Centre Street at Myrtle Street",
-				"short_name": "E32002",
-				"lat": 42.313156,
-				"lon": -71.11414,
-				"region_id": 10,
-				"rental_methods": [
-					"KEY",
-					"CREDITCARD"
-				],
-				"capacity": 3,
 				"eightd_has_key_dispenser": false
 			},
 			{
@@ -2058,7 +2044,7 @@
 					"KEY",
 					"CREDITCARD"
 				],
-				"capacity": 13,
+				"capacity": 14,
 				"eightd_has_key_dispenser": true
 			},
 			{
@@ -2170,7 +2156,7 @@
 					"KEY",
 					"CREDITCARD"
 				],
-				"capacity": 13,
+				"capacity": 14,
 				"eightd_has_key_dispenser": true
 			},
 			{
@@ -2242,6 +2228,76 @@
 				],
 				"capacity": 15,
 				"eightd_has_key_dispenser": false
+			},
+			{
+				"station_id": "195",
+				"name": "Brian P. Murphy Staircase at Child Street",
+				"short_name": "M32049",
+				"lat": 42.3720597013741,
+				"lon": -71.07202649116516,
+				"region_id": 8,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 23,
+				"eightd_has_key_dispenser": false
+			},
+			{
+				"station_id": "196",
+				"name": "Roxbury YMCA",
+				"short_name": "B32022",
+				"lat": 42.317963,
+				"lon": -71.082254,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 11,
+				"eightd_has_key_dispenser": true
+			},
+			{
+				"station_id": "197",
+				"name": "MLK Blvd at Washington St",
+				"short_name": "B32023",
+				"lat": 42.321678,
+				"lon": -71.091822,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 15,
+				"eightd_has_key_dispenser": true
+			},
+			{
+				"station_id": "199",
+				"name": "Upham's Corner T Stop",
+				"short_name": "B32025",
+				"lat": 42.318843823601064,
+				"lon": -71.06975734233856,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 15,
+				"eightd_has_key_dispenser": true
+			},
+			{
+				"station_id": "200",
+				"name": "Washington St at Melnea Cass Blvd",
+				"short_name": "B32026",
+				"lat": 42.33282815812448,
+				"lon": -71.08126938343048,
+				"region_id": 10,
+				"rental_methods": [
+					"KEY",
+					"CREDITCARD"
+				],
+				"capacity": 15,
+				"eightd_has_key_dispenser": true
 			}
 		]
 	}

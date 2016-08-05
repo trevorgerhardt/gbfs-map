@@ -1,16 +1,16 @@
 {
-	"last_updated": 1462827866,
+	"last_updated": 1470404479,
 	"ttl": 60,
 	"data": {
 		"en": {
 			"feeds": [
 				{
-					"name": "system_information",
-					"url": "https://gbfs.prontocycleshare.com/gbfs/en/system_information.json"
-				},
-				{
 					"name": "station_status",
 					"url": "https://gbfs.prontocycleshare.com/gbfs/en/station_status.json"
+				},
+				{
+					"name": "system_information",
+					"url": "https://gbfs.prontocycleshare.com/gbfs/en/system_information.json"
 				},
 				{
 					"name": "station_information",

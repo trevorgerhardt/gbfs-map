@@ -1,16 +1,25 @@
 {
-	"last_updated": 1462827934,
+	"last_updated": 1470404522,
 	"ttl": 60,
 	"data": {
 		"plans": [
 			{
-				"plan_id": "payment_plan_83",
-				"name": "Annual Membership",
-				"url": "https://widget.socialbicycles.com/28/83",
+				"plan_id": "payment_plan_104",
+				"name": "UVa Semester (UVa E-Mail Required)",
+				"url": "https://widget.socialbicycles.com/28/104",
 				"currency": "USD",
-				"price": 80,
+				"price": 30,
 				"taxable": 1,
 				"description": ""
+			},
+			{
+				"plan_id": "payment_plan_157",
+				"name": "Hourly Plan",
+				"url": "https://widget.socialbicycles.com/28/157",
+				"currency": "USD",
+				"price": 0,
+				"taxable": 1,
+				"description": "Hourly pay as you go plan with charges prorated to the minute.  Prepay first 60 minutes of use ($3)."
 			},
 			{
 				"plan_id": "payment_plan_82",
@@ -31,22 +40,13 @@
 				"description": ""
 			},
 			{
-				"plan_id": "payment_plan_104",
-				"name": "UVa Semester (UVa E-Mail Required)",
-				"url": "https://widget.socialbicycles.com/28/104",
+				"plan_id": "payment_plan_83",
+				"name": "Annual Membership",
+				"url": "https://widget.socialbicycles.com/28/83",
 				"currency": "USD",
-				"price": 30,
+				"price": 80,
 				"taxable": 1,
 				"description": ""
-			},
-			{
-				"plan_id": "payment_plan_157",
-				"name": "Hourly Plan",
-				"url": "https://widget.socialbicycles.com/28/157",
-				"currency": "USD",
-				"price": 0,
-				"taxable": 1,
-				"description": "Hourly pay as you go plan with charges prorated to the minute.  Prepay first 60 minutes of use ($3)."
 			}
 		]
 	}

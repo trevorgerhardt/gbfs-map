@@ -1,13 +1,9 @@
 {
-	"last_updated": 1462827911,
+	"last_updated": 1470404482,
 	"ttl": 60,
 	"data": {
 		"en": {
 			"feeds": [
-				{
-					"name": "system_pricing_plans",
-					"url": "https://gbfs.capitalbikeshare.com/gbfs/en/system_pricing_plans.json"
-				},
 				{
 					"name": "system_calendar",
 					"url": "https://gbfs.capitalbikeshare.com/gbfs/en/system_calendar.json"

@@ -295,9 +295,9 @@
 				"station_id": "hub_995",
 				"name": "30. Broadway and Lincoln Boulevard",
 				"region_id": "region_192",
-				"lon": -118.48983407020569,
-				"lat": 34.01810882383139,
-				"address": "1500-1516 Lincoln Boulevard, Santa Monica",
+				"lon": -118.48986089229582,
+				"lat": 34.018130499813054,
+				"address": "729 Broadway, Santa Monica",
 				"rental_methods": [
 					"KEY",
 					"APPLEPAY",
@@ -310,8 +310,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-118.48983407020569,
-					34.01810882383139
+					-118.48986089229582,
+					34.018130499813054
 				]
 			}
 		},
@@ -605,11 +605,11 @@
 			"type": "Feature",
 			"properties": {
 				"station_id": "hub_1007",
-				"name": "42.  Main Street and Avenida Mazaltan",
+				"name": "Main Street and Avenida Mazaltan",
 				"region_id": "region_192",
-				"lon": -118.49267184734344,
-				"lat": 34.01187758235655,
-				"address": "1618-1644 Main Street, Santa Monica",
+				"lon": -118.49245190620422,
+				"lat": 34.01181088305177,
+				"address": "Main Street, Santa Monica, California",
 				"rental_methods": [
 					"KEY",
 					"APPLEPAY",
@@ -622,8 +622,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-118.49267184734344,
-					34.01187758235655
+					-118.49245190620422,
+					34.01181088305177
 				]
 			}
 		},
@@ -918,7 +918,7 @@
 			"type": "Feature",
 			"properties": {
 				"station_id": "hub_1019",
-				"name": "48. Stewart Street and Delaware Avenue",
+				"name": "48. Stewart Street and Exposition Blvd",
 				"region_id": "region_192",
 				"lon": -118.46454083919525,
 				"lat": 34.02759514882909,
@@ -996,10 +996,10 @@
 			"type": "Feature",
 			"properties": {
 				"station_id": "hub_1022",
-				"name": "38.  Colorado Avenue and 17th Street",
+				"name": "38.  Colorado Avenue and 17th Street EXPO",
 				"region_id": "region_192",
-				"lon": -118.47988843917847,
-				"lat": 34.02298244564895,
+				"lon": -118.48000645637512,
+				"lat": 34.0230224605439,
 				"address": "1610 Colorado Avenue, Santa Monica",
 				"rental_methods": [
 					"KEY",
@@ -1014,8 +1014,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-118.47988843917847,
-					34.02298244564895
+					-118.48000645637512,
+					34.0230224605439
 				]
 			}
 		},
@@ -1338,9 +1338,9 @@
 				"station_id": "hub_1038",
 				"name": "76.  Airport Avenue and Donald Douglas Loop S.",
 				"region_id": "region_192",
-				"lon": -118.44780385494231,
-				"lat": 34.01547264971394,
-				"address": "3100-3298 Donald Douglas Loop South, Santa Monica",
+				"lon": -118.44757854938507,
+				"lat": 34.015321468788,
+				"address": "3027 Airport Avenue, Santa Monica",
 				"rental_methods": [
 					"KEY",
 					"APPLEPAY",
@@ -1353,8 +1353,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-118.44780385494231,
-					34.01547264971394
+					-118.44757854938507,
+					34.015321468788
 				]
 			}
 		},
@@ -1650,9 +1650,9 @@
 				"station_id": "hub_1054",
 				"name": "16.  11th Street and Wilshire Boulevard",
 				"region_id": "region_192",
-				"lon": -118.49250018596649,
-				"lat": 34.02501873524368,
-				"address": "1134 11th Street, Santa Monica",
+				"lon": -118.49222660064697,
+				"lat": 34.02479643526194,
+				"address": "1144-1178 11th Street, Santa Monica",
 				"rental_methods": [
 					"KEY",
 					"APPLEPAY",
@@ -1665,8 +1665,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-118.49250018596649,
-					34.02501873524368
+					-118.49222660064697,
+					34.02479643526194
 				]
 			}
 		},
@@ -1693,32 +1693,6 @@
 				"coordinates": [
 					-118.50146949291229,
 					34.02177309759534
-				]
-			}
-		},
-		{
-			"type": "Feature",
-			"properties": {
-				"station_id": "hub_1056",
-				"name": "Drop Zone: Venice Boulevard and Abbot Kinney Boulevard",
-				"region_id": "region_192",
-				"lon": -118.46248090267181,
-				"lat": 33.989229835085496,
-				"address": "Lemonade, Abbot Kinney Boulevard, Venice, Los Angeles, California",
-				"rental_methods": [
-					"KEY",
-					"APPLEPAY",
-					"ANDROIDPAY",
-					"TRANSITCARD",
-					"ACCOUNTNUMBER",
-					"PHONE"
-				]
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-118.46248090267181,
-					33.989229835085496
 				]
 			}
 		},
@@ -1771,32 +1745,6 @@
 				"coordinates": [
 					-118.48053216934204,
 					33.99478059250281
-				]
-			}
-		},
-		{
-			"type": "Feature",
-			"properties": {
-				"station_id": "hub_1059",
-				"name": "Drop Zone: Speedway and Windward Avenue",
-				"region_id": "region_192",
-				"lon": -118.47325667738914,
-				"lat": 33.98710261554598,
-				"address": "1-17 Windward Avenue, Los Angeles",
-				"rental_methods": [
-					"KEY",
-					"APPLEPAY",
-					"ANDROIDPAY",
-					"TRANSITCARD",
-					"ACCOUNTNUMBER",
-					"PHONE"
-				]
-			},
-			"geometry": {
-				"type": "Point",
-				"coordinates": [
-					-118.47325667738914,
-					33.98710261554598
 				]
 			}
 		},
@@ -1934,7 +1882,7 @@
 			"type": "Feature",
 			"properties": {
 				"station_id": "hub_1249",
-				"name": "08.5  15th and Montana",
+				"name": "08.5 15th and Montana",
 				"region_id": "region_192",
 				"lon": -118.49445283412932,
 				"lat": 34.033061156916645,
@@ -2038,11 +1986,11 @@
 			"type": "Feature",
 			"properties": {
 				"station_id": "hub_1366",
-				"name": "virtual station 4th and Civic Center",
+				"name": "4th St / Civic Center",
 				"region_id": "region_192",
-				"lon": -118.48893284797667,
-				"lat": 34.011297289306626,
-				"address": "1773 4th Street, Santa Monica",
+				"lon": -118.48841249942778,
+				"lat": 34.0105413448096,
+				"address": "1818-1842 4th Street, Santa Monica",
 				"rental_methods": [
 					"KEY",
 					"APPLEPAY",
@@ -2055,8 +2003,8 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-118.48893284797667,
-					34.011297289306626
+					-118.48841249942778,
+					34.0105413448096
 				]
 			}
 		},
@@ -2116,11 +2064,65 @@
 			"type": "Feature",
 			"properties": {
 				"station_id": "hub_1434",
-				"name": "Bergamot Station",
+				"name": "Bergamot Station EXPO",
 				"region_id": "region_192",
 				"lon": -118.46859365701675,
 				"lat": 34.02829870370975,
 				"address": "2600-2774 Olympic Boulevard, Santa Monica",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE",
+					"CREDITCARD"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-118.46859365701675,
+					34.02829870370975
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_1446",
+				"name": "4th / Colorado EXPO",
+				"region_id": "region_192",
+				"lon": -118.4911496937275,
+				"lat": 34.0131282026081,
+				"address": "1623-1649 4th Street, Santa Monica",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE",
+					"CREDITCARD"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-118.4911496937275,
+					34.0131282026081
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_1507",
+				"name": "4th Court / Colorado EXPO",
+				"region_id": "region_192",
+				"lon": -118.49143266677855,
+				"lat": 34.01429654358215,
+				"address": "1558 5th Street, Santa Monica",
 				"rental_methods": [
 					"KEY",
 					"APPLEPAY",
@@ -2133,8 +2135,34 @@
 			"geometry": {
 				"type": "Point",
 				"coordinates": [
-					-118.46859365701675,
-					34.02829870370975
+					-118.49143266677855,
+					34.01429654358215
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"station_id": "hub_1703",
+				"name": "Summer Concert",
+				"region_id": "region_192",
+				"lon": -118.49691711366177,
+				"lat": 34.01000161843436,
+				"address": "258 Santa Monica Pier, Santa Monica",
+				"rental_methods": [
+					"KEY",
+					"APPLEPAY",
+					"ANDROIDPAY",
+					"TRANSITCARD",
+					"ACCOUNTNUMBER",
+					"PHONE"
+				]
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					-118.49691711366177,
+					34.01000161843436
 				]
 			}
 		}

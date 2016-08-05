@@ -1,20 +1,16 @@
 {
-	"last_updated": 1462827916,
+	"last_updated": 1470404503,
 	"ttl": 10,
 	"data": {
 		"en": {
 			"feeds": [
 				{
-					"name": "system_information",
-					"url": "https://gbfs.citibikenyc.com/gbfs/en/system_information.json"
+					"name": "station_information",
+					"url": "https://gbfs.citibikenyc.com/gbfs/en/station_information.json"
 				},
 				{
 					"name": "system_regions",
 					"url": "https://gbfs.citibikenyc.com/gbfs/en/system_regions.json"
-				},
-				{
-					"name": "station_information",
-					"url": "https://gbfs.citibikenyc.com/gbfs/en/station_information.json"
 				},
 				{
 					"name": "system_alerts",
@@ -23,6 +19,10 @@
 				{
 					"name": "station_status",
 					"url": "https://gbfs.citibikenyc.com/gbfs/en/station_status.json"
+				},
+				{
+					"name": "system_information",
+					"url": "https://gbfs.citibikenyc.com/gbfs/en/system_information.json"
 				}
 			]
 		}

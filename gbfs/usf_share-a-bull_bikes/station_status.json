@@ -1,27 +1,27 @@
 {
-	"last_updated": 1462827934,
+	"last_updated": 1470404520,
 	"ttl": 60,
 	"data": {
 		"stations": [
 			{
 				"station_id": "hub_1097",
-				"num_bikes_available": 1,
+				"num_bikes_available": 0,
 				"num_bikes_disabled": 0,
-				"num_docks_available": 0,
+				"num_docks_available": 1,
 				"is_installed": 1,
 				"is_renting": 1,
 				"is_returning": 1,
-				"last_reported": 1462827934
+				"last_reported": 1470404520
 			},
 			{
 				"station_id": "hub_1104",
 				"num_bikes_available": 0,
 				"num_bikes_disabled": 0,
-				"num_docks_available": 4,
+				"num_docks_available": 3,
 				"is_installed": 1,
 				"is_renting": 1,
 				"is_returning": 1,
-				"last_reported": 1462827934
+				"last_reported": 1470404520
 			},
 			{
 				"station_id": "hub_1112",
@@ -31,7 +31,7 @@
 				"is_installed": 1,
 				"is_renting": 1,
 				"is_returning": 1,
-				"last_reported": 1462827934
+				"last_reported": 1470404520
 			},
 			{
 				"station_id": "hub_1216",
@@ -41,17 +41,17 @@
 				"is_installed": 1,
 				"is_renting": 1,
 				"is_returning": 1,
-				"last_reported": 1462827934
+				"last_reported": 1470404520
 			},
 			{
 				"station_id": "hub_1217",
 				"num_bikes_available": 1,
 				"num_bikes_disabled": 0,
-				"num_docks_available": 12,
+				"num_docks_available": 11,
 				"is_installed": 1,
 				"is_renting": 1,
 				"is_returning": 1,
-				"last_reported": 1462827934
+				"last_reported": 1470404520
 			},
 			{
 				"station_id": "hub_1218",
@@ -61,17 +61,17 @@
 				"is_installed": 1,
 				"is_renting": 1,
 				"is_returning": 1,
-				"last_reported": 1462827934
+				"last_reported": 1470404520
 			},
 			{
 				"station_id": "hub_1219",
-				"num_bikes_available": 0,
+				"num_bikes_available": 1,
 				"num_bikes_disabled": 0,
-				"num_docks_available": 15,
+				"num_docks_available": 14,
 				"is_installed": 1,
 				"is_renting": 1,
 				"is_returning": 1,
-				"last_reported": 1462827934
+				"last_reported": 1470404520
 			},
 			{
 				"station_id": "hub_1220",
@@ -81,7 +81,7 @@
 				"is_installed": 1,
 				"is_renting": 1,
 				"is_returning": 1,
-				"last_reported": 1462827934
+				"last_reported": 1470404520
 			},
 			{
 				"station_id": "hub_1226",
@@ -91,17 +91,27 @@
 				"is_installed": 1,
 				"is_renting": 1,
 				"is_returning": 1,
-				"last_reported": 1462827934
+				"last_reported": 1470404520
 			},
 			{
 				"station_id": "hub_1270",
 				"num_bikes_available": 0,
 				"num_bikes_disabled": 0,
-				"num_docks_available": 85,
+				"num_docks_available": 77,
 				"is_installed": 1,
 				"is_renting": 1,
 				"is_returning": 1,
-				"last_reported": 1462827934
+				"last_reported": 1470404520
+			},
+			{
+				"station_id": "hub_1779",
+				"num_bikes_available": 0,
+				"num_bikes_disabled": 0,
+				"num_docks_available": 7,
+				"is_installed": 1,
+				"is_renting": 1,
+				"is_returning": 1,
+				"last_reported": 1470404520
 			}
 		]
 	}

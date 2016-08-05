@@ -1,10 +1,10 @@
 {
-	"last_updated": 1462827922,
+	"last_updated": 1470404512,
 	"ttl": 60,
 	"data": {
-		"system_id": "breeze_bikeshare",
+		"system_id": "breeze_bike_share",
 		"language": "en",
-		"name": "Breeze Bikeshare",
+		"name": "Breeze Bike Share",
 		"url": "http://santamonicabikeshare.com/",
 		"purchase_url": "http://santamonicabikeshare.com/#memberships",
 		"timezone": "America/Los_Angeles",

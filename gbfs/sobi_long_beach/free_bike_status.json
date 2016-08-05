@@ -1,13 +1,21 @@
 {
-	"last_updated": 1462827931,
+	"last_updated": 1470404522,
 	"ttl": 60,
 	"data": {
 		"bikes": [
 			{
-				"bike_id": "bike_506",
-				"name": "076 LBNY",
-				"lon": -73.65411166666667,
-				"lat": 40.58298666666666,
+				"bike_id": "bike_5953",
+				"name": "149 LBNY",
+				"lon": -73.64605833333333,
+				"lat": 40.58358666666667,
+				"is_reserved": 0,
+				"is_disabled": 0
+			},
+			{
+				"bike_id": "bike_5970",
+				"name": "152 LBNY",
+				"lon": -73.67480333333333,
+				"lat": 40.5901,
 				"is_reserved": 0,
 				"is_disabled": 0
 			}
