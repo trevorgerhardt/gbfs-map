@@ -42,12 +42,12 @@ systemsSelect.onchange = function (event) {
 }
 
 function selectSystem (id) {
-  
   const System = Systems[id]
 
-  systemInfo.innerHTML = Object.keys(System).map((key) => {
-    return `<p><b>${key}:</b> ${System[key]}</p>`
-  }).join('')
+  systemInfo.innerHTML = `
+    <p><strong><a href='${System.url}'>${System.name}</a></strong></p>
+    <small>${System.location}, ${System.country}</small>
+  `
 
   if (System.geojson) {
     map.fitBounds(turfExtent(System.geojson))
@@ -67,7 +67,7 @@ async function run () {
     const System = Systems[id]
     const option = document.createElement('option')
     option.value = id
-    option.appendChild(document.createTextNode(System.name))
+    option.appendChild(document.createTextNode(`${System.location} - ${System.name}`))
     systemsSelect.appendChild(option)
   })
 }
@@ -82,8 +82,8 @@ function getSystems () {
         .map((row) => {
           const quotes = row.split(DBL_QUOTE)
           // FYI: breaks on non-double-quoted location
-          //return [...quotes[0].slice(0, -1).split(','), quotes[1], ...quotes[2].slice(1).split(',')]
-          if (quotes.length == 3) {
+          // return [...quotes[0].slice(0, -1).split(','), quotes[1], ...quotes[2].slice(1).split(',')]
+          if (quotes.length === 3) {
             // handle the case with double-quoted location:
             const first = quotes[0].split(COMMA)
             const last = quotes[2].split(COMMA)

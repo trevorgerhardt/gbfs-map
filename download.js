@@ -18,8 +18,8 @@ function getSystems () {
         .map((row) => {
           const quotes = row.split(DBL_QUOTE)
           // FYI: breaks on non-double-quoted location
-          //return [...quotes[0].slice(0, -1).split(','), quotes[1], ...quotes[2].slice(1).split(',')]
-          if (quotes.length == 3) {
+          // return [...quotes[0].slice(0, -1).split(','), quotes[1], ...quotes[2].slice(1).split(',')]
+          if (quotes.length === 3) {
             // handle the case with double-quoted location:
             const first = quotes[0].split(COMMA)
             const last = quotes[2].split(COMMA)
@@ -56,14 +56,12 @@ function getSystems () {
                   .then((res) => res.json())
                   .then((data) => write(system.id, feed.name, data))
                   .catch((e) => {
-                    console.error(e.stack)
-                    throw e
+                    console.error('FAILED to fetch', feed.name, 'for system', system.name)
                   })
               }))
             })
             .catch((e) => {
-              console.error(e.stack)
-              throw e
+              console.error('FAILED to fetch system', system.name)
             })
         })
     })
